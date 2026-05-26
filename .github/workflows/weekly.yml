@@ -1,0 +1,65 @@
+name: Monday Large Load Research
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+    inputs:
+      region:
+        description: "Run a single region (e.g. NYISO). Leave blank for all."
+        required: false
+        default: ""
+      mode:
+        description: "Override run mode: full or delta"
+        required: false
+        default: ""
+      dry_run:
+        description: "Dry run - skip Drive and Slack writes"
+        type: boolean
+        required: false
+        default: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Large Load Agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.region }}" ]; then
+            ARGS="$ARGS --region ${{ github.event.inputs.region }}"
+          fi
+          if [ -n "${{ github.event.inputs.mode }}" ]; then
+            ARGS="$ARGS --mode ${{ github.event.inputs.mode }}"
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          python main.py $ARGS
+
+      - name: Commit updated data and config
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "large-load-agent[bot]"
+          git config user.email "large-load-agent@users.noreply.github.com"
+          git add config.yaml data/ research/SEARCH_LOG.md
+          git diff --staged --quiet || git commit -m "chore: weekly research update ($(date +%Y-%m-%d))"
+          git push

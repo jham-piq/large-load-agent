@@ -1,0 +1,257 @@
+agent:
+  model: gpt-4o-search-preview
+  slack_channel: '#proj-large-load-queue'
+regions:
+- drive_file_id: data/NYISO_Large_Load_Projects.csv
+  id: NYISO
+  last_run: '2026-05-26'
+  mode: delta
+  name: NYISO (New York)
+  slack_channel: '#proj-large-load-queue'
+  state_abbrevs:
+  - NY
+  states:
+  - NY
+  utilities:
+  - National Grid
+  - Con Edison
+  - Orange & Rockland
+  - Central Hudson Gas & Electric
+  - NYSEG
+  - Rochester Gas & Electric (RG&E)
+  - PSEG Long Island
+  - New York Power Authority (NYPA)
+- drive_file_id: data/WECC_Large_Load_Projects.csv
+  id: WECC
+  last_run: '2026-05-26'
+  mode: delta
+  name: WECC (Western Interconnection)
+  slack_channel: '#proj-large-load-queue'
+  state_abbrevs:
+  - CA
+  - OR
+  - WA
+  - NV
+  - AZ
+  - UT
+  - CO
+  - ID
+  - MT
+  - WY
+  - NM
+  states:
+  - CA
+  - OR
+  - WA
+  - NV
+  - AZ
+  - UT
+  - CO
+  - ID
+  - MT
+  - WY
+  - NM
+  utilities:
+  - Pacific Gas & Electric (PG&E)
+  - Southern California Edison (SCE)
+  - San Diego Gas & Electric (SDG&E)
+  - Los Angeles Department of Water and Power (LADWP)
+  - Portland General Electric
+  - PacifiCorp
+  - NV Energy
+  - Arizona Public Service (APS)
+  - Salt River Project (SRP)
+  - Tucson Electric Power
+  - Xcel Energy (Colorado)
+  - Rocky Mountain Power
+  - Idaho Power
+  - Puget Sound Energy
+  - Nevada Power
+- drive_file_id: null
+  id: CAISO
+  last_run: null
+  mode: auto
+  name: CAISO (California)
+  slack_channel: '#proj-large-load-queue'
+  state_abbrevs:
+  - CA
+  states:
+  - CA
+  utilities:
+  - Pacific Gas & Electric (PG&E)
+  - Southern California Edison (SCE)
+  - San Diego Gas & Electric (SDG&E)
+  - Los Angeles Department of Water and Power (LADWP)
+  - Sacramento Municipal Utility District (SMUD)
+  - Silicon Valley Power (SVP)
+  - Burbank Water and Power
+  - Glendale Water & Power
+  - Pasadena Water and Power
+
+- drive_file_id: data/SERC_Large_Load_Projects.csv
+  id: SERC
+  last_run: '2026-05-26'
+  mode: delta
+  name: SERC (Southeast)
+  slack_channel: '#proj-large-load-queue'
+  state_abbrevs:
+  - NC
+  - SC
+  - GA
+  - FL
+  - AL
+  - MS
+  - TN
+  - KY
+  - VA
+  states:
+  - NC
+  - SC
+  - GA
+  - FL
+  - AL
+  - MS
+  - TN
+  - KY
+  - VA
+  utilities:
+  - Duke Energy Carolinas
+  - Duke Energy Progress
+  - Duke Energy Florida
+  - Duke Energy Indiana
+  - Georgia Power (Southern Company)
+  - Alabama Power (Southern Company)
+  - Mississippi Power (Southern Company)
+  - Florida Power & Light (FPL)
+  - Tampa Electric (TECO)
+  - Duke Energy Kentucky
+  - LG&E and KU Energy
+  - Tennessee Valley Authority (TVA)
+  - Dominion Energy Virginia
+  - Appalachian Power (AEP)
+  - South Carolina Electric & Gas (Dominion Energy SC)
+- drive_file_id: data/PJM_Large_Load_Projects.csv
+  id: PJM
+  last_run: '2026-05-19'
+  mode: delta
+  name: PJM (Mid-Atlantic & Midwest)
+  slack_channel: '#proj-large-load-queue'
+  state_abbrevs:
+  - VA
+  - MD
+  - PA
+  - OH
+  - IN
+  - IL
+  - WV
+  - DE
+  - NJ
+  - MI
+  - NC
+  - KY
+  - TN
+  states:
+  - VA
+  - MD
+  - PA
+  - OH
+  - IN
+  - IL
+  - WV
+  - DE
+  - NJ
+  - MI
+  - NC
+  - KY
+  - TN
+  utilities:
+  - Dominion Energy Virginia
+  - Pepco Holdings
+  - BGE (Baltimore Gas & Electric)
+  - PPL Electric Utilities
+  - AEP (American Electric Power)
+  - ComEd (Commonwealth Edison)
+  - Duke Energy Indiana
+  - Duke Energy Ohio
+  - FirstEnergy
+  - APS (Allegheny Power)
+  - PSEG
+  - Duquesne Light
+  - Indiana Michigan Power
+  - Appalachian Power
+- drive_file_id: data/SPP_Large_Load_Projects.csv
+  id: SPP
+  last_run: '2026-05-26'
+  mode: delta
+  name: SPP (Southwest Power Pool)
+  slack_channel: '#proj-large-load-queue'
+  state_abbrevs:
+  - KS
+  - OK
+  - NE
+  - SD
+  - ND
+  - MN
+  - IA
+  - MO
+  - AR
+  - LA
+  - TX
+  - MT
+  - WY
+  states:
+  - KS
+  - OK
+  - NE
+  - SD
+  - ND
+  - MN
+  - IA
+  - MO
+  - AR
+  - LA
+  - TX
+  - MT
+  - WY
+  utilities:
+  - Evergy (Kansas City Power & Light / Westar)
+  - OG&E (Oklahoma Gas & Electric)
+  - AEP (Southwestern Electric Power)
+  - Xcel Energy (Colorado / SPS)
+  - Empire District Electric
+  - Entergy Arkansas
+  - Entergy Louisiana
+  - Nebraska Public Power District (NPPD)
+  - Lincoln Electric System
+  - Basin Electric Power Cooperative
+  - Dairyland Power Cooperative
+  - Western Area Power Administration (WAPA)
+- drive_file_id: null
+  id: NEISO
+  last_run: null
+  mode: auto
+  name: ISO-NE (New England)
+  slack_channel: '#grid-research'
+  state_abbrevs:
+  - CT
+  - ME
+  - MA
+  - NH
+  - RI
+  - VT
+  states:
+  - CT
+  - ME
+  - MA
+  - NH
+  - RI
+  - VT
+  utilities:
+  - Eversource Energy
+  - National Grid
+  - Avangrid / CL&P
+  - Avangrid / UI
+  - Central Maine Power
+  - Versant Power
+  - Green Mountain Power
+  - Unitil

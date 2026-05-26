@@ -1,0 +1,57 @@
+{
+  "SERC": {
+    "total_runs": 1,
+    "total_finds": 1,
+    "sources": {
+      "Fluor": 1
+    },
+    "queries": {
+      "KY data center announced planned 2026": 1
+    },
+    "states_with_finds": {
+      "KY": 1
+    },
+    "states_no_finds_streak": {
+      "KY": 0
+    },
+    "last_updated": "2026-05-26"
+  },
+  "SPP": {
+    "total_runs": 2,
+    "total_finds": 2,
+    "sources": {
+      "CRN": 1,
+      "Meta Newsroom": 1
+    },
+    "queries": {
+      "Google Minnesota data center announcement": 1,
+      "Hyperscaler check for Meta data centers in OK": 1
+    },
+    "states_with_finds": {
+      "MN": 1,
+      "OK": 1
+    },
+    "states_no_finds_streak": {
+      "MN": 1,
+      "OK": 0
+    },
+    "last_updated": "2026-05-26"
+  },
+  "NYISO": {
+    "total_runs": 1,
+    "total_finds": 1,
+    "sources": {
+      "PR Newswire": 1
+    },
+    "queries": {
+      "Industry tracker search": 1
+    },
+    "states_with_finds": {
+      "NY": 1
+    },
+    "states_no_finds_streak": {
+      "NY": 0
+    },
+    "last_updated": "2026-05-26"
+  }
+}

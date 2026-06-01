@@ -17,25 +17,31 @@
     "last_updated": "2026-05-26"
   },
   "SPP": {
-    "total_runs": 2,
-    "total_finds": 2,
+    "total_runs": 3,
+    "total_finds": 4,
     "sources": {
       "CRN": 1,
-      "Meta Newsroom": 1
+      "Meta Newsroom": 1,
+      "Arkansas Economic Development Commission": 1,
+      "Nasdaq": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
-      "Hyperscaler check for Meta data centers in OK": 1
+      "Hyperscaler check for Meta data centers in OK": 1,
+      "SPP interconnection queue large load data center 2026": 1,
+      "Google data center MN 2026": 1
     },
     "states_with_finds": {
-      "MN": 1,
-      "OK": 1
+      "MN": 2,
+      "OK": 1,
+      "AR": 1
     },
     "states_no_finds_streak": {
-      "MN": 1,
-      "OK": 0
+      "MN": 0,
+      "OK": 1,
+      "AR": 0
     },
-    "last_updated": "2026-05-26"
+    "last_updated": "2026-06-01"
   },
   "NYISO": {
     "total_runs": 1,
@@ -53,5 +59,56 @@
       "NY": 0
     },
     "last_updated": "2026-05-26"
+  },
+  "WECC": {
+    "total_runs": 1,
+    "total_finds": 1,
+    "sources": {
+      "PowerOnline": 1
+    },
+    "queries": {
+      "Hyperscaler check for Google data centers in NV": 1
+    },
+    "states_with_finds": {
+      "NV": 1
+    },
+    "states_no_finds_streak": {
+      "NV": 0
+    },
+    "last_updated": "2026-06-01"
+  },
+  "PJM": {
+    "total_runs": 1,
+    "total_finds": 1,
+    "sources": {
+      "Tom's Hardware": 1
+    },
+    "queries": {
+      "PA data center announced planned 2026": 1
+    },
+    "states_with_finds": {
+      "PA": 1
+    },
+    "states_no_finds_streak": {
+      "PA": 0
+    },
+    "last_updated": "2026-06-01"
+  },
+  "ERCOT": {
+    "total_runs": 1,
+    "total_finds": 1,
+    "sources": {
+      "Google Data Centers": 1
+    },
+    "queries": {
+      "Google data center TX 2026": 1
+    },
+    "states_with_finds": {
+      "TX": 1
+    },
+    "states_no_finds_streak": {
+      "TX": 0
+    },
+    "last_updated": "2026-06-01"
   }
 }

@@ -64,3 +64,38 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **Meta Project Anthem - Phase 1**: Under Construction → Operational
   - Meta's Tulsa data center, previously known as Project Anthem - Phase 1, has become operational.
+
+## 2026-06-01 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **Google Nevada Data Center Expansion** (NV, Planned, 150 MW)
+  - Source: PowerOnline (2026-02-17)
+  - Found via: Hyperscaler check for Google data centers in NV
+
+## 2026-06-01 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Project Gravity Archbald** (PA, Planned)
+  - Source: Tom's Hardware (2026-05-15)
+  - Found via: PA data center announced planned 2026
+
+## 2026-06-01 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+2)
+
+- **AVAIO Digital Leo Campus** (AR, Announced, 1000 MW)
+  - Source: Arkansas Economic Development Commission (2026-01-12)
+  - Found via: SPP interconnection queue large load data center 2026
+- **Google Pine Island Data Center** (MN, Announced)
+  - Source: Nasdaq (2026-02-24)
+  - Found via: Google data center MN 2026
+
+## 2026-06-01 — ERCOT (Texas) (delta run)
+
+### New projects (+1)
+
+- **Google Wilbarger County Data Center** (TX, Announced)
+  - Source: Google Data Centers (2026-02-01)
+  - Found via: Google data center TX 2026

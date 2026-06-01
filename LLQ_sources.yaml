@@ -1,0 +1,47 @@
+- local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/NYISO_Large_Load_Projects.csv"
+  source_location: data_objs/atlas/LLQ/NYISO_Large_Load_Projects.csv
+  source_type: atlas/load_projects_data
+  source_group_id: e4e12fb0-f4a7-4a3c-8d87-12ca3a0c96b6
+  description: LLQ - NY. Updated 5/26/2026.
+
+- local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/PJM_Large_Load_Projects.csv"
+  source_location: data_objs/atlas/LLQ/PJM_Large_Load_Projects.csv
+  source_type: atlas/load_projects_data
+  source_group_id: 9a3c2e1b-0a60-4b04-9c99-715d40589462
+  description: LLQ - PJM. Updated 5/26/2026.
+
+- local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/SPP_Large_Load_Projects.csv"
+  source_location: data_objs/atlas/LLQ/SPP_Large_Load_Projects.csv
+  source_type: atlas/load_projects_data
+  source_group_id: 088cb4dc-b021-4e74-aa52-7eb73ff49b6d
+  description: LLQ - SPP. Updated 5/26/2026.
+
+- local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/SERC_Large_Load_Projects.csv"
+  source_location: data_objs/atlas/LLQ/SERC_Large_Load_Projects.csv
+  source_type: atlas/load_projects_data
+  source_group_id: 51a0dc07-8fa9-466d-9cc4-868e85f3add0
+  description: LLQ - SERC. Updated 5/26/2026.
+
+- local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/WECC_Large_Load_Projects.csv"
+  source_location: data_objs/atlas/LLQ/WECC_Large_Load_Projects.csv
+  source_type: atlas/load_projects_data
+  source_group_id: 20a6ef7b-0f82-4452-b59c-0bbef69b0805
+  description: LLQ - WECC. Updated 5/26/2026.
+
+- local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/CAISO_Large_Load_Projects.csv"
+  source_location: data_objs/atlas/LLQ/CAISO_Large_Load_Projects.csv
+  source_type: atlas/load_projects_data
+  source_group_id: e5056854-34f5-4a90-8659-6c2855459369
+  description: LLQ - CAISO. Updated 5/26/2026.
+
+- local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/NEISO_Large_Load_Projects.csv"
+  source_location: data_objs/atlas/LLQ/NEISO_Large_Load_Projects.csv
+  source_type: atlas/load_projects_data
+  source_group_id: 842de571-b0bb-4110-9f82-6abf0ecfb332
+  description: LLQ - NEISO. Updated 5/26/2026.
+
+- local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/ERCOT_Large_Load_Projects.csv"
+  source_location: data_objs/atlas/LLQ/ERCOT_Large_Load_Projects.csv
+  source_type: atlas/load_projects_data
+  source_group_id: 1f33493b-a0c1-4bbb-b4b9-e48cdc753383
+  description: LLQ - ERCOT. Updated 5/26/2026.

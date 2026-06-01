@@ -226,12 +226,12 @@ regions:
   - Basin Electric Power Cooperative
   - Dairyland Power Cooperative
   - Western Area Power Administration (WAPA)
-- drive_file_id: null
+- drive_file_id: data/NEISO_Large_Load_Projects.csv
   id: NEISO
-  last_run: null
-  mode: auto
+  last_run: '2026-05-19'
+  mode: delta
   name: ISO-NE (New England)
-  slack_channel: '#grid-research'
+  slack_channel: '#proj-large-load-queue'
   state_abbrevs:
   - CT
   - ME
@@ -255,3 +255,25 @@ regions:
   - Versant Power
   - Green Mountain Power
   - Unitil
+
+- drive_file_id: data/ERCOT_Large_Load_Projects.csv
+  id: ERCOT
+  last_run: '2026-05-19'
+  mode: delta
+  name: ERCOT (Texas)
+  slack_channel: '#proj-large-load-queue'
+  state_abbrevs:
+  - TX
+  states:
+  - TX
+  utilities:
+  - Oncor Electric Delivery
+  - CenterPoint Energy
+  - AEP Texas
+  - Texas-New Mexico Power (TNMP)
+  - Sharyland Utilities
+  - Brazos Electric Power Cooperative
+  - Pedernales Electric Cooperative
+  - Lower Colorado River Authority (LCRA)
+  - Austin Energy
+  - CPS Energy (San Antonio)

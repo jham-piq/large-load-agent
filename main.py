@@ -12,6 +12,7 @@ Runs every Monday via GitHub Actions. For each region in config.yaml:
 import argparse
 import logging
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -171,7 +172,9 @@ def main():
     log.info(f"Running {len(regions)} region(s): {[r['id'] for r in regions]}")
 
     errors = []
-    for region in regions:
+    for i, region in enumerate(regions):
+        if i > 0:
+            time.sleep(15)  # avoid rate limits on gpt-4o-search-preview between regions
         try:
             run_region(
                 region=region,

@@ -17,31 +17,34 @@
     "last_updated": "2026-05-26"
   },
   "SPP": {
-    "total_runs": 3,
-    "total_finds": 4,
+    "total_runs": 4,
+    "total_finds": 5,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
       "Arkansas Economic Development Commission": 1,
-      "Nasdaq": 1
+      "Nasdaq": 1,
+      "GlobeNewswire": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
       "Hyperscaler check for Meta data centers in OK": 1,
-      "SPP interconnection queue large load data center 2026": 1,
+      "SPP interconnection queue large load data center 2026": 2,
       "Google data center MN 2026": 1
     },
     "states_with_finds": {
       "MN": 2,
       "OK": 1,
-      "AR": 1
+      "AR": 1,
+      "TX": 1
     },
     "states_no_finds_streak": {
-      "MN": 0,
-      "OK": 1,
-      "AR": 0
+      "MN": 1,
+      "OK": 2,
+      "AR": 1,
+      "TX": 0
     },
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-08"
   },
   "NYISO": {
     "total_runs": 1,
@@ -61,7 +64,7 @@
     "last_updated": "2026-05-26"
   },
   "WECC": {
-    "total_runs": 1,
+    "total_runs": 2,
     "total_finds": 1,
     "sources": {
       "PowerOnline": 1
@@ -73,9 +76,9 @@
       "NV": 1
     },
     "states_no_finds_streak": {
-      "NV": 0
+      "NV": 1
     },
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-08"
   },
   "PJM": {
     "total_runs": 1,
@@ -95,20 +98,24 @@
     "last_updated": "2026-06-01"
   },
   "ERCOT": {
-    "total_runs": 1,
-    "total_finds": 1,
+    "total_runs": 2,
+    "total_finds": 3,
     "sources": {
-      "Google Data Centers": 1
+      "Google Data Centers": 1,
+      "Meta Newsroom": 1,
+      "Tom's Hardware": 1
     },
     "queries": {
-      "Google data center TX 2026": 1
+      "Google data center TX 2026": 1,
+      "Meta data center TX 2026": 1,
+      "SpaceX semiconductor factory TX 2026": 1
     },
     "states_with_finds": {
-      "TX": 1
+      "TX": 3
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-08"
   }
 }

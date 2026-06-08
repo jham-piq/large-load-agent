@@ -99,3 +99,34 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Google Wilbarger County Data Center** (TX, Announced)
   - Source: Google Data Centers (2026-02-01)
   - Found via: Google data center TX 2026
+
+## 2026-06-08 — WECC (Western Interconnection) (delta run)
+
+### Stage updates (1)
+
+- **Microsoft - Cheyenne Expansion (Bison Business Park + SE Cheyenne)**: Announced → Planned
+  - Microsoft announced intent to purchase approximately 3,200 acres of land to develop a data center in Cheyenne, Wyoming.
+
+## 2026-06-08 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **Aligned Data Centers Project Caprock** (TX, Under Construction, 540 MW)
+  - Source: GlobeNewswire (2026-04-09)
+  - Found via: SPP interconnection queue large load data center 2026
+
+## 2026-06-08 — ERCOT (Texas) (delta run)
+
+### New projects (+2)
+
+- **Meta El Paso Data Center** (TX, Under Construction)
+  - Source: Meta Newsroom (2026-04-28)
+  - Found via: Meta data center TX 2026
+- **SpaceX Terafab Semiconductor Factory** (TX, Announced)
+  - Source: Tom's Hardware (2026-06-05)
+  - Found via: SpaceX semiconductor factory TX 2026
+
+### Stage updates (1)
+
+- **Helios Data Center Campus (Galaxy) – West Texas**: Capacity approval (ERCOT); expansion planning → Under Construction
+  - Galaxy has received ERCOT approval to double the power capacity at its Helios data center campus to over 1.6 GW, marking a significant milestone in its development.

@@ -1,50 +1,56 @@
 {
   "SERC": {
-    "total_runs": 1,
-    "total_finds": 1,
+    "total_runs": 2,
+    "total_finds": 2,
     "sources": {
-      "Fluor": 1
+      "Fluor": 1,
+      "TechRadar": 1
     },
     "queries": {
-      "KY data center announced planned 2026": 1
+      "KY data center announced planned 2026": 1,
+      "TN data center announced planned 2026": 1
     },
     "states_with_finds": {
-      "KY": 1
+      "KY": 1,
+      "TN": 1
     },
     "states_no_finds_streak": {
-      "KY": 0
+      "KY": 1,
+      "TN": 0
     },
-    "last_updated": "2026-05-26"
+    "last_updated": "2026-06-15"
   },
   "SPP": {
-    "total_runs": 4,
-    "total_finds": 5,
+    "total_runs": 5,
+    "total_finds": 6,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
       "Arkansas Economic Development Commission": 1,
       "Nasdaq": 1,
-      "GlobeNewswire": 1
+      "GlobeNewswire": 1,
+      "The Star": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
       "Hyperscaler check for Meta data centers in OK": 1,
       "SPP interconnection queue large load data center 2026": 2,
-      "Google data center MN 2026": 1
+      "Google data center MN 2026": 1,
+      "Hyperscaler check for Google data centers in MN": 1
     },
     "states_with_finds": {
-      "MN": 2,
+      "MN": 3,
       "OK": 1,
       "AR": 1,
       "TX": 1
     },
     "states_no_finds_streak": {
-      "MN": 1,
-      "OK": 2,
-      "AR": 1,
-      "TX": 0
+      "MN": 0,
+      "OK": 3,
+      "AR": 2,
+      "TX": 1
     },
-    "last_updated": "2026-06-08"
+    "last_updated": "2026-06-15"
   },
   "NYISO": {
     "total_runs": 1,
@@ -81,41 +87,46 @@
     "last_updated": "2026-06-08"
   },
   "PJM": {
-    "total_runs": 1,
-    "total_finds": 1,
+    "total_runs": 2,
+    "total_finds": 2,
     "sources": {
-      "Tom's Hardware": 1
+      "Tom's Hardware": 1,
+      "TechRadar": 1
     },
     "queries": {
-      "PA data center announced planned 2026": 1
+      "PA data center announced planned 2026": 1,
+      "TN data center announced planned 2026": 1
     },
     "states_with_finds": {
-      "PA": 1
+      "PA": 1,
+      "TN": 1
     },
     "states_no_finds_streak": {
-      "PA": 0
+      "PA": 1,
+      "TN": 0
     },
-    "last_updated": "2026-06-01"
+    "last_updated": "2026-06-15"
   },
   "ERCOT": {
-    "total_runs": 2,
-    "total_finds": 3,
+    "total_runs": 3,
+    "total_finds": 4,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 1,
-      "Tom's Hardware": 1
+      "Tom's Hardware": 2
     },
     "queries": {
       "Google data center TX 2026": 1,
       "Meta data center TX 2026": 1,
-      "SpaceX semiconductor factory TX 2026": 1
+      "SpaceX semiconductor factory TX 2026": 1,
+      "TX data center announced planned 2026": 1
     },
     "states_with_finds": {
-      "TX": 3
+      "TX": 4
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-06-08"
+    "last_updated": "2026-06-15"
   }
 }

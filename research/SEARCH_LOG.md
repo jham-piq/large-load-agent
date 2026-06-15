@@ -130,3 +130,55 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **Helios Data Center Campus (Galaxy) – West Texas**: Capacity approval (ERCOT); expansion planning → Under Construction
   - Galaxy has received ERCOT approval to double the power capacity at its Helios data center campus to over 1.6 GW, marking a significant milestone in its development.
+
+## 2026-06-15 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **DC BLOX Nashville Data Center** (TN, Planned)
+  - Source: TechRadar (2026-06-11)
+  - Found via: TN data center announced planned 2026
+
+### Stage updates (1)
+
+- **Charlotte Data Center Moratorium (proposed)**: On Hold → Approved
+  - Charlotte City Council approved a 150-day moratorium on new data center construction to assess potential impacts and develop regulatory measures.
+
+## 2026-06-15 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **DC Blox Nashville Data Center** (TN, Planned)
+  - Source: TechRadar (2026-06-11)
+  - Found via: TN data center announced planned 2026
+
+### Stage updates (1)
+
+- **Illinois POWER Act / Tax Incentive Suspension (policy)**: On Hold → Cancelled
+  - Governor JB Pritzker announced a halt to new tax breaks for data centers starting July 1, 2026, effectively cancelling the Illinois POWER Act incentives.
+
+## 2026-06-15 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **Google Pine Island Data Center** (MN, Announced, 1900 MW)
+  - Source: The Star (2026-02-25)
+  - Found via: Hyperscaler check for Google data centers in MN
+
+### Stage updates (1)
+
+- **Google Pine Island Data Center**: Announced → Planned
+  - Google has entered into an agreement with Xcel Energy to power the new data center, indicating progression from Announced to Planned stage.
+
+## 2026-06-15 — ERCOT (Texas) (delta run)
+
+### New projects (+1)
+
+- **SpaceX Gigasat Factory** (TX, Announced)
+  - Source: Tom's Hardware (2026-06-08)
+  - Found via: TX data center announced planned 2026
+
+### Stage updates (1)
+
+- **Helios Data Center Campus (Galaxy) – West Texas**: Under Construction → Operational
+  - Galaxy completed ERCOT interconnection studies and secured approval for an additional 830 MW, doubling the total approved power capacity to over 1.6 GW.

@@ -21,13 +21,13 @@
     "last_updated": "2026-06-15"
   },
   "SPP": {
-    "total_runs": 5,
-    "total_finds": 6,
+    "total_runs": 6,
+    "total_finds": 7,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
       "Arkansas Economic Development Commission": 1,
-      "Nasdaq": 1,
+      "Nasdaq": 2,
       "GlobeNewswire": 1,
       "The Star": 1
     },
@@ -36,55 +36,62 @@
       "Hyperscaler check for Meta data centers in OK": 1,
       "SPP interconnection queue large load data center 2026": 2,
       "Google data center MN 2026": 1,
-      "Hyperscaler check for Google data centers in MN": 1
+      "Hyperscaler check for Google data centers in MN": 1,
+      "New announcement search for Oklahoma data centers": 1
     },
     "states_with_finds": {
       "MN": 3,
-      "OK": 1,
+      "OK": 2,
       "AR": 1,
       "TX": 1
     },
     "states_no_finds_streak": {
-      "MN": 0,
-      "OK": 3,
-      "AR": 2,
-      "TX": 1
+      "MN": 1,
+      "OK": 0,
+      "AR": 3,
+      "TX": 2
     },
-    "last_updated": "2026-06-15"
+    "last_updated": "2026-06-22"
   },
   "NYISO": {
-    "total_runs": 1,
-    "total_finds": 1,
+    "total_runs": 2,
+    "total_finds": 3,
     "sources": {
-      "PR Newswire": 1
+      "PR Newswire": 2,
+      "GlobeNewswire": 1
     },
     "queries": {
-      "Industry tracker search": 1
+      "Industry tracker search": 2,
+      "PR Newswire": 1
     },
     "states_with_finds": {
-      "NY": 1
+      "NY": 3
     },
     "states_no_finds_streak": {
       "NY": 0
     },
-    "last_updated": "2026-05-26"
+    "last_updated": "2026-06-22"
   },
   "WECC": {
-    "total_runs": 2,
-    "total_finds": 1,
+    "total_runs": 3,
+    "total_finds": 2,
     "sources": {
-      "PowerOnline": 1
+      "PowerOnline": 1,
+      "Goodman Group": 1
     },
     "queries": {
-      "Hyperscaler check for Google data centers in NV": 1
+      "Hyperscaler check for Google data centers in NV": 1,
+      "Industry tracker search": 1
     },
     "states_with_finds": {
-      "NV": 1
+      "NV": 1,
+      "CA": 1
     },
     "states_no_finds_streak": {
-      "NV": 1
+      "NV": 2,
+      "CA": 0
     },
-    "last_updated": "2026-06-08"
+    "last_updated": "2026-06-22"
   },
   "PJM": {
     "total_runs": 2,

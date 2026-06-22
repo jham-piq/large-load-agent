@@ -182,3 +182,45 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **Helios Data Center Campus (Galaxy) – West Texas**: Under Construction → Operational
   - Galaxy completed ERCOT interconnection studies and secured approval for an additional 830 MW, doubling the total approved power capacity to over 1.6 GW.
+
+## 2026-06-22 — NYISO (New York) (delta run)
+
+### New projects (+2)
+
+- **Hudson InterXchange 60 Hudson Expansion** (NY, Under Construction, 1 MW)
+  - Source: GlobeNewswire (2026-05-19)
+  - Found via: Industry tracker search
+- **Municipal Data & Power Data & Power Sovereignty Initiative** (NY, Announced)
+  - Source: PR Newswire (2026-05-28)
+  - Found via: PR Newswire
+
+### Stage updates (1)
+
+- **Hudson InterXchange 60 Hudson Expansion**: Under Construction → Operational
+  - First 1 MW data hall now ready for service, providing high-density colocation options in New York City.
+
+## 2026-06-22 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **DataBank and Goodman Group Los Angeles Data Center** (CA, Planned, 32 MW)
+  - Source: Goodman Group (2026-07-04)
+  - Found via: Industry tracker search
+
+### Stage updates (1)
+
+- **Project Jupiter (Oracle / OpenAI / BorderPlex Digital)**: Under Construction → On Hold
+  - Construction paused due to community concerns over water usage in Doña Ana County, NM.
+
+## 2026-06-22 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **Oklahoma AI Ventures Data Center Campus** (OK, Announced)
+  - Source: Nasdaq (2026-06-10)
+  - Found via: New announcement search for Oklahoma data centers
+
+### Stage updates (1)
+
+- **Meta Project Anthem - Phase 2**: On Hold → Cancelled
+  - Oklahoma City Council approved a moratorium on new data centers, affecting projects like Meta Project Anthem - Phase 2.

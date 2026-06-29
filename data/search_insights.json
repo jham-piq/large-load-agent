@@ -1,6 +1,6 @@
 {
   "SERC": {
-    "total_runs": 2,
+    "total_runs": 3,
     "total_finds": 2,
     "sources": {
       "Fluor": 1,
@@ -15,43 +15,46 @@
       "TN": 1
     },
     "states_no_finds_streak": {
-      "KY": 1,
-      "TN": 0
+      "KY": 2,
+      "TN": 1
     },
-    "last_updated": "2026-06-15"
+    "last_updated": "2026-06-29"
   },
   "SPP": {
-    "total_runs": 6,
-    "total_finds": 7,
+    "total_runs": 7,
+    "total_finds": 9,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
       "Arkansas Economic Development Commission": 1,
       "Nasdaq": 2,
       "GlobeNewswire": 1,
-      "The Star": 1
+      "The Star": 1,
+      "Interconnection Queue Tracker": 2
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
       "Hyperscaler check for Meta data centers in OK": 1,
-      "SPP interconnection queue large load data center 2026": 2,
+      "SPP interconnection queue large load data center 2026": 4,
       "Google data center MN 2026": 1,
       "Hyperscaler check for Google data centers in MN": 1,
       "New announcement search for Oklahoma data centers": 1
     },
     "states_with_finds": {
       "MN": 3,
-      "OK": 2,
+      "OK": 3,
       "AR": 1,
-      "TX": 1
+      "TX": 1,
+      "MO": 1
     },
     "states_no_finds_streak": {
-      "MN": 1,
+      "MN": 2,
       "OK": 0,
-      "AR": 3,
-      "TX": 2
+      "AR": 4,
+      "TX": 3,
+      "MO": 0
     },
-    "last_updated": "2026-06-22"
+    "last_updated": "2026-06-29"
   },
   "NYISO": {
     "total_runs": 2,
@@ -73,28 +76,32 @@
     "last_updated": "2026-06-22"
   },
   "WECC": {
-    "total_runs": 3,
-    "total_finds": 2,
+    "total_runs": 4,
+    "total_finds": 3,
     "sources": {
       "PowerOnline": 1,
-      "Goodman Group": 1
+      "Goodman Group": 1,
+      "Microsoft Source": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
-      "Industry tracker search": 1
+      "Industry tracker search": 1,
+      "Microsoft data center CA, OR, WA, NV, AZ, UT, CO, ID, MT, WY, NM 2026": 1
     },
     "states_with_finds": {
       "NV": 1,
-      "CA": 1
+      "CA": 1,
+      "WY": 1
     },
     "states_no_finds_streak": {
-      "NV": 2,
-      "CA": 0
+      "NV": 3,
+      "CA": 1,
+      "WY": 0
     },
-    "last_updated": "2026-06-22"
+    "last_updated": "2026-06-29"
   },
   "PJM": {
-    "total_runs": 2,
+    "total_runs": 3,
     "total_finds": 2,
     "sources": {
       "Tom's Hardware": 1,
@@ -109,10 +116,10 @@
       "TN": 1
     },
     "states_no_finds_streak": {
-      "PA": 1,
-      "TN": 0
+      "PA": 2,
+      "TN": 1
     },
-    "last_updated": "2026-06-15"
+    "last_updated": "2026-06-29"
   },
   "ERCOT": {
     "total_runs": 3,

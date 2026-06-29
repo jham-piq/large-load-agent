@@ -224,3 +224,36 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **Meta Project Anthem - Phase 2**: On Hold → Cancelled
   - Oklahoma City Council approved a moratorium on new data centers, affecting projects like Meta Project Anthem - Phase 2.
+
+## 2026-06-29 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **Microsoft Cheyenne Data Center Expansion** (WY, Announced)
+  - Source: Microsoft Source (2026-04-14)
+  - Found via: Microsoft data center CA, OR, WA, NV, AZ, UT, CO, ID, MT, WY, NM 2026
+
+## 2026-06-29 — SERC (Southeast) (delta run)
+
+### Stage updates (1)
+
+- **DC BLOX Nashville Data Center**: Planned → On Hold
+  - Nashville Mayor Freddie O’Connell filed eminent domain legislation to block the proposed data center near the Nashville Zoo, indicating the project is on hold pending legal proceedings.
+
+## 2026-06-29 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### Stage updates (1)
+
+- **Microsoft Mount Pleasant AI Campus**: Under Construction → Operational
+  - Microsoft announced the completion and full operation of its first datacenter facility in Mount Pleasant, Wisconsin.
+
+## 2026-06-29 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+2)
+
+- **IREN Oklahoma Campus** (OK, Permitting, 1600 MW)
+  - Source: Interconnection Queue Tracker (2026-06-22)
+  - Found via: SPP interconnection queue large load data center 2026
+- **Google 'Project Mica' (Kansas City Northland)** (MO, Permitting)
+  - Source: Interconnection Queue Tracker (2026-06-22)
+  - Found via: SPP interconnection queue large load data center 2026

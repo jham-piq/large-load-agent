@@ -1,28 +1,32 @@
 {
   "SERC": {
-    "total_runs": 3,
-    "total_finds": 2,
+    "total_runs": 4,
+    "total_finds": 3,
     "sources": {
       "Fluor": 1,
-      "TechRadar": 1
+      "TechRadar": 1,
+      "NC DEQ": 1
     },
     "queries": {
       "KY data center announced planned 2026": 1,
-      "TN data center announced planned 2026": 1
+      "TN data center announced planned 2026": 1,
+      "NC data center announced planned 2026": 1
     },
     "states_with_finds": {
       "KY": 1,
-      "TN": 1
+      "TN": 1,
+      "NC": 1
     },
     "states_no_finds_streak": {
-      "KY": 2,
-      "TN": 1
+      "KY": 3,
+      "TN": 2,
+      "NC": 0
     },
-    "last_updated": "2026-06-29"
+    "last_updated": "2026-07-06"
   },
   "SPP": {
-    "total_runs": 7,
-    "total_finds": 9,
+    "total_runs": 8,
+    "total_finds": 11,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -30,31 +34,32 @@
       "Nasdaq": 2,
       "GlobeNewswire": 1,
       "The Star": 1,
-      "Interconnection Queue Tracker": 2
+      "Interconnection Queue Tracker": 2,
+      "SPP Interconnection Queue Tracker": 2
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
       "Hyperscaler check for Meta data centers in OK": 1,
-      "SPP interconnection queue large load data center 2026": 4,
+      "SPP interconnection queue large load data center 2026": 6,
       "Google data center MN 2026": 1,
       "Hyperscaler check for Google data centers in MN": 1,
       "New announcement search for Oklahoma data centers": 1
     },
     "states_with_finds": {
       "MN": 3,
-      "OK": 3,
+      "OK": 4,
       "AR": 1,
       "TX": 1,
-      "MO": 1
+      "MO": 2
     },
     "states_no_finds_streak": {
-      "MN": 2,
+      "MN": 3,
       "OK": 0,
-      "AR": 4,
-      "TX": 3,
+      "AR": 5,
+      "TX": 4,
       "MO": 0
     },
-    "last_updated": "2026-06-29"
+    "last_updated": "2026-07-06"
   },
   "NYISO": {
     "total_runs": 2,
@@ -76,71 +81,76 @@
     "last_updated": "2026-06-22"
   },
   "WECC": {
-    "total_runs": 4,
-    "total_finds": 3,
+    "total_runs": 5,
+    "total_finds": 4,
     "sources": {
       "PowerOnline": 1,
-      "Goodman Group": 1,
+      "Goodman Group": 2,
       "Microsoft Source": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
-      "Industry tracker search": 1,
+      "Industry tracker search": 2,
       "Microsoft data center CA, OR, WA, NV, AZ, UT, CO, ID, MT, WY, NM 2026": 1
     },
     "states_with_finds": {
       "NV": 1,
-      "CA": 1,
+      "CA": 2,
       "WY": 1
     },
     "states_no_finds_streak": {
-      "NV": 3,
-      "CA": 1,
-      "WY": 0
+      "NV": 4,
+      "CA": 0,
+      "WY": 1
     },
-    "last_updated": "2026-06-29"
+    "last_updated": "2026-07-06"
   },
   "PJM": {
-    "total_runs": 3,
-    "total_finds": 2,
+    "total_runs": 4,
+    "total_finds": 3,
     "sources": {
       "Tom's Hardware": 1,
-      "TechRadar": 1
+      "TechRadar": 1,
+      "NC DEQ": 1
     },
     "queries": {
       "PA data center announced planned 2026": 1,
-      "TN data center announced planned 2026": 1
+      "TN data center announced planned 2026": 1,
+      "NC data center announced planned 2026": 1
     },
     "states_with_finds": {
       "PA": 1,
-      "TN": 1
+      "TN": 1,
+      "NC": 1
     },
     "states_no_finds_streak": {
-      "PA": 2,
-      "TN": 1
+      "PA": 3,
+      "TN": 2,
+      "NC": 0
     },
-    "last_updated": "2026-06-29"
+    "last_updated": "2026-07-06"
   },
   "ERCOT": {
-    "total_runs": 3,
-    "total_finds": 4,
+    "total_runs": 4,
+    "total_finds": 5,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 1,
-      "Tom's Hardware": 2
+      "Tom's Hardware": 2,
+      "Data Center Dynamics": 1
     },
     "queries": {
       "Google data center TX 2026": 1,
       "Meta data center TX 2026": 1,
       "SpaceX semiconductor factory TX 2026": 1,
-      "TX data center announced planned 2026": 1
+      "TX data center announced planned 2026": 2
     },
     "states_with_finds": {
-      "TX": 4
+      "TX": 5
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-06-15"
+    "last_updated": "2026-07-06"
   }
 }

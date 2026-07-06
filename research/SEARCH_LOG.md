@@ -257,3 +257,61 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Google 'Project Mica' (Kansas City Northland)** (MO, Permitting)
   - Source: Interconnection Queue Tracker (2026-06-22)
   - Found via: SPP interconnection queue large load data center 2026
+
+## 2026-07-06 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **DataBank and Goodman Group Los Angeles Data Center** (CA, Planned, 32 MW)
+  - Source: Goodman Group (2026-07-04)
+  - Found via: Industry tracker search
+
+## 2026-07-06 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **Amazon Energy Way Tech Campus** (NC, Planned)
+  - Source: NC DEQ (2026-06-26)
+  - Found via: NC data center announced planned 2026
+
+### Stage updates (1)
+
+- **QTS Virginia Digital Gateway**: Planned → Cancelled
+  - QTS abandoned its portion of the 2,100-acre 'Digital Gateway' data center project in Prince William County, VA, due to legal challenges.
+
+## 2026-07-06 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Energy Way Tech Campus** (NC, Early Stage)
+  - Source: NC DEQ (2026-06-26)
+  - Found via: NC data center announced planned 2026
+
+### Stage updates (1)
+
+- **Virginia Digital Gateway**: Planned → Cancelled
+  - QTS abandoned its portion of the 2,100-acre Virginia Digital Gateway data center project in Prince William County, VA, due to legal challenges and public opposition.
+
+## 2026-07-06 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+2)
+
+- **IREN Oklahoma Campus** (OK, Permitting, 1600 MW)
+  - Source: SPP Interconnection Queue Tracker (2026-06-22)
+  - Found via: SPP interconnection queue large load data center 2026
+- **Google 'Project Mica' (Kansas City Northland)** (MO, Permitting)
+  - Source: SPP Interconnection Queue Tracker (2026-06-22)
+  - Found via: SPP interconnection queue large load data center 2026
+
+## 2026-07-06 — ERCOT (Texas) (delta run)
+
+### New projects (+1)
+
+- **Project Helios** (TX, Announced, 150 MW)
+  - Source: Data Center Dynamics (2026-07-01)
+  - Found via: TX data center announced planned 2026
+
+### Stage updates (1)
+
+- **Project Temple (Rowan Digital Infrastructure)**: Under Construction → Operational
+  - Project Temple in Bell County, Texas, has transitioned from under construction to operational as of June 2026.

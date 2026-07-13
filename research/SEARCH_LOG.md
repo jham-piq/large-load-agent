@@ -315,3 +315,19 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **Project Temple (Rowan Digital Infrastructure)**: Under Construction → Operational
   - Project Temple in Bell County, Texas, has transitioned from under construction to operational as of June 2026.
+
+## 2026-07-13 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **Amazon Energy Way Tech Campus** (NC, Planned)
+  - Source: NC DEQ (2026-06-26)
+  - Found via: NC data center announced planned 2026
+
+## 2026-07-13 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Energy Way Tech Campus** (NC, Early Stage)
+  - Source: NC DEQ (2026-06-26)
+  - Found via: NC data center announced planned 2026

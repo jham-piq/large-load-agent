@@ -331,3 +331,61 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Energy Way Tech Campus** (NC, Early Stage)
   - Source: NC DEQ (2026-06-26)
   - Found via: NC data center announced planned 2026
+
+## 2026-07-20 — NYISO (New York) (delta run)
+
+### Stage updates (7)
+
+- **Stream Data Centers STAMP Campus**: Early Stage → On Hold
+  - Project placed on hold due to New York's one-year moratorium on large data centers.
+- **St. Lawrence Infrastructure Data Center**: Announced → On Hold
+  - Project placed on hold due to New York's one-year moratorium on large data centers.
+- **Arsenal Data Site**: Announced → On Hold
+  - Project placed on hold due to New York's one-year moratorium on large data centers.
+- **Globe Digital Holdings Data Center**: Announced → On Hold
+  - Project placed on hold due to New York's one-year moratorium on large data centers.
+- **Remington Factory Data Center**: Announced → On Hold
+  - Project placed on hold due to New York's one-year moratorium on large data centers.
+- **Treetop Development - 1 Gig Data Center East Fishkill**: Announced → On Hold
+  - Project placed on hold due to New York's one-year moratorium on large data centers.
+- **Ranalli Lysander Data Center**: Early Stage → On Hold
+  - Project placed on hold due to New York's one-year moratorium on large data centers.
+
+## 2026-07-20 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **TSMC Arizona Expansion** (AZ, Announced)
+  - Source: Tom's Hardware (2026-07-17)
+  - Found via: AZ data center announced planned 2026
+
+## 2026-07-20 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **Meta Hyperion Data Center Campus Expansion** (LA, Under Construction, 5000 MW)
+  - Source: Tom's Hardware (2026-07-14)
+  - Found via: Tom's Hardware article on Meta's data center expansion
+
+### Stage updates (1)
+
+- **Amazon Energy Way Tech Campus**: Planned → Under Construction
+  - Public hearing announced for air quality permits related to the construction of the Amazon Energy Way Tech Campus in Richmond County, NC.
+
+## 2026-07-20 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+2)
+
+- **Project Orion** (PA, Announced, 500 MW)
+  - Source: Data Center Dynamics (2026-07-15)
+  - Found via: PA data center announced planned 2026
+- **Blue Ridge AI Campus** (VA, Planned, 300 MW)
+  - Source: TechRadar (2026-07-16)
+  - Found via: VA data center announced planned 2026
+
+### Stage updates (2)
+
+- **Project Cardinal**: Announced → Under Construction
+  - Groundbreaking ceremony held for Project Cardinal in IL.
+- **Meta Prometheus New Albany Data Center**: Under Construction → Operational
+  - Meta's New Albany Data Center is now operational.

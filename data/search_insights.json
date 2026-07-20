@@ -1,28 +1,32 @@
 {
   "SERC": {
-    "total_runs": 5,
-    "total_finds": 4,
+    "total_runs": 6,
+    "total_finds": 5,
     "sources": {
       "Fluor": 1,
       "TechRadar": 1,
-      "NC DEQ": 2
+      "NC DEQ": 2,
+      "Tom's Hardware": 1
     },
     "queries": {
       "KY data center announced planned 2026": 1,
       "TN data center announced planned 2026": 1,
-      "NC data center announced planned 2026": 2
+      "NC data center announced planned 2026": 2,
+      "Tom's Hardware article on Meta's data center expansion": 1
     },
     "states_with_finds": {
       "KY": 1,
       "TN": 1,
-      "NC": 2
+      "NC": 2,
+      "LA": 1
     },
     "states_no_finds_streak": {
-      "KY": 4,
-      "TN": 3,
-      "NC": 0
+      "KY": 5,
+      "TN": 4,
+      "NC": 1,
+      "LA": 0
     },
-    "last_updated": "2026-07-13"
+    "last_updated": "2026-07-20"
   },
   "SPP": {
     "total_runs": 8,
@@ -62,7 +66,7 @@
     "last_updated": "2026-07-06"
   },
   "NYISO": {
-    "total_runs": 2,
+    "total_runs": 3,
     "total_finds": 3,
     "sources": {
       "PR Newswire": 2,
@@ -76,59 +80,67 @@
       "NY": 3
     },
     "states_no_finds_streak": {
-      "NY": 0
+      "NY": 1
     },
-    "last_updated": "2026-06-22"
+    "last_updated": "2026-07-20"
   },
   "WECC": {
-    "total_runs": 5,
-    "total_finds": 4,
+    "total_runs": 6,
+    "total_finds": 5,
     "sources": {
       "PowerOnline": 1,
       "Goodman Group": 2,
-      "Microsoft Source": 1
+      "Microsoft Source": 1,
+      "Tom's Hardware": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
       "Industry tracker search": 2,
-      "Microsoft data center CA, OR, WA, NV, AZ, UT, CO, ID, MT, WY, NM 2026": 1
+      "Microsoft data center CA, OR, WA, NV, AZ, UT, CO, ID, MT, WY, NM 2026": 1,
+      "AZ data center announced planned 2026": 1
     },
     "states_with_finds": {
       "NV": 1,
       "CA": 2,
-      "WY": 1
+      "WY": 1,
+      "AZ": 1
     },
     "states_no_finds_streak": {
-      "NV": 4,
-      "CA": 0,
-      "WY": 1
+      "NV": 5,
+      "CA": 1,
+      "WY": 2,
+      "AZ": 0
     },
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-07-20"
   },
   "PJM": {
-    "total_runs": 5,
-    "total_finds": 4,
+    "total_runs": 6,
+    "total_finds": 6,
     "sources": {
       "Tom's Hardware": 1,
-      "TechRadar": 1,
-      "NC DEQ": 2
+      "TechRadar": 2,
+      "NC DEQ": 2,
+      "Data Center Dynamics": 1
     },
     "queries": {
-      "PA data center announced planned 2026": 1,
+      "PA data center announced planned 2026": 2,
       "TN data center announced planned 2026": 1,
-      "NC data center announced planned 2026": 2
+      "NC data center announced planned 2026": 2,
+      "VA data center announced planned 2026": 1
     },
     "states_with_finds": {
-      "PA": 1,
+      "PA": 2,
       "TN": 1,
-      "NC": 2
+      "NC": 2,
+      "VA": 1
     },
     "states_no_finds_streak": {
-      "PA": 4,
-      "TN": 3,
-      "NC": 0
+      "PA": 0,
+      "TN": 4,
+      "NC": 1,
+      "VA": 0
     },
-    "last_updated": "2026-07-13"
+    "last_updated": "2026-07-20"
   },
   "ERCOT": {
     "total_runs": 4,

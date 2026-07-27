@@ -4,7 +4,7 @@ agent:
 regions:
 - drive_file_id: data/NYISO_Large_Load_Projects.csv
   id: NYISO
-  last_run: '2026-07-20'
+  last_run: '2026-07-27'
   mode: delta
   name: NYISO (New York)
   slack_channel: '#proj-large-load-queue'
@@ -89,7 +89,7 @@ regions:
   - Pasadena Water and Power
 - drive_file_id: data/SERC_Large_Load_Projects.csv
   id: SERC
-  last_run: '2026-07-20'
+  last_run: '2026-07-27'
   mode: delta
   name: SERC (Southeast)
   slack_channel: '#proj-large-load-queue'
@@ -131,7 +131,7 @@ regions:
   - South Carolina Electric & Gas (Dominion Energy SC)
 - drive_file_id: data/PJM_Large_Load_Projects.csv
   id: PJM
-  last_run: '2026-07-20'
+  last_run: '2026-07-27'
   mode: delta
   name: PJM (Mid-Atlantic & Midwest)
   slack_channel: '#proj-large-load-queue'
@@ -180,7 +180,7 @@ regions:
   - Appalachian Power
 - drive_file_id: data/SPP_Large_Load_Projects.csv
   id: SPP
-  last_run: '2026-07-06'
+  last_run: '2026-07-27'
   mode: delta
   name: SPP (Southwest Power Pool)
   slack_channel: '#proj-large-load-queue'

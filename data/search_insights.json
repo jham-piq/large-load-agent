@@ -1,36 +1,40 @@
 {
   "SERC": {
-    "total_runs": 6,
-    "total_finds": 5,
+    "total_runs": 7,
+    "total_finds": 7,
     "sources": {
       "Fluor": 1,
-      "TechRadar": 1,
+      "TechRadar": 2,
       "NC DEQ": 2,
-      "Tom's Hardware": 1
+      "Tom's Hardware": 1,
+      "Axios": 1
     },
     "queries": {
       "KY data center announced planned 2026": 1,
-      "TN data center announced planned 2026": 1,
+      "TN data center announced planned 2026": 2,
       "NC data center announced planned 2026": 2,
-      "Tom's Hardware article on Meta's data center expansion": 1
+      "Tom's Hardware article on Meta's data center expansion": 1,
+      "GA data center announced planned 2026": 1
     },
     "states_with_finds": {
       "KY": 1,
-      "TN": 1,
+      "TN": 2,
       "NC": 2,
-      "LA": 1
+      "LA": 1,
+      "GA": 1
     },
     "states_no_finds_streak": {
-      "KY": 5,
-      "TN": 4,
-      "NC": 1,
-      "LA": 0
+      "KY": 6,
+      "TN": 0,
+      "NC": 2,
+      "LA": 1,
+      "GA": 0
     },
-    "last_updated": "2026-07-20"
+    "last_updated": "2026-07-27"
   },
   "SPP": {
-    "total_runs": 8,
-    "total_finds": 11,
+    "total_runs": 9,
+    "total_finds": 13,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -38,35 +42,35 @@
       "Nasdaq": 2,
       "GlobeNewswire": 1,
       "The Star": 1,
-      "Interconnection Queue Tracker": 2,
+      "Interconnection Queue Tracker": 4,
       "SPP Interconnection Queue Tracker": 2
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
       "Hyperscaler check for Meta data centers in OK": 1,
-      "SPP interconnection queue large load data center 2026": 6,
+      "SPP interconnection queue large load data center 2026": 8,
       "Google data center MN 2026": 1,
       "Hyperscaler check for Google data centers in MN": 1,
       "New announcement search for Oklahoma data centers": 1
     },
     "states_with_finds": {
       "MN": 3,
-      "OK": 4,
+      "OK": 5,
       "AR": 1,
       "TX": 1,
-      "MO": 2
+      "MO": 3
     },
     "states_no_finds_streak": {
-      "MN": 3,
+      "MN": 4,
       "OK": 0,
-      "AR": 5,
-      "TX": 4,
+      "AR": 6,
+      "TX": 5,
       "MO": 0
     },
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-07-27"
   },
   "NYISO": {
-    "total_runs": 3,
+    "total_runs": 4,
     "total_finds": 3,
     "sources": {
       "PR Newswire": 2,
@@ -80,9 +84,9 @@
       "NY": 3
     },
     "states_no_finds_streak": {
-      "NY": 1
+      "NY": 2
     },
-    "last_updated": "2026-07-20"
+    "last_updated": "2026-07-27"
   },
   "WECC": {
     "total_runs": 6,
@@ -114,33 +118,34 @@
     "last_updated": "2026-07-20"
   },
   "PJM": {
-    "total_runs": 6,
-    "total_finds": 6,
+    "total_runs": 7,
+    "total_finds": 7,
     "sources": {
       "Tom's Hardware": 1,
       "TechRadar": 2,
-      "NC DEQ": 2,
+      "NC DEQ": 3,
       "Data Center Dynamics": 1
     },
     "queries": {
       "PA data center announced planned 2026": 2,
       "TN data center announced planned 2026": 1,
       "NC data center announced planned 2026": 2,
-      "VA data center announced planned 2026": 1
+      "VA data center announced planned 2026": 1,
+      "NC DEQ press release": 1
     },
     "states_with_finds": {
       "PA": 2,
       "TN": 1,
-      "NC": 2,
+      "NC": 3,
       "VA": 1
     },
     "states_no_finds_streak": {
-      "PA": 0,
-      "TN": 4,
-      "NC": 1,
-      "VA": 0
+      "PA": 1,
+      "TN": 5,
+      "NC": 0,
+      "VA": 1
     },
-    "last_updated": "2026-07-20"
+    "last_updated": "2026-07-27"
   },
   "ERCOT": {
     "total_runs": 4,

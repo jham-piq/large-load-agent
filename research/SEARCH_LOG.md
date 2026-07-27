@@ -389,3 +389,81 @@ Use this to refine search queries and identify coverage gaps over time.
   - Groundbreaking ceremony held for Project Cardinal in IL.
 - **Meta Prometheus New Albany Data Center**: Under Construction → Operational
   - Meta's New Albany Data Center is now operational.
+
+## 2026-07-27 — NYISO (New York) (delta run)
+
+### Stage updates (13)
+
+- **TeraWulf Lake Mariner - CB-2B**: Under Construction → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **TeraWulf Lake Mariner - CB-3**: Under Construction → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **TeraWulf Lake Mariner - CB-4**: Under Construction → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **TeraWulf Lake Mariner - CB-5**: Under Construction → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **DataBank LGA4**: Planned → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **TeraWulf Lake Mariner - Remaining Expansion**: Planned → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **TeraWulf Lake Hawkeye (Cayuga Data Campus)**: Announced → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **Blockfusion Niagara Falls - Expansion**: Planned → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **North East Data LLC Data Center (Blockfusion USA)**: Early Stage → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **NYDIG Massena East Data Center**: Planned → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **ZeroC / Petawatt Holdings Massena Data Center**: Early Stage → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **North Country Data Center Expansion**: Planned → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+- **IBM Quantum Starling Data Center**: Announced → On Hold
+  - Project paused due to New York's statewide moratorium on large-scale data centers.
+
+## 2026-07-27 — SERC (Southeast) (delta run)
+
+### New projects (+2)
+
+- **Project Camellia** (GA, Announced, 3200 MW)
+  - Source: TechRadar (2026-07-24)
+  - Found via: GA data center announced planned 2026
+- **DC Blox Nashville Data Center** (TN, Planned, 10 MW)
+  - Source: Axios (2026-07-23)
+  - Found via: TN data center announced planned 2026
+
+### Stage updates (1)
+
+- **Amazon Energy Way Tech Campus**: Under Construction → Planned
+  - Public hearing announced for air quality permits related to the data center, indicating a potential delay or reevaluation of the project's construction timeline.
+
+## 2026-07-27 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Energy Way Tech Campus** (NC, Early Stage)
+  - Source: NC DEQ (2026-06-26)
+  - Found via: NC DEQ press release
+
+### Stage updates (1)
+
+- **DC Blox Nashville Data Center**: Planned → Under Construction
+  - Despite new regulations, the DC Blox project near the Nashville Zoo is expected to proceed, with construction potentially delayed by several months.
+
+## 2026-07-27 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+2)
+
+- **IREN Oklahoma Campus** (OK, Permitting, 1600 MW)
+  - Source: Interconnection Queue Tracker (2026-07-09)
+  - Found via: SPP interconnection queue large load data center 2026
+- **Google 'Project Mica' (Kansas City Northland)** (MO, Permitting)
+  - Source: Interconnection Queue Tracker (2026-07-09)
+  - Found via: SPP interconnection queue large load data center 2026
+
+### Stage updates (2)
+
+- **Meta Project Anthem - Phase 1**: Under Construction → Operational
+  - Meta's Project Anthem Phase 1 in Tulsa, OK has transitioned from under construction to operational.
+- **Google Omaha Data Center**: Under Construction → Operational
+  - Google's Omaha Data Center in Douglas County, NE has transitioned from under construction to operational.

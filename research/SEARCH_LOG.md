@@ -467,3 +467,53 @@ Use this to refine search queries and identify coverage gaps over time.
   - Meta's Project Anthem Phase 1 in Tulsa, OK has transitioned from under construction to operational.
 - **Google Omaha Data Center**: Under Construction → Operational
   - Google's Omaha Data Center in Douglas County, NE has transitioned from under construction to operational.
+
+## 2026-08-03 — CAISO (California) (full run)
+
+### New projects (+1)
+
+- **Imperial Valley Computer Manufacturing Data Center** (CA, On Hold, 330 MW)
+  - Source: TechRadar (2026-07-29)
+  - Found via: California data center moratorium rezoning opposition 2026
+
+## 2026-08-03 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **Georgia Power Transmission Line Expansion** (GA, Under Construction)
+  - Source: Tom's Hardware (2026-07-30)
+  - Found via: GA data center announced planned 2026
+
+## 2026-08-03 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Plymouth Township AI Data Center** (PA, Early Stage)
+  - Source: Tom's Hardware (2026-07-30)
+  - Found via: PA data center announced planned 2026
+
+### Stage updates (1)
+
+- **SoftBank Pike County AI Data Center Campus**: Under Construction → Planned
+  - Nvidia considering $250 billion guarantee to support OpenAI's potential lease of the campus.
+
+## 2026-08-03 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **Google Pine Island Data Center** (MN, Under Construction, 1900 MW)
+  - Source: TechSpot (2026-03-01)
+  - Found via: Google data center MN 2026
+
+### Stage updates (1)
+
+- **Google Pine Island Data Center**: Planned → Under Construction
+  - Construction has commenced on Google's Pine Island Data Center in Minnesota, with plans to utilize renewable energy and innovative battery storage solutions.
+
+## 2026-08-03 — ERCOT (Texas) (delta run)
+
+### New projects (+1)
+
+- **Meta El Paso Data Center** (TX, Announced)
+  - Source: Meta Newsroom (2026-07-28)
+  - Found via: Meta data center TX 2026

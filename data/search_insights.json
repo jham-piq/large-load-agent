@@ -1,12 +1,12 @@
 {
   "SERC": {
-    "total_runs": 7,
-    "total_finds": 7,
+    "total_runs": 8,
+    "total_finds": 8,
     "sources": {
       "Fluor": 1,
       "TechRadar": 2,
       "NC DEQ": 2,
-      "Tom's Hardware": 1,
+      "Tom's Hardware": 2,
       "Axios": 1
     },
     "queries": {
@@ -14,27 +14,27 @@
       "TN data center announced planned 2026": 2,
       "NC data center announced planned 2026": 2,
       "Tom's Hardware article on Meta's data center expansion": 1,
-      "GA data center announced planned 2026": 1
+      "GA data center announced planned 2026": 2
     },
     "states_with_finds": {
       "KY": 1,
       "TN": 2,
       "NC": 2,
       "LA": 1,
-      "GA": 1
+      "GA": 2
     },
     "states_no_finds_streak": {
-      "KY": 6,
-      "TN": 0,
-      "NC": 2,
-      "LA": 1,
+      "KY": 7,
+      "TN": 1,
+      "NC": 3,
+      "LA": 2,
       "GA": 0
     },
-    "last_updated": "2026-07-27"
+    "last_updated": "2026-08-03"
   },
   "SPP": {
-    "total_runs": 9,
-    "total_finds": 13,
+    "total_runs": 10,
+    "total_finds": 14,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -43,31 +43,32 @@
       "GlobeNewswire": 1,
       "The Star": 1,
       "Interconnection Queue Tracker": 4,
-      "SPP Interconnection Queue Tracker": 2
+      "SPP Interconnection Queue Tracker": 2,
+      "TechSpot": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
       "Hyperscaler check for Meta data centers in OK": 1,
       "SPP interconnection queue large load data center 2026": 8,
-      "Google data center MN 2026": 1,
+      "Google data center MN 2026": 2,
       "Hyperscaler check for Google data centers in MN": 1,
       "New announcement search for Oklahoma data centers": 1
     },
     "states_with_finds": {
-      "MN": 3,
+      "MN": 4,
       "OK": 5,
       "AR": 1,
       "TX": 1,
       "MO": 3
     },
     "states_no_finds_streak": {
-      "MN": 4,
-      "OK": 0,
-      "AR": 6,
-      "TX": 5,
-      "MO": 0
+      "MN": 0,
+      "OK": 1,
+      "AR": 7,
+      "TX": 6,
+      "MO": 1
     },
-    "last_updated": "2026-07-27"
+    "last_updated": "2026-08-03"
   },
   "NYISO": {
     "total_runs": 4,
@@ -118,56 +119,73 @@
     "last_updated": "2026-07-20"
   },
   "PJM": {
-    "total_runs": 7,
-    "total_finds": 7,
+    "total_runs": 8,
+    "total_finds": 8,
     "sources": {
-      "Tom's Hardware": 1,
+      "Tom's Hardware": 2,
       "TechRadar": 2,
       "NC DEQ": 3,
       "Data Center Dynamics": 1
     },
     "queries": {
-      "PA data center announced planned 2026": 2,
+      "PA data center announced planned 2026": 3,
       "TN data center announced planned 2026": 1,
       "NC data center announced planned 2026": 2,
       "VA data center announced planned 2026": 1,
       "NC DEQ press release": 1
     },
     "states_with_finds": {
-      "PA": 2,
+      "PA": 3,
       "TN": 1,
       "NC": 3,
       "VA": 1
     },
     "states_no_finds_streak": {
-      "PA": 1,
-      "TN": 5,
-      "NC": 0,
-      "VA": 1
+      "PA": 0,
+      "TN": 6,
+      "NC": 1,
+      "VA": 2
     },
-    "last_updated": "2026-07-27"
+    "last_updated": "2026-08-03"
   },
   "ERCOT": {
-    "total_runs": 4,
-    "total_finds": 5,
+    "total_runs": 5,
+    "total_finds": 6,
     "sources": {
       "Google Data Centers": 1,
-      "Meta Newsroom": 1,
+      "Meta Newsroom": 2,
       "Tom's Hardware": 2,
       "Data Center Dynamics": 1
     },
     "queries": {
       "Google data center TX 2026": 1,
-      "Meta data center TX 2026": 1,
+      "Meta data center TX 2026": 2,
       "SpaceX semiconductor factory TX 2026": 1,
       "TX data center announced planned 2026": 2
     },
     "states_with_finds": {
-      "TX": 5
+      "TX": 6
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-07-06"
+    "last_updated": "2026-08-03"
+  },
+  "CAISO": {
+    "total_runs": 1,
+    "total_finds": 1,
+    "sources": {
+      "TechRadar": 1
+    },
+    "queries": {
+      "California data center moratorium rezoning opposition 2026": 1
+    },
+    "states_with_finds": {
+      "CA": 1
+    },
+    "states_no_finds_streak": {
+      "CA": 0
+    },
+    "last_updated": "2026-08-03"
   }
 }

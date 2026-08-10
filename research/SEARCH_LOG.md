@@ -517,3 +517,58 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Meta El Paso Data Center** (TX, Announced)
   - Source: Meta Newsroom (2026-07-28)
   - Found via: Meta data center TX 2026
+
+## 2026-08-10 — NYISO (New York) (delta run)
+
+### Stage updates (1)
+
+- **Municipal Data & Power Data & Power Sovereignty Initiative**: Announced → On Hold
+  - Governor Kathy Hochul issued Executive Order No. 62, pausing discretionary state permits for data centers consuming 50 MW or more, affecting the project's progress.
+
+## 2026-08-10 — SERC (Southeast) (delta run)
+
+### Stage updates (3)
+
+- **DC BLOX Nashville Data Center**: On Hold → Cancelled
+  - Nashville Metro Council approved the use of eminent domain to prevent the $700 million data center development by DC Blox near the Nashville Zoo.
+- **Mason County Hyperscale Campus (Fortune 50, undisclosed)**: Early Stage → On Hold
+  - A Kentucky family refused a $26 million offer from an AI company to purchase their farmland for a data center, halting the project's progress.
+- **Amazon Web Services Caroline-Spotsylvania-Stafford Campus**: Planned → On Hold
+  - Virginia regulators mandated that data centers fully finance their own dedicated electrical infrastructure, potentially delaying or halting planned projects.
+
+## 2026-08-10 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **OpenAI Ohio Data Center** (OH, Planned, 800 MW)
+  - Source: TechRadar (2026-08-04)
+  - Found via: TechRadar article on OpenAI's Ohio data center plans
+
+### Stage updates (1)
+
+- **DC Blox Nashville Data Center**: Under Construction → On Hold
+  - The Nashville Metro Council approved the use of eminent domain to prevent the construction of the DC Blox data center near the Nashville Zoo, effectively halting the project.
+
+## 2026-08-10 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **Terafab Semiconductor Manufacturing Campus** (TX, Under Construction)
+  - Source: Tom's Hardware (2026-08-08)
+  - Found via: New announcement search for Texas data centers
+
+### Stage updates (1)
+
+- **Google Pine Island Data Center**: Under Construction → Operational
+  - The Google Pine Island Data Center in Goodhue County, MN, has become operational.
+
+## 2026-08-10 — ERCOT (Texas) (delta run)
+
+### Stage updates (3)
+
+- **OpenAI – SB Energy Data Center (Milam County)**: Announced → On Hold
+  - Project placed on hold due to statewide moratorium on new data center approvals.
+- **Vantage Frontier Campus (Shackelford County)**: Announced → On Hold
+  - Project placed on hold due to statewide moratorium on new data center approvals.
+- **Provident / PowerHouse – Grand Prairie Hyperscale Campus**: Announced → On Hold
+  - Project placed on hold due to statewide moratorium on new data center approvals.

@@ -572,3 +572,40 @@ Use this to refine search queries and identify coverage gaps over time.
   - Project placed on hold due to statewide moratorium on new data center approvals.
 - **Provident / PowerHouse – Grand Prairie Hyperscale Campus**: Announced → On Hold
   - Project placed on hold due to statewide moratorium on new data center approvals.
+
+## 2026-08-17 — NYISO (New York) (delta run)
+
+### Stage updates (2)
+
+- **Global AI Endicott Facility Expansion**: Under Construction → On Hold
+  - Project placed on hold due to statewide moratorium on new hyperscale data centers.
+- **Hudson InterXchange 60 Hudson Expansion**: Under Construction → On Hold
+  - Project placed on hold due to statewide moratorium on new hyperscale data centers.
+
+## 2026-08-17 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **Golden Valley Technology Hub** (CA, Planned, 275 MW)
+  - Source: DataCenterDynamics (2026-06-24)
+  - Found via: Industry tracker search
+
+### Stage updates (1)
+
+- **DataBank and Goodman Group Vernon Joint Venture**: Planned → Under Construction
+  - Construction has commenced on the 32MW data center facility in Vernon, CA, with the first 6MW phase expected to launch in December 2026.
+
+## 2026-08-17 — CAISO (California) (delta run)
+
+### New projects (+1)
+
+- **DataBank and Goodman Group Los Angeles Data Center** (CA, Announced, 32 MW)
+  - Source: Goodman Group (2026-07-04)
+  - Found via: Industry tracker search
+
+## 2026-08-17 — SERC (Southeast) (delta run)
+
+### Stage updates (1)
+
+- **DC BLOX Nashville Data Center**: Planned → On Hold
+  - Nashville's Metro Council voted to potentially use eminent domain to block DC BLOX's $700 million data center project near the Nashville Zoo, leading to the project's suspension.

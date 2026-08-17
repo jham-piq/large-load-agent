@@ -1,6 +1,6 @@
 {
   "SERC": {
-    "total_runs": 9,
+    "total_runs": 10,
     "total_finds": 8,
     "sources": {
       "Fluor": 1,
@@ -24,13 +24,13 @@
       "GA": 2
     },
     "states_no_finds_streak": {
-      "KY": 8,
-      "TN": 2,
-      "NC": 4,
-      "LA": 3,
-      "GA": 1
+      "KY": 9,
+      "TN": 3,
+      "NC": 5,
+      "LA": 4,
+      "GA": 2
     },
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-17"
   },
   "SPP": {
     "total_runs": 11,
@@ -73,7 +73,7 @@
     "last_updated": "2026-08-10"
   },
   "NYISO": {
-    "total_runs": 5,
+    "total_runs": 6,
     "total_finds": 3,
     "sources": {
       "PR Newswire": 2,
@@ -87,38 +87,39 @@
       "NY": 3
     },
     "states_no_finds_streak": {
-      "NY": 3
+      "NY": 4
     },
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-17"
   },
   "WECC": {
-    "total_runs": 6,
-    "total_finds": 5,
+    "total_runs": 7,
+    "total_finds": 6,
     "sources": {
       "PowerOnline": 1,
       "Goodman Group": 2,
       "Microsoft Source": 1,
-      "Tom's Hardware": 1
+      "Tom's Hardware": 1,
+      "DataCenterDynamics": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
-      "Industry tracker search": 2,
+      "Industry tracker search": 3,
       "Microsoft data center CA, OR, WA, NV, AZ, UT, CO, ID, MT, WY, NM 2026": 1,
       "AZ data center announced planned 2026": 1
     },
     "states_with_finds": {
       "NV": 1,
-      "CA": 2,
+      "CA": 3,
       "WY": 1,
       "AZ": 1
     },
     "states_no_finds_streak": {
-      "NV": 5,
-      "CA": 1,
-      "WY": 2,
-      "AZ": 0
+      "NV": 6,
+      "CA": 0,
+      "WY": 3,
+      "AZ": 1
     },
-    "last_updated": "2026-07-20"
+    "last_updated": "2026-08-17"
   },
   "PJM": {
     "total_runs": 9,
@@ -177,20 +178,22 @@
     "last_updated": "2026-08-10"
   },
   "CAISO": {
-    "total_runs": 1,
-    "total_finds": 1,
+    "total_runs": 2,
+    "total_finds": 2,
     "sources": {
-      "TechRadar": 1
+      "TechRadar": 1,
+      "Goodman Group": 1
     },
     "queries": {
-      "California data center moratorium rezoning opposition 2026": 1
+      "California data center moratorium rezoning opposition 2026": 1,
+      "Industry tracker search": 1
     },
     "states_with_finds": {
-      "CA": 1
+      "CA": 2
     },
     "states_no_finds_streak": {
       "CA": 0
     },
-    "last_updated": "2026-08-03"
+    "last_updated": "2026-08-17"
   }
 }

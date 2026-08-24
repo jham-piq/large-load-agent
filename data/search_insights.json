@@ -33,8 +33,8 @@
     "last_updated": "2026-08-17"
   },
   "SPP": {
-    "total_runs": 11,
-    "total_finds": 15,
+    "total_runs": 12,
+    "total_finds": 17,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -45,7 +45,9 @@
       "Interconnection Queue Tracker": 4,
       "SPP Interconnection Queue Tracker": 2,
       "TechSpot": 1,
-      "Tom's Hardware": 1
+      "Tom's Hardware": 1,
+      "Louisiana Economic Development": 1,
+      "Data Center Dynamics": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
@@ -54,23 +56,27 @@
       "Google data center MN 2026": 2,
       "Hyperscaler check for Google data centers in MN": 1,
       "New announcement search for Oklahoma data centers": 1,
-      "New announcement search for Texas data centers": 1
+      "New announcement search for Texas data centers": 1,
+      "New-announcement search; Louisiana Economic Development release on Amazon's August 18 expansion.": 1,
+      "Texas new-announcement search; Data Center Dynamics reporting on InfraTech's August 20 announcement.": 1
     },
     "states_with_finds": {
       "MN": 4,
       "OK": 5,
       "AR": 1,
-      "TX": 2,
-      "MO": 3
+      "TX": 3,
+      "MO": 3,
+      "LA": 1
     },
     "states_no_finds_streak": {
-      "MN": 1,
-      "OK": 2,
-      "AR": 8,
+      "MN": 2,
+      "OK": 3,
+      "AR": 9,
       "TX": 0,
-      "MO": 2
+      "MO": 3,
+      "LA": 0
     },
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-24"
   },
   "NYISO": {
     "total_runs": 6,
@@ -92,43 +98,46 @@
     "last_updated": "2026-08-17"
   },
   "WECC": {
-    "total_runs": 7,
-    "total_finds": 6,
+    "total_runs": 8,
+    "total_finds": 7,
     "sources": {
       "PowerOnline": 1,
       "Goodman Group": 2,
       "Microsoft Source": 1,
       "Tom's Hardware": 1,
-      "DataCenterDynamics": 1
+      "DataCenterDynamics": 1,
+      "Nevada Current": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
       "Industry tracker search": 3,
       "Microsoft data center CA, OR, WA, NV, AZ, UT, CO, ID, MT, WY, NM 2026": 1,
-      "AZ data center announced planned 2026": 1
+      "AZ data center announced planned 2026": 1,
+      "Stage-change follow-up on Nevada data-center moratorium and ban coverage.": 1
     },
     "states_with_finds": {
-      "NV": 1,
+      "NV": 2,
       "CA": 3,
       "WY": 1,
       "AZ": 1
     },
     "states_no_finds_streak": {
-      "NV": 6,
-      "CA": 0,
-      "WY": 3,
-      "AZ": 1
+      "NV": 0,
+      "CA": 1,
+      "WY": 4,
+      "AZ": 2
     },
-    "last_updated": "2026-08-17"
+    "last_updated": "2026-08-24"
   },
   "PJM": {
-    "total_runs": 9,
-    "total_finds": 9,
+    "total_runs": 10,
+    "total_finds": 11,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
       "NC DEQ": 3,
-      "Data Center Dynamics": 1
+      "Data Center Dynamics": 1,
+      "WHYY": 2
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -136,65 +145,72 @@
       "NC data center announced planned 2026": 2,
       "VA data center announced planned 2026": 1,
       "NC DEQ press release": 1,
-      "TechRadar article on OpenAI's Ohio data center plans": 1
+      "TechRadar article on OpenAI's Ohio data center plans": 1,
+      "NJ data center announced planned 2026; follow-on WHYY permitting coverage": 1,
+      "Stage change check; WHYY reporting on Upper Merion Township denial": 1
     },
     "states_with_finds": {
-      "PA": 3,
+      "PA": 4,
       "TN": 1,
       "NC": 3,
       "VA": 1,
-      "OH": 1
+      "OH": 1,
+      "NJ": 1
     },
     "states_no_finds_streak": {
-      "PA": 1,
-      "TN": 7,
-      "NC": 2,
-      "VA": 3,
-      "OH": 0
+      "PA": 0,
+      "TN": 8,
+      "NC": 3,
+      "VA": 4,
+      "OH": 1,
+      "NJ": 0
     },
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-24"
   },
   "ERCOT": {
-    "total_runs": 6,
-    "total_finds": 6,
+    "total_runs": 7,
+    "total_finds": 11,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 2,
       "Tom's Hardware": 2,
-      "Data Center Dynamics": 1
+      "Data Center Dynamics": 6
     },
     "queries": {
       "Google data center TX 2026": 1,
       "Meta data center TX 2026": 2,
       "SpaceX semiconductor factory TX 2026": 1,
-      "TX data center announced planned 2026": 2
+      "TX data center announced planned 2026": 2,
+      "site:datacenterdynamics.com TX 2026": 5
     },
     "states_with_finds": {
-      "TX": 6
+      "TX": 11
     },
     "states_no_finds_streak": {
-      "TX": 1
+      "TX": 0
     },
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-24"
   },
   "CAISO": {
-    "total_runs": 2,
-    "total_finds": 2,
+    "total_runs": 3,
+    "total_finds": 3,
     "sources": {
       "TechRadar": 1,
-      "Goodman Group": 1
+      "Goodman Group": 1,
+      "Vallejo Sun": 1
     },
     "queries": {
       "California data center moratorium rezoning opposition 2026": 1,
-      "Industry tracker search": 1
+      "Industry tracker search": 1,
+      "New-announcement and industry-source searches; investor presentation reported by Vallejo Sun and corroborated by Fairfield economic-development discussion.": 1
     },
     "states_with_finds": {
-      "CA": 2
+      "CA": 3
     },
     "states_no_finds_streak": {
       "CA": 0
     },
-    "last_updated": "2026-08-17"
+    "last_updated": "2026-08-24"
   },
   "NEISO": {
     "total_runs": 1,

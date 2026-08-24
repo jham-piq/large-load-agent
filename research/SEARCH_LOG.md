@@ -626,3 +626,61 @@ Use this to refine search queries and identify coverage gaps over time.
   - The City reported that the locally approved project is again being evaluated and that the applicant submitted a technical fact sheet covering cooling technology, anticipated water use, and electrical-service plans.
 - **O&G Industries Beacon Falls Data Center**: Announced → Announced
   - O&G is exploring a revised fuel-cell-powered data center at the same Lopus Road site. The newly reported concept is 100 MW, replacing the prior 32 MW version that did not materialize.
+
+## 2026-08-24 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **Manse Technology Campus** (NV, On Hold)
+  - Source: Nevada Current (2026-08-20)
+  - Found via: Stage-change follow-up on Nevada data-center moratorium and ban coverage.
+
+## 2026-08-24 — CAISO (California) (delta run)
+
+### New projects (+1)
+
+- **Project North Bay Solutions Data Center** (CA, Early Stage, 150 MW)
+  - Source: Vallejo Sun (2026-08-17)
+  - Found via: New-announcement and industry-source searches; investor presentation reported by Vallejo Sun and corroborated by Fairfield economic-development discussion.
+
+## 2026-08-24 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+2)
+
+- **DataOne / Nebius Vineland AI Data Center** (NJ, Under Construction, 300 MW)
+  - Source: WHYY (2026-08-18)
+  - Found via: NJ data center announced planned 2026; follow-on WHYY permitting coverage
+- **MLP Ventures Upper Merion Data Center Campuses** (PA, On Hold)
+  - Source: WHYY (2026-08-14)
+  - Found via: Stage change check; WHYY reporting on Upper Merion Township denial
+
+## 2026-08-24 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+2)
+
+- **Amazon Web Services Shreveport Data Center Campus** (LA, Announced)
+  - Source: Louisiana Economic Development (2026-08-18)
+  - Found via: New-announcement search; Louisiana Economic Development release on Amazon's August 18 expansion.
+- **InfraTech Carson County Data Center Campus** (TX, Announced)
+  - Source: Data Center Dynamics (2026-08-20)
+  - Found via: Texas new-announcement search; Data Center Dynamics reporting on InfraTech's August 20 announcement.
+
+## 2026-08-24 — ERCOT (Texas) (delta run)
+
+### New projects (+5)
+
+- **Prometheus Hyperscale / Istmo Pecos Project** (TX, Planned, 2500 MW)
+  - Source: Data Center Dynamics (2026-08-21)
+  - Found via: site:datacenterdynamics.com TX 2026
+- **InfraTech Carson County Data Center Campus** (TX, Announced)
+  - Source: Data Center Dynamics (2026-08-20)
+  - Found via: site:datacenterdynamics.com TX 2026
+- **Project Big Pine** (TX, Early Stage, 800 MW)
+  - Source: Data Center Dynamics (2026-08-17)
+  - Found via: site:datacenterdynamics.com TX 2026
+- **IREN Childress Campus - Horizons 2-4** (TX, Under Construction, 150 MW)
+  - Source: Data Center Dynamics (2026-08-17)
+  - Found via: site:datacenterdynamics.com TX 2026
+- **Crusoe Port of Victoria Data Center Campus** (TX, Planned, 1500 MW)
+  - Source: Data Center Dynamics (2026-08-17)
+  - Found via: site:datacenterdynamics.com TX 2026

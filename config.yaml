@@ -1,5 +1,5 @@
 agent:
-  model: gpt-4o-search-preview
+  model: gpt-5.6-terra
   slack_channel: '#proj-large-load-queue'
 regions:
 - drive_file_id: data/NYISO_Large_Load_Projects.csv
@@ -67,7 +67,7 @@ regions:
   - Idaho Power
   - Puget Sound Energy
   - Nevada Power
-- drive_file_id: /home/runner/work/large-load-agent/large-load-agent/data/CAISO_Large_Load_Projects.csv
+- drive_file_id: data/CAISO_Large_Load_Projects.csv
   id: CAISO
   last_run: '2026-08-17'
   mode: auto

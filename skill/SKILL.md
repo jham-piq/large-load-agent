@@ -4,7 +4,7 @@ description: >
   Weekly agentic workflow that researches large electrical load projects (data centers, AI
   campuses, industrial loads) for grid planning. Runs every Monday via GitHub Actions: reads
   existing regional CSVs from the git repo (data/ folder), searches for new projects announced
-  since the prior week using GPT-4o with web search, appends new rows, updates stage changes,
+  since the prior week using GPT-5.6 with web search, appends new rows, updates stage changes,
   and posts a digest to Slack. The CSVs are committed back to the repo after each run so they
   serve as the baseline for the next run. Use this skill whenever the user asks to run the
   weekly large load agent, update a region's data, check for new data center announcements,
@@ -31,7 +31,7 @@ Every Monday 9am UTC (GitHub Actions cron)
     1. Read existing CSV from data/<REGION>_Large_Load_Projects.csv (committed in git)
        No CSV (drive_file_id: null) → run FULL mode (comprehensive first run)
        CSV exists                  → run DELTA mode (search for what's new since last run)
-    2. GPT-4o (web search enabled) searches for new announcements and stage changes
+    2. GPT-5.6 (Responses API web search) searches for new announcements and stage changes
     3. Merge new rows into existing CSV (dedup on name+phase)
     4. Save updated CSV back to data/ folder
     5. Update search_insights.json with what queries/sources found new projects
@@ -62,7 +62,7 @@ Every Monday 9am UTC (GitHub Actions cron)
   data/                            regional CSVs (committed to git as source of truth)
     <REGION>_Large_Load_Projects.csv
     search_insights.json           per-region signal tracking (sources, queries, states)
-  research/agent.py                calls OpenAI GPT-4o with web search
+  research/agent.py                calls OpenAI Responses API with web search
   research/delta_prompt.md         weekly delta research prompt (injects search insights)
   research/full_prompt.md          comprehensive first-run prompt
   research/merge.py                CSV merge, dedup, and validation logic

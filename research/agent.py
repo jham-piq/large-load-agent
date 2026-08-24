@@ -1,10 +1,9 @@
 """
-Research Agent — calls OpenAI GPT-4o with web search enabled.
+Research Agent — calls OpenAI via the Responses API with the web search tool.
 """
 
 import json
 import logging
-import os
 import re
 from datetime import datetime
 from pathlib import Path
@@ -20,9 +19,9 @@ PROMPTS_DIR = Path(__file__).parent
 
 
 class ResearchAgent:
-    def __init__(self, model="gpt-4o-search-preview"):
+    def __init__(self, model="gpt-5.6-terra"):
         self.model = model
-        self.client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+        self.client = OpenAI()
         self.delta_prompt = (PROMPTS_DIR / "delta_prompt.md").read_text()
         self.full_prompt = (PROMPTS_DIR / "full_prompt.md").read_text()
 
@@ -90,17 +89,23 @@ class ResearchAgent:
         return self._call_openai(system=system, user=user)
 
     def _call_openai(self, system, user):
-        log.info("Calling OpenAI API (gpt-4o-search-preview)...")
-        response = self.client.chat.completions.create(
-            model="gpt-4o-search-preview",
-            messages=[
-                {"role": "system", "content": system},
-                {"role": "user", "content": user},
-            ],
+        log.info(f"Calling OpenAI ({self.model}) with web search...")
+        response = self.client.responses.create(
+            model=self.model,
+            instructions=system,
+            input=user,
+            tools=[{"type": "web_search", "search_context_size": "high"}],
+            reasoning={"effort": "high"},
         )
-        log.info(f"  finish_reason={response.choices[0].finish_reason}")
-        text = response.choices[0].message.content or ""
-        return self._parse_response(text)
+
+        searches = sum(1 for item in response.output if item.type == "web_search_call")
+        log.info(f"  status={response.status}  searches={searches}")
+
+        if response.status == "incomplete":
+            reason = getattr(response.incomplete_details, "reason", None)
+            log.warning(f"Response incomplete ({reason}) — JSON may be truncated")
+
+        return self._parse_response(response.output_text)
 
     def _parse_response(self, text):
         text = text.strip()

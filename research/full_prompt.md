@@ -12,24 +12,23 @@ Run a comprehensive large load research pass on this region.
 
 ---
 
-Follow this 12-step research workflow:
+Follow this research workflow:
 
-1. **PeeringDB** — search for colocation facilities in states: {state_abbrevs}
-2. **Queue baseline** — find total MW in {region_id} interconnection queue
-3. **Regulatory** — FERC filings, state PUC/PSC dockets, RTO queue reports
-4. **Utility** — IRP and 10-year transmission plans for: {utilities}
-5. **Industry / Developer** — trade sites: datacenterdynamics.com, datacenterknowledge.com,
+1. **Queue baseline** — find total MW in {region_id} interconnection queue
+2. **Regulatory** — FERC filings, state PUC/PSC dockets, RTO queue reports
+3. **Utility** — IRP and 10-year transmission plans for: {utilities}
+4. **Industry / Developer** — trade sites: datacenterdynamics.com, datacenterknowledge.com,
    baxtel.com, cleanview.co, buildcentral.com
-6. **Local newspapers** — per-state searches for early-stage and contested projects.
+5. **Local newspapers** — per-state searches for early-stage and contested projects.
    For EACH state run at minimum:
    - `[STATE] data center announced planned 2026 MW developer`
    - `[STATE] data center moratorium rezoning opposition 2026`
-7. **National news** — hyperscale announcements, state econ dev press releases,
+6. **National news** — hyperscale announcements, state econ dev press releases,
    site:writing.strisker.com for the region
-8. **Stage changes** — apply controlled vocabulary to all found projects
-9. **MW + address enrichment** — fill gaps for non-operational rows
-10. **Load sanity check** — compare pipeline MW total to published RTO estimate
-11. **Output JSON**
+7. **Stage changes** — apply controlled vocabulary to all found projects
+8. **MW + address enrichment** — fill gaps for non-operational rows
+9. **Load sanity check** — compare pipeline MW total to published RTO estimate
+10. **Output JSON**
 
 ---
 
@@ -53,7 +52,7 @@ Return ONLY a JSON object. No preamble. No markdown fences. No text outside the 
     "assessment": "Acceptable",
     "notes": "Brief explanation of any gap"
   },
-  "summary": "First run complete for {region_id}. Found N rows (X operational, Y pipeline). Pipeline: Z MW."
+  "summary": "First run complete for {region_id}. Found N pipeline projects totalling Z MW."
 }
 
 Each row in new_rows uses the same schema as the delta prompt, including the `found_via` field noting which search query or source type surfaced the project.
@@ -61,8 +60,11 @@ Each row in new_rows uses the same schema as the delta prompt, including the `fo
 ### Rules
 
 1. stage must be exactly one of: Announced, Early Stage, Planned, Under Construction,
-   Operational, On Hold, Cancelled
-2. source format: Publication Name (YYYY-MM-DD) — no URLs, no type tags
-3. size_mw: MW capacity only — never put dollar amounts or investment figures here; use investment_millions for costs
-4. state: 2-letter abbreviation only
-5. geometry, point_of_interconnection.line_name, onsite_generation.technology: always null
+   On Hold, Cancelled
+2. Track the **pipeline** only. Do not return facilities that are already built and
+   running — no colocation directory listings, no existing data center inventories.
+   A project belongs in the output only if its load is not yet energized.
+3. source format: Publication Name (YYYY-MM-DD) — no URLs, no type tags
+4. size_mw: MW capacity only — never put dollar amounts or investment figures here; use investment_millions for costs
+5. state: 2-letter abbreviation only
+6. geometry, point_of_interconnection.line_name, onsite_generation.technology: always null

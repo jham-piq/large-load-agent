@@ -16,6 +16,11 @@ VALID_STAGES = {
     "Operational", "On Hold", "Cancelled", "Land Banked",
 }
 
+# The tracker follows the pipeline. A project already in the dataset may be
+# promoted to Operational by a stage update, but an already-running facility is
+# never a new row.
+NEW_ROW_EXCLUDED_STAGES = {"Operational"}
+
 # Canonical Atlas column order — enforced on every save
 CANONICAL_COLUMNS = [
     "name", "developer", "previous_owner", "phase", "size_mw", "footprint_sqft",
@@ -348,6 +353,8 @@ def _validate_row(row):
     stage = row.get("stage", "")
     if stage and stage not in VALID_STAGES:
         issues.append(f"Invalid stage: '{stage}'")
+    if stage in NEW_ROW_EXCLUDED_STAGES:
+        issues.append(f"Stage '{stage}' is out of scope for new rows — pipeline only")
 
     state = row.get("state", "")
     if state and len(state) != 2:

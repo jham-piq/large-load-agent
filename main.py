@@ -174,7 +174,7 @@ def main():
     errors = []
     for i, region in enumerate(regions):
         if i > 0:
-            time.sleep(15)  # avoid rate limits on gpt-4o-search-preview between regions
+            time.sleep(15)  # avoid rate limits between regions
         try:
             run_region(
                 region=region,

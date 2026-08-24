@@ -118,11 +118,15 @@ Return ONLY a JSON object. No preamble. No markdown fences. No text outside the 
 ### Rules
 
 1. Only include projects NOT already in the existing dataset
-2. stage must be exactly one of: Announced, Early Stage, Planned, Under Construction,
-   Operational, On Hold, Cancelled
-3. source format: Publication Name (YYYY-MM-DD) — no URLs, no type tags
-4. size_mw: MW capacity only — never put dollar amounts or investment figures here; use investment_millions for costs
-5. state: 2-letter abbreviation only
-6. geometry, point_of_interconnection.line_name, onsite_generation.technology: always null
-7. If nothing new found, return:
+2. `new_rows` tracks the **pipeline** only — stage must be exactly one of: Announced,
+   Early Stage, Planned, Under Construction, On Hold, Cancelled. Never add a facility
+   that is already built and running, and never pull from colocation directories or
+   existing data center inventories.
+3. `stage_updates` may use Operational — a project already in the dataset coming online
+   is exactly the kind of change worth recording.
+4. source format: Publication Name (YYYY-MM-DD) — no URLs, no type tags
+5. size_mw: MW capacity only — never put dollar amounts or investment figures here; use investment_millions for costs
+6. state: 2-letter abbreviation only
+7. geometry, point_of_interconnection.line_name, onsite_generation.technology: always null
+8. If nothing new found, return:
    {"new_rows": [], "stage_updates": [], "summary": "No new projects found in {region_id} since {since_date}."}

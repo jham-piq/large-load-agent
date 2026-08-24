@@ -609,3 +609,20 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **DC BLOX Nashville Data Center**: Planned → On Hold
   - Nashville's Metro Council voted to potentially use eminent domain to block DC BLOX's $700 million data center project near the Nashville Zoo, leading to the project's suspension.
+
+## 2026-08-24 — ISO-NE (New England) (delta run)
+
+### New projects (+1)
+
+- **Moulton Nottingham Data Center** (NH, On Hold)
+  - Source: New Hampshire Public Radio (2026-07-03)
+  - Found via: NH state new-announcement search; reported May proposal and subsequent withdrawal/moratorium coverage
+
+### Stage updates (3)
+
+- **JGT2 / Sentinel Data Centers Jay Mill**: Early Stage → On Hold
+  - Sentinel Data Centers told site owner JGT2 Redevelopment that it did not intend to proceed with the former Androscoggin Mill project. JGT2 is seeking other interested parties, but the data center project is currently on hold.
+- **Servistar Westfield Data Center Campus**: On Hold → Early Stage
+  - The City reported that the locally approved project is again being evaluated and that the applicant submitted a technical fact sheet covering cooling technology, anticipated water use, and electrical-service plans.
+- **O&G Industries Beacon Falls Data Center**: Announced → Announced
+  - O&G is exploring a revised fuel-cell-powered data center at the same Lopus Road site. The newly reported concept is 100 MW, replacing the prior 32 MW version that did not materialize.

@@ -195,5 +195,22 @@
       "CA": 0
     },
     "last_updated": "2026-08-17"
+  },
+  "NEISO": {
+    "total_runs": 1,
+    "total_finds": 1,
+    "sources": {
+      "New Hampshire Public Radio": 1
+    },
+    "queries": {
+      "NH state new-announcement search; reported May proposal and subsequent withdrawal/moratorium coverage": 1
+    },
+    "states_with_finds": {
+      "NH": 1
+    },
+    "states_no_finds_streak": {
+      "NH": 0
+    },
+    "last_updated": "2026-08-24"
   }
 }

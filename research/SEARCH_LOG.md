@@ -684,3 +684,41 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Crusoe Port of Victoria Data Center Campus** (TX, Planned, 1500 MW)
   - Source: Data Center Dynamics (2026-08-17)
   - Found via: site:datacenterdynamics.com TX 2026
+
+## 2026-08-31 — CAISO (California) (delta run)
+
+### Stage updates (1)
+
+- **Imperial Valley Computer Manufacturing Data Center**: On Hold → Planned
+  - Imperial County stated that Superior Court ordered the County to set aside its data center moratorium; the project-specific developer was the plaintiff in the case, removing the countywide approval hold, though broader policy review continues.
+
+## 2026-08-31 — SERC (Southeast) (delta run)
+
+### Stage updates (1)
+
+- **TeraWulf Kentucky Data Center Campus**: Early Stage → Planned
+  - Kentucky PSC approved a 482 MW retail electric service agreement for the now-identified Justified Data Campus in Hancock County; the campus will use an existing 482 MW grid connection, has Anthropic as a long-term tenant, and its first facility is expected online in 2027.
+
+## 2026-08-31 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **TeraWulf Justified Data Campus** (KY, Under Construction, 482 MW)
+  - Source: Engineering News-Record (2026-08-25)
+  - Found via: Industry-tracker search: site:datacenterdynamics.com VA OR MD OR PA OR OH OR IN OR IL OR WV OR DE OR NJ OR MI OR NC OR KY OR TN data center 2026
+
+### Stage updates (1)
+
+- **Energy Way Tech Campus**: Early Stage → Planned
+  - NCDEQ issued final air-quality permits for Amazon Data Services and Duke Energy Progress, authorizing 588 emergency backup engines at the Airport Road campus in Hamlet and 57 temporary bridge-power engines pending grid connection.
+
+## 2026-08-31 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+2)
+
+- **Prometheus Hyperscale Natrona County Data Center Campus** (WY, Early Stage, 1500 MW)
+  - Source: Prometheus Hyperscale (2026-08-28)
+  - Found via: WY state search; developer announcement of the Natrona County partnership with Mesa Power Solutions.
+- **Prometheus Hyperscale Evanston Campus** (WY, Planned, 1200 MW)
+  - Source: Prometheus Hyperscale (2026-08-27)
+  - Found via: WY state search; developer notice of Uinta County Planning and Zoning permit recommendation.

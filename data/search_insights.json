@@ -1,6 +1,6 @@
 {
   "SERC": {
-    "total_runs": 10,
+    "total_runs": 11,
     "total_finds": 8,
     "sources": {
       "Fluor": 1,
@@ -24,17 +24,17 @@
       "GA": 2
     },
     "states_no_finds_streak": {
-      "KY": 9,
-      "TN": 3,
-      "NC": 5,
-      "LA": 4,
-      "GA": 2
+      "KY": 10,
+      "TN": 4,
+      "NC": 6,
+      "LA": 5,
+      "GA": 3
     },
-    "last_updated": "2026-08-17"
+    "last_updated": "2026-08-31"
   },
   "SPP": {
-    "total_runs": 12,
-    "total_finds": 17,
+    "total_runs": 13,
+    "total_finds": 19,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -47,7 +47,8 @@
       "TechSpot": 1,
       "Tom's Hardware": 1,
       "Louisiana Economic Development": 1,
-      "Data Center Dynamics": 1
+      "Data Center Dynamics": 1,
+      "Prometheus Hyperscale": 2
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
@@ -58,7 +59,9 @@
       "New announcement search for Oklahoma data centers": 1,
       "New announcement search for Texas data centers": 1,
       "New-announcement search; Louisiana Economic Development release on Amazon's August 18 expansion.": 1,
-      "Texas new-announcement search; Data Center Dynamics reporting on InfraTech's August 20 announcement.": 1
+      "Texas new-announcement search; Data Center Dynamics reporting on InfraTech's August 20 announcement.": 1,
+      "WY state search; developer announcement of the Natrona County partnership with Mesa Power Solutions.": 1,
+      "WY state search; developer notice of Uinta County Planning and Zoning permit recommendation.": 1
     },
     "states_with_finds": {
       "MN": 4,
@@ -66,17 +69,19 @@
       "AR": 1,
       "TX": 3,
       "MO": 3,
-      "LA": 1
+      "LA": 1,
+      "WY": 2
     },
     "states_no_finds_streak": {
-      "MN": 2,
-      "OK": 3,
-      "AR": 9,
-      "TX": 0,
-      "MO": 3,
-      "LA": 0
+      "MN": 3,
+      "OK": 4,
+      "AR": 10,
+      "TX": 1,
+      "MO": 4,
+      "LA": 1,
+      "WY": 0
     },
-    "last_updated": "2026-08-24"
+    "last_updated": "2026-08-31"
   },
   "NYISO": {
     "total_runs": 6,
@@ -130,14 +135,15 @@
     "last_updated": "2026-08-24"
   },
   "PJM": {
-    "total_runs": 10,
-    "total_finds": 11,
+    "total_runs": 11,
+    "total_finds": 12,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
       "NC DEQ": 3,
       "Data Center Dynamics": 1,
-      "WHYY": 2
+      "WHYY": 2,
+      "Engineering News-Record": 1
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -147,7 +153,8 @@
       "NC DEQ press release": 1,
       "TechRadar article on OpenAI's Ohio data center plans": 1,
       "NJ data center announced planned 2026; follow-on WHYY permitting coverage": 1,
-      "Stage change check; WHYY reporting on Upper Merion Township denial": 1
+      "Stage change check; WHYY reporting on Upper Merion Township denial": 1,
+      "Industry-tracker search: site:datacenterdynamics.com VA OR MD OR PA OR OH OR IN OR IL OR WV OR DE OR NJ OR MI OR NC OR KY OR TN data center 2026": 1
     },
     "states_with_finds": {
       "PA": 4,
@@ -155,17 +162,19 @@
       "NC": 3,
       "VA": 1,
       "OH": 1,
-      "NJ": 1
+      "NJ": 1,
+      "KY": 1
     },
     "states_no_finds_streak": {
-      "PA": 0,
-      "TN": 8,
-      "NC": 3,
-      "VA": 4,
-      "OH": 1,
-      "NJ": 0
+      "PA": 1,
+      "TN": 9,
+      "NC": 4,
+      "VA": 5,
+      "OH": 2,
+      "NJ": 1,
+      "KY": 0
     },
-    "last_updated": "2026-08-24"
+    "last_updated": "2026-08-31"
   },
   "ERCOT": {
     "total_runs": 7,
@@ -192,7 +201,7 @@
     "last_updated": "2026-08-24"
   },
   "CAISO": {
-    "total_runs": 3,
+    "total_runs": 4,
     "total_finds": 3,
     "sources": {
       "TechRadar": 1,
@@ -208,9 +217,9 @@
       "CA": 3
     },
     "states_no_finds_streak": {
-      "CA": 0
+      "CA": 1
     },
-    "last_updated": "2026-08-24"
+    "last_updated": "2026-08-31"
   },
   "NEISO": {
     "total_runs": 1,

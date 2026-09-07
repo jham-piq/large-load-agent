@@ -33,8 +33,8 @@
     "last_updated": "2026-08-31"
   },
   "SPP": {
-    "total_runs": 13,
-    "total_finds": 19,
+    "total_runs": 14,
+    "total_finds": 20,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -48,7 +48,8 @@
       "Tom's Hardware": 1,
       "Louisiana Economic Development": 1,
       "Data Center Dynamics": 1,
-      "Prometheus Hyperscale": 2
+      "Prometheus Hyperscale": 2,
+      "Axios": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
@@ -61,27 +62,28 @@
       "New-announcement search; Louisiana Economic Development release on Amazon's August 18 expansion.": 1,
       "Texas new-announcement search; Data Center Dynamics reporting on InfraTech's August 20 announcement.": 1,
       "WY state search; developer announcement of the Natrona County partnership with Mesa Power Solutions.": 1,
-      "WY state search; developer notice of Uinta County Planning and Zoning permit recommendation.": 1
+      "WY state search; developer notice of Uinta County Planning and Zoning permit recommendation.": 1,
+      "AR state-announcement search; September 1 reporting disclosed previously nonpublic load and grid-infrastructure terms.": 1
     },
     "states_with_finds": {
       "MN": 4,
       "OK": 5,
-      "AR": 1,
+      "AR": 2,
       "TX": 3,
       "MO": 3,
       "LA": 1,
       "WY": 2
     },
     "states_no_finds_streak": {
-      "MN": 3,
-      "OK": 4,
-      "AR": 10,
-      "TX": 1,
-      "MO": 4,
-      "LA": 1,
-      "WY": 0
+      "MN": 4,
+      "OK": 5,
+      "AR": 0,
+      "TX": 2,
+      "MO": 5,
+      "LA": 2,
+      "WY": 1
     },
-    "last_updated": "2026-08-31"
+    "last_updated": "2026-09-07"
   },
   "NYISO": {
     "total_runs": 6,
@@ -135,15 +137,16 @@
     "last_updated": "2026-08-24"
   },
   "PJM": {
-    "total_runs": 11,
-    "total_finds": 12,
+    "total_runs": 12,
+    "total_finds": 15,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
       "NC DEQ": 3,
       "Data Center Dynamics": 1,
       "WHYY": 2,
-      "Engineering News-Record": 1
+      "Engineering News-Record": 1,
+      "West Virginia Public Broadcasting": 3
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -154,7 +157,10 @@
       "TechRadar article on OpenAI's Ohio data center plans": 1,
       "NJ data center announced planned 2026; follow-on WHYY permitting coverage": 1,
       "Stage change check; WHYY reporting on Upper Merion Township denial": 1,
-      "Industry-tracker search: site:datacenterdynamics.com VA OR MD OR PA OR OH OR IN OR IL OR WV OR DE OR NJ OR MI OR NC OR KY OR TN data center 2026": 1
+      "Industry-tracker search: site:datacenterdynamics.com VA OR MD OR PA OR OH OR IN OR IL OR WV OR DE OR NJ OR MI OR NC OR KY OR TN data center 2026": 1,
+      "WV data center announced planned 2026 search; September 3 certification announcement.": 1,
+      "WV data center announced planned 2026 search; September 3 power-requirement and certification update.": 1,
+      "WV data center announced planned 2026 search; September 3 renewable-power procurement update.": 1
     },
     "states_with_finds": {
       "PA": 4,
@@ -163,45 +169,51 @@
       "VA": 1,
       "OH": 1,
       "NJ": 1,
-      "KY": 1
+      "KY": 1,
+      "WV": 3
     },
     "states_no_finds_streak": {
-      "PA": 1,
-      "TN": 9,
-      "NC": 4,
-      "VA": 5,
-      "OH": 2,
-      "NJ": 1,
-      "KY": 0
+      "PA": 2,
+      "TN": 10,
+      "NC": 5,
+      "VA": 6,
+      "OH": 3,
+      "NJ": 2,
+      "KY": 1,
+      "WV": 0
     },
-    "last_updated": "2026-08-31"
+    "last_updated": "2026-09-07"
   },
   "ERCOT": {
-    "total_runs": 7,
-    "total_finds": 11,
+    "total_runs": 8,
+    "total_finds": 13,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 2,
       "Tom's Hardware": 2,
-      "Data Center Dynamics": 6
+      "Data Center Dynamics": 6,
+      "Soluna": 1,
+      "Bitdeer Technologies Group": 1
     },
     "queries": {
       "Google data center TX 2026": 1,
       "Meta data center TX 2026": 2,
       "SpaceX semiconductor factory TX 2026": 1,
       "TX data center announced planned 2026": 2,
-      "site:datacenterdynamics.com TX 2026": 5
+      "site:datacenterdynamics.com TX 2026": 5,
+      "site:datacenterdynamics.com TX data center 2026; confirmed through Soluna's August 24 land-acquisition announcement.": 1,
+      "site:datacenterdynamics.com TX 2026; confirmed through Bitdeer's September 1 announcement.": 1
     },
     "states_with_finds": {
-      "TX": 11
+      "TX": 13
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-08-24"
+    "last_updated": "2026-09-07"
   },
   "CAISO": {
-    "total_runs": 4,
+    "total_runs": 5,
     "total_finds": 3,
     "sources": {
       "TechRadar": 1,
@@ -217,25 +229,27 @@
       "CA": 3
     },
     "states_no_finds_streak": {
-      "CA": 1
+      "CA": 2
     },
-    "last_updated": "2026-08-31"
+    "last_updated": "2026-09-07"
   },
   "NEISO": {
-    "total_runs": 1,
-    "total_finds": 1,
+    "total_runs": 2,
+    "total_finds": 2,
     "sources": {
-      "New Hampshire Public Radio": 1
+      "New Hampshire Public Radio": 1,
+      "New Hampshire Bulletin": 1
     },
     "queries": {
-      "NH state new-announcement search; reported May proposal and subsequent withdrawal/moratorium coverage": 1
+      "NH state new-announcement search; reported May proposal and subsequent withdrawal/moratorium coverage": 1,
+      "NH state announcement search; September reporting on FERC viability-assessment filings for the Bow large-load project.": 1
     },
     "states_with_finds": {
-      "NH": 1
+      "NH": 2
     },
     "states_no_finds_streak": {
       "NH": 0
     },
-    "last_updated": "2026-08-24"
+    "last_updated": "2026-09-07"
   }
 }

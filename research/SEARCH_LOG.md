@@ -722,3 +722,51 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Prometheus Hyperscale Evanston Campus** (WY, Planned, 1200 MW)
   - Source: Prometheus Hyperscale (2026-08-27)
   - Found via: WY state search; developer notice of Uinta County Planning and Zoning permit recommendation.
+
+## 2026-09-07 — CAISO (California) (delta run)
+
+### Stage updates (1)
+
+- **Imperial Valley Computer Manufacturing Data Center**: Planned → On Hold
+  - Imperial County Superior Court tentatively ordered the County to set aside key approvals and prepare a full environmental impact report before processing permits for the proposed 330 MW project.
+
+## 2026-09-07 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+3)
+
+- **Project Tamarack** (WV, Planned)
+  - Source: West Virginia Public Broadcasting (2026-09-03)
+  - Found via: WV data center announced planned 2026 search; September 3 certification announcement.
+- **Monarch Compute Campus** (WV, Planned, 2000 MW)
+  - Source: West Virginia Public Broadcasting (2026-09-03)
+  - Found via: WV data center announced planned 2026 search; September 3 power-requirement and certification update.
+- **Google Putnam County Data Center Campus** (WV, Planned)
+  - Source: West Virginia Public Broadcasting (2026-09-03)
+  - Found via: WV data center announced planned 2026 search; September 3 renewable-power procurement update.
+
+## 2026-09-07 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **Google West Memphis Data Center (Project Pyramid)** (AR, Under Construction, 600 MW)
+  - Source: Axios (2026-09-01)
+  - Found via: AR state-announcement search; September 1 reporting disclosed previously nonpublic load and grid-infrastructure terms.
+
+## 2026-09-07 — ISO-NE (New England) (delta run)
+
+### New projects (+1)
+
+- **Merrimack Station Potential Data Center** (NH, Early Stage, 350 MW)
+  - Source: New Hampshire Bulletin (2026-09-01)
+  - Found via: NH state announcement search; September reporting on FERC viability-assessment filings for the Bow large-load project.
+
+## 2026-09-07 — ERCOT (Texas) (delta run)
+
+### New projects (+2)
+
+- **Project Dorothy 3** (TX, Planned, 300 MW)
+  - Source: Soluna (2026-08-24)
+  - Found via: site:datacenterdynamics.com TX data center 2026; confirmed through Soluna's August 24 land-acquisition announcement.
+- **Bitdeer Rockdale AI/HPC Expansion** (TX, Early Stage, 179 MW)
+  - Source: Bitdeer Technologies Group (2026-09-01)
+  - Found via: site:datacenterdynamics.com TX 2026; confirmed through Bitdeer's September 1 announcement.

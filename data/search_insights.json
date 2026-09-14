@@ -105,7 +105,7 @@
     "last_updated": "2026-08-17"
   },
   "WECC": {
-    "total_runs": 8,
+    "total_runs": 9,
     "total_finds": 7,
     "sources": {
       "PowerOnline": 1,
@@ -129,16 +129,16 @@
       "AZ": 1
     },
     "states_no_finds_streak": {
-      "NV": 0,
-      "CA": 1,
-      "WY": 4,
-      "AZ": 2
+      "NV": 1,
+      "CA": 2,
+      "WY": 5,
+      "AZ": 3
     },
-    "last_updated": "2026-08-24"
+    "last_updated": "2026-09-14"
   },
   "PJM": {
-    "total_runs": 12,
-    "total_finds": 15,
+    "total_runs": 13,
+    "total_finds": 16,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
@@ -146,7 +146,8 @@
       "Data Center Dynamics": 1,
       "WHYY": 2,
       "Engineering News-Record": 1,
-      "West Virginia Public Broadcasting": 3
+      "West Virginia Public Broadcasting": 3,
+      "Aligned Data Centers": 1
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -160,10 +161,11 @@
       "Industry-tracker search: site:datacenterdynamics.com VA OR MD OR PA OR OH OR IN OR IL OR WV OR DE OR NJ OR MI OR NC OR KY OR TN data center 2026": 1,
       "WV data center announced planned 2026 search; September 3 certification announcement.": 1,
       "WV data center announced planned 2026 search; September 3 power-requirement and certification update.": 1,
-      "WV data center announced planned 2026 search; September 3 renewable-power procurement update.": 1
+      "WV data center announced planned 2026 search; September 3 renewable-power procurement update.": 1,
+      "PA state announcement search; confirmed through Aligned Data Centers' September 10 groundbreaking release.": 1
     },
     "states_with_finds": {
-      "PA": 4,
+      "PA": 5,
       "TN": 1,
       "NC": 3,
       "VA": 1,
@@ -173,27 +175,28 @@
       "WV": 3
     },
     "states_no_finds_streak": {
-      "PA": 2,
-      "TN": 10,
-      "NC": 5,
-      "VA": 6,
-      "OH": 3,
-      "NJ": 2,
-      "KY": 1,
-      "WV": 0
+      "PA": 0,
+      "TN": 11,
+      "NC": 6,
+      "VA": 7,
+      "OH": 4,
+      "NJ": 3,
+      "KY": 2,
+      "WV": 1
     },
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-14"
   },
   "ERCOT": {
-    "total_runs": 8,
-    "total_finds": 13,
+    "total_runs": 9,
+    "total_finds": 15,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 2,
       "Tom's Hardware": 2,
-      "Data Center Dynamics": 6,
+      "Data Center Dynamics": 7,
       "Soluna": 1,
-      "Bitdeer Technologies Group": 1
+      "Bitdeer Technologies Group": 1,
+      "Amazon": 1
     },
     "queries": {
       "Google data center TX 2026": 1,
@@ -202,15 +205,17 @@
       "TX data center announced planned 2026": 2,
       "site:datacenterdynamics.com TX 2026": 5,
       "site:datacenterdynamics.com TX data center 2026; confirmed through Soluna's August 24 land-acquisition announcement.": 1,
-      "site:datacenterdynamics.com TX 2026; confirmed through Bitdeer's September 1 announcement.": 1
+      "site:datacenterdynamics.com TX 2026; confirmed through Bitdeer's September 1 announcement.": 1,
+      "site:datacenterdynamics.com TX 2026 search; announcement published at the start of the search window": 1,
+      "Amazon AWS data center TX 2026 search; September 11 project update confirmed active site preparation": 1
     },
     "states_with_finds": {
-      "TX": 13
+      "TX": 15
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-14"
   },
   "CAISO": {
     "total_runs": 5,

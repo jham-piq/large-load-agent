@@ -770,3 +770,29 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Bitdeer Rockdale AI/HPC Expansion** (TX, Early Stage, 179 MW)
   - Source: Bitdeer Technologies Group (2026-09-01)
   - Found via: site:datacenterdynamics.com TX 2026; confirmed through Bitdeer's September 1 announcement.
+
+## 2026-09-14 — WECC (Western Interconnection) (delta run)
+
+### Stage updates (1)
+
+- **Project Jupiter (Oracle / OpenAI / BorderPlex Digital)**: On Hold → Under Construction
+  - Oracle posted an August 27 update on local work at Project Jupiter and published aerial imagery labeled Data Hall and Campus construction in Doña Ana County; Oracle states customer delivery is scheduled for the first half of 2027.
+
+## 2026-09-14 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Project Phoenix** (PA, Under Construction, 2000 MW)
+  - Source: Aligned Data Centers (2026-09-10)
+  - Found via: PA state announcement search; confirmed through Aligned Data Centers' September 10 groundbreaking release.
+
+## 2026-09-14 — ERCOT (Texas) (delta run)
+
+### New projects (+2)
+
+- **Northampton Capital Partners / Provident Data Centers – North Dallas Corridor Data Center** (TX, Planned, 54 MW)
+  - Source: Data Center Dynamics (2026-09-07)
+  - Found via: site:datacenterdynamics.com TX 2026 search; announcement published at the start of the search window
+- **Amazon AWS – Wharton County Data Center Campus** (TX, Under Construction)
+  - Source: Amazon (2026-09-11)
+  - Found via: Amazon AWS data center TX 2026 search; September 11 project update confirmed active site preparation

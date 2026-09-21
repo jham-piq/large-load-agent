@@ -796,3 +796,76 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Amazon AWS – Wharton County Data Center Campus** (TX, Under Construction)
   - Source: Amazon (2026-09-11)
   - Found via: Amazon AWS data center TX 2026 search; September 11 project update confirmed active site preparation
+
+## 2026-09-21 — WECC (Western Interconnection) (delta run)
+
+### New projects (+3)
+
+- **Google Lea County Data Center** (NM, Early Stage)
+  - Source: Google Blog (2026-09-14)
+  - Found via: Hyperscaler check and Data Center Dynamics regional search.
+- **Rhea Data Boise-Area Data Center** (ID, Early Stage)
+  - Source: The Washington Sun (2026-09-18)
+  - Found via: Stage-change and regional public-lands coverage.
+- **Project Taurus Data Center** (CO, On Hold, 50 MW)
+  - Source: Axios Colorado Springs (2026-09-17)
+  - Found via: Colorado stage-change search and Axios reporting.
+
+## 2026-09-21 — CAISO (California) (delta run)
+
+### New projects (+1)
+
+- **Link Logistics Southeast Sacramento Data Center** (CA, Early Stage)
+  - Source: Abridged (2026-09-15)
+  - Found via: Sacramento large-load reporting surfaced through follow-up on required CA data-center and utility searches.
+
+## 2026-09-21 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **Microsoft ATL50 Union City Data Center Campus** (GA, Early Stage)
+  - Source: Data Center Dynamics (2026-09-17)
+  - Found via: September 2026 Data Center Dynamics reporting on Microsoft’s Georgia DRI filing
+
+## 2026-09-21 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+6)
+
+- **Digital Realty DFW45** (TX, Planned, 80 MW)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: Industry tracker search surfaced September 15 Texas TDLR filing coverage.
+- **CoreSite DA1** (TX, Planned)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: Industry tracker search surfaced September 15 Texas TDLR filing coverage.
+- **DataBank DFW15** (TX, Planned)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: Industry tracker search surfaced September 15 Texas TDLR filing coverage.
+- **Colovore Hutto AUS01** (TX, Planned, 40 MW)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: Industry tracker search surfaced September 15 Texas TDLR filing coverage.
+- **Hut 8 Beacon Point Data Center Project** (TX, Planned, 1000 MW)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: Industry tracker search surfaced September 15 Texas TDLR filing coverage.
+- **Edged Project Lola** (IA, Under Construction, 200 MW)
+  - Source: Data Center Dynamics (2026-09-14)
+  - Found via: Industry tracker search surfaced September 14 construction-milestone coverage.
+
+## 2026-09-21 — ERCOT (Texas) (delta run)
+
+### New projects (+5)
+
+- **Digital Realty DFW45 (Digital Garland Campus)** (TX, Planned, 80 MW)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: site:datacenterdynamics.com TX data center 2026
+- **CoreSite DA1** (TX, Planned)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: site:datacenterdynamics.com TX 2026
+- **DataBank DFW15 (Red Oak Campus)** (TX, Planned)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: site:datacenterdynamics.com TX data center 2026
+- **Colovore AUS01 (Hutto)** (TX, Planned, 40 MW)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: site:datacenterdynamics.com TX 2026
+- **Hut 8 Beacon Point Data Center Project** (TX, Planned, 1000 MW)
+  - Source: Data Center Dynamics (2026-09-15)
+  - Found via: site:datacenterdynamics.com TX data center 2026

@@ -1,40 +1,42 @@
 {
   "SERC": {
-    "total_runs": 11,
-    "total_finds": 8,
+    "total_runs": 12,
+    "total_finds": 9,
     "sources": {
       "Fluor": 1,
       "TechRadar": 2,
       "NC DEQ": 2,
       "Tom's Hardware": 2,
-      "Axios": 1
+      "Axios": 1,
+      "Data Center Dynamics": 1
     },
     "queries": {
       "KY data center announced planned 2026": 1,
       "TN data center announced planned 2026": 2,
       "NC data center announced planned 2026": 2,
       "Tom's Hardware article on Meta's data center expansion": 1,
-      "GA data center announced planned 2026": 2
+      "GA data center announced planned 2026": 2,
+      "September 2026 Data Center Dynamics reporting on Microsoft\u2019s Georgia DRI filing": 1
     },
     "states_with_finds": {
       "KY": 1,
       "TN": 2,
       "NC": 2,
       "LA": 1,
-      "GA": 2
-    },
-    "states_no_finds_streak": {
-      "KY": 10,
-      "TN": 4,
-      "NC": 6,
-      "LA": 5,
       "GA": 3
     },
-    "last_updated": "2026-08-31"
+    "states_no_finds_streak": {
+      "KY": 11,
+      "TN": 5,
+      "NC": 7,
+      "LA": 6,
+      "GA": 0
+    },
+    "last_updated": "2026-09-21"
   },
   "SPP": {
-    "total_runs": 14,
-    "total_finds": 20,
+    "total_runs": 15,
+    "total_finds": 26,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -47,7 +49,7 @@
       "TechSpot": 1,
       "Tom's Hardware": 1,
       "Louisiana Economic Development": 1,
-      "Data Center Dynamics": 1,
+      "Data Center Dynamics": 7,
       "Prometheus Hyperscale": 2,
       "Axios": 1
     },
@@ -63,27 +65,31 @@
       "Texas new-announcement search; Data Center Dynamics reporting on InfraTech's August 20 announcement.": 1,
       "WY state search; developer announcement of the Natrona County partnership with Mesa Power Solutions.": 1,
       "WY state search; developer notice of Uinta County Planning and Zoning permit recommendation.": 1,
-      "AR state-announcement search; September 1 reporting disclosed previously nonpublic load and grid-infrastructure terms.": 1
+      "AR state-announcement search; September 1 reporting disclosed previously nonpublic load and grid-infrastructure terms.": 1,
+      "Industry tracker search surfaced September 15 Texas TDLR filing coverage.": 5,
+      "Industry tracker search surfaced September 14 construction-milestone coverage.": 1
     },
     "states_with_finds": {
       "MN": 4,
       "OK": 5,
       "AR": 2,
-      "TX": 3,
+      "TX": 8,
       "MO": 3,
       "LA": 1,
-      "WY": 2
+      "WY": 2,
+      "IA": 1
     },
     "states_no_finds_streak": {
-      "MN": 4,
-      "OK": 5,
-      "AR": 0,
-      "TX": 2,
-      "MO": 5,
-      "LA": 2,
-      "WY": 1
+      "MN": 5,
+      "OK": 6,
+      "AR": 1,
+      "TX": 0,
+      "MO": 6,
+      "LA": 3,
+      "WY": 2,
+      "IA": 0
     },
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-21"
   },
   "NYISO": {
     "total_runs": 6,
@@ -105,36 +111,48 @@
     "last_updated": "2026-08-17"
   },
   "WECC": {
-    "total_runs": 9,
-    "total_finds": 7,
+    "total_runs": 10,
+    "total_finds": 10,
     "sources": {
       "PowerOnline": 1,
       "Goodman Group": 2,
       "Microsoft Source": 1,
       "Tom's Hardware": 1,
       "DataCenterDynamics": 1,
-      "Nevada Current": 1
+      "Nevada Current": 1,
+      "Google Blog": 1,
+      "The Washington Sun": 1,
+      "Axios Colorado Springs": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
       "Industry tracker search": 3,
       "Microsoft data center CA, OR, WA, NV, AZ, UT, CO, ID, MT, WY, NM 2026": 1,
       "AZ data center announced planned 2026": 1,
-      "Stage-change follow-up on Nevada data-center moratorium and ban coverage.": 1
+      "Stage-change follow-up on Nevada data-center moratorium and ban coverage.": 1,
+      "Hyperscaler check and Data Center Dynamics regional search.": 1,
+      "Stage-change and regional public-lands coverage.": 1,
+      "Colorado stage-change search and Axios reporting.": 1
     },
     "states_with_finds": {
       "NV": 2,
       "CA": 3,
       "WY": 1,
-      "AZ": 1
+      "AZ": 1,
+      "NM": 1,
+      "ID": 1,
+      "CO": 1
     },
     "states_no_finds_streak": {
-      "NV": 1,
-      "CA": 2,
-      "WY": 5,
-      "AZ": 3
+      "NV": 2,
+      "CA": 3,
+      "WY": 6,
+      "AZ": 4,
+      "CO": 0,
+      "NM": 0,
+      "ID": 0
     },
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-21"
   },
   "PJM": {
     "total_runs": 13,
@@ -187,13 +205,13 @@
     "last_updated": "2026-09-14"
   },
   "ERCOT": {
-    "total_runs": 9,
-    "total_finds": 15,
+    "total_runs": 10,
+    "total_finds": 20,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 2,
       "Tom's Hardware": 2,
-      "Data Center Dynamics": 7,
+      "Data Center Dynamics": 12,
       "Soluna": 1,
       "Bitdeer Technologies Group": 1,
       "Amazon": 1
@@ -203,40 +221,43 @@
       "Meta data center TX 2026": 2,
       "SpaceX semiconductor factory TX 2026": 1,
       "TX data center announced planned 2026": 2,
-      "site:datacenterdynamics.com TX 2026": 5,
+      "site:datacenterdynamics.com TX 2026": 7,
       "site:datacenterdynamics.com TX data center 2026; confirmed through Soluna's August 24 land-acquisition announcement.": 1,
       "site:datacenterdynamics.com TX 2026; confirmed through Bitdeer's September 1 announcement.": 1,
       "site:datacenterdynamics.com TX 2026 search; announcement published at the start of the search window": 1,
-      "Amazon AWS data center TX 2026 search; September 11 project update confirmed active site preparation": 1
+      "Amazon AWS data center TX 2026 search; September 11 project update confirmed active site preparation": 1,
+      "site:datacenterdynamics.com TX data center 2026": 3
     },
     "states_with_finds": {
-      "TX": 15
+      "TX": 20
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-21"
   },
   "CAISO": {
-    "total_runs": 5,
-    "total_finds": 3,
+    "total_runs": 6,
+    "total_finds": 4,
     "sources": {
       "TechRadar": 1,
       "Goodman Group": 1,
-      "Vallejo Sun": 1
+      "Vallejo Sun": 1,
+      "Abridged": 1
     },
     "queries": {
       "California data center moratorium rezoning opposition 2026": 1,
       "Industry tracker search": 1,
-      "New-announcement and industry-source searches; investor presentation reported by Vallejo Sun and corroborated by Fairfield economic-development discussion.": 1
+      "New-announcement and industry-source searches; investor presentation reported by Vallejo Sun and corroborated by Fairfield economic-development discussion.": 1,
+      "Sacramento large-load reporting surfaced through follow-up on required CA data-center and utility searches.": 1
     },
     "states_with_finds": {
-      "CA": 3
+      "CA": 4
     },
     "states_no_finds_streak": {
-      "CA": 2
+      "CA": 0
     },
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-21"
   },
   "NEISO": {
     "total_runs": 2,

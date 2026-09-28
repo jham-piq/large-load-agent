@@ -1,14 +1,15 @@
 {
   "SERC": {
-    "total_runs": 12,
-    "total_finds": 9,
+    "total_runs": 13,
+    "total_finds": 10,
     "sources": {
       "Fluor": 1,
       "TechRadar": 2,
       "NC DEQ": 2,
       "Tom's Hardware": 2,
       "Axios": 1,
-      "Data Center Dynamics": 1
+      "Data Center Dynamics": 1,
+      "CleanSpark, Inc.": 1
     },
     "queries": {
       "KY data center announced planned 2026": 1,
@@ -16,23 +17,24 @@
       "NC data center announced planned 2026": 2,
       "Tom's Hardware article on Meta's data center expansion": 1,
       "GA data center announced planned 2026": 2,
-      "September 2026 Data Center Dynamics reporting on Microsoft\u2019s Georgia DRI filing": 1
+      "September 2026 Data Center Dynamics reporting on Microsoft\u2019s Georgia DRI filing": 1,
+      "GA state announcement search; follow-up CleanSpark SEC filing": 1
     },
     "states_with_finds": {
       "KY": 1,
       "TN": 2,
       "NC": 2,
       "LA": 1,
-      "GA": 3
+      "GA": 4
     },
     "states_no_finds_streak": {
-      "KY": 11,
-      "TN": 5,
-      "NC": 7,
-      "LA": 6,
+      "KY": 12,
+      "TN": 6,
+      "NC": 8,
+      "LA": 7,
       "GA": 0
     },
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-28"
   },
   "SPP": {
     "total_runs": 15,
@@ -92,26 +94,28 @@
     "last_updated": "2026-09-21"
   },
   "NYISO": {
-    "total_runs": 6,
-    "total_finds": 3,
+    "total_runs": 7,
+    "total_finds": 4,
     "sources": {
       "PR Newswire": 2,
-      "GlobeNewswire": 1
+      "GlobeNewswire": 1,
+      "Is a Data Center Coming": 1
     },
     "queries": {
       "Industry tracker search": 2,
-      "PR Newswire": 1
+      "PR Newswire": 1,
+      "Surfaced in the NYISO and industry-tracker search review through a September 25 filing-status update.": 1
     },
     "states_with_finds": {
-      "NY": 3
-    },
-    "states_no_finds_streak": {
       "NY": 4
     },
-    "last_updated": "2026-08-17"
+    "states_no_finds_streak": {
+      "NY": 0
+    },
+    "last_updated": "2026-09-28"
   },
   "WECC": {
-    "total_runs": 10,
+    "total_runs": 11,
     "total_finds": 10,
     "sources": {
       "PowerOnline": 1,
@@ -144,19 +148,19 @@
       "CO": 1
     },
     "states_no_finds_streak": {
-      "NV": 2,
-      "CA": 3,
-      "WY": 6,
-      "AZ": 4,
-      "CO": 0,
-      "NM": 0,
-      "ID": 0
+      "NV": 3,
+      "CA": 4,
+      "WY": 7,
+      "AZ": 5,
+      "CO": 1,
+      "NM": 1,
+      "ID": 1
     },
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-28"
   },
   "PJM": {
-    "total_runs": 13,
-    "total_finds": 16,
+    "total_runs": 14,
+    "total_finds": 17,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
@@ -165,7 +169,8 @@
       "WHYY": 2,
       "Engineering News-Record": 1,
       "West Virginia Public Broadcasting": 3,
-      "Aligned Data Centers": 1
+      "Aligned Data Centers": 1,
+      "Limerick Township": 1
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -180,10 +185,11 @@
       "WV data center announced planned 2026 search; September 3 certification announcement.": 1,
       "WV data center announced planned 2026 search; September 3 power-requirement and certification update.": 1,
       "WV data center announced planned 2026 search; September 3 renewable-power procurement update.": 1,
-      "PA state announcement search; confirmed through Aligned Data Centers' September 10 groundbreaking release.": 1
+      "PA state announcement search; confirmed through Aligned Data Centers' September 10 groundbreaking release.": 1,
+      "PA new-announcement search; follow-up review of Limerick Township conditional-use agenda and planning materials.": 1
     },
     "states_with_finds": {
-      "PA": 5,
+      "PA": 6,
       "TN": 1,
       "NC": 3,
       "VA": 1,
@@ -194,18 +200,18 @@
     },
     "states_no_finds_streak": {
       "PA": 0,
-      "TN": 11,
-      "NC": 6,
-      "VA": 7,
-      "OH": 4,
-      "NJ": 3,
-      "KY": 2,
-      "WV": 1
+      "TN": 12,
+      "NC": 7,
+      "VA": 8,
+      "OH": 5,
+      "NJ": 4,
+      "KY": 3,
+      "WV": 2
     },
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-28"
   },
   "ERCOT": {
-    "total_runs": 10,
+    "total_runs": 11,
     "total_finds": 20,
     "sources": {
       "Google Data Centers": 1,
@@ -232,9 +238,9 @@
       "TX": 20
     },
     "states_no_finds_streak": {
-      "TX": 0
+      "TX": 1
     },
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-28"
   },
   "CAISO": {
     "total_runs": 6,
@@ -260,22 +266,26 @@
     "last_updated": "2026-09-21"
   },
   "NEISO": {
-    "total_runs": 2,
-    "total_finds": 2,
+    "total_runs": 3,
+    "total_finds": 3,
     "sources": {
       "New Hampshire Public Radio": 1,
-      "New Hampshire Bulletin": 1
+      "New Hampshire Bulletin": 1,
+      "Boston.com": 1
     },
     "queries": {
       "NH state new-announcement search; reported May proposal and subsequent withdrawal/moratorium coverage": 1,
-      "NH state announcement search; September reporting on FERC viability-assessment filings for the Bow large-load project.": 1
+      "NH state announcement search; September reporting on FERC viability-assessment filings for the Bow large-load project.": 1,
+      "MA data center announced planned 2026 search; Salem permit-revocation coverage": 1
     },
     "states_with_finds": {
-      "NH": 2
+      "NH": 2,
+      "MA": 1
     },
     "states_no_finds_streak": {
-      "NH": 0
+      "NH": 1,
+      "MA": 0
     },
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-09-28"
   }
 }

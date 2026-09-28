@@ -869,3 +869,61 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Hut 8 Beacon Point Data Center Project** (TX, Planned, 1000 MW)
   - Source: Data Center Dynamics (2026-09-15)
   - Found via: site:datacenterdynamics.com TX data center 2026
+
+## 2026-09-28 — NYISO (New York) (delta run)
+
+### New projects (+1)
+
+- **Project Hydroscale Data Center (JLL)** (NY, Planned)
+  - Source: Is a Data Center Coming (2026-09-25)
+  - Found via: Surfaced in the NYISO and industry-tracker search review through a September 25 filing-status update.
+
+### Stage updates (1)
+
+- **North Country Data Center Expansion**: On Hold → Planned
+  - NCCS, a NYDIG affiliate, is advancing a revised Massena expansion described as three buildings totaling about 1.5 million square feet and 635 MW. The Massena Town Board voted down a proposed data-center moratorium on September 17, clearing the local regulatory path for continuing engineering, site-plan review, and permitting.
+
+## 2026-09-28 — WECC (Western Interconnection) (delta run)
+
+### Stage updates (1)
+
+- **Project Jupiter (Oracle / OpenAI / BorderPlex Digital)**: Under Construction → Under Construction
+  - Oracle issued a force-majeure notice tied to potential delay risk from the gas-supply pipeline, now expected February 1, 2027; Oracle and Blue Owl said the project remains on schedule. The report disclosed planned campus capacity of 2,450 MW.
+
+## 2026-09-28 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **CleanSpark Sandersville Facility** (GA, Under Construction, 175 MW)
+  - Source: CleanSpark, Inc. (2026-09-25)
+  - Found via: GA state announcement search; follow-up CleanSpark SEC filing
+
+## 2026-09-28 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Project Laurel (Limerick Data Center Campus)** (PA, Planned, 750 MW)
+  - Source: Limerick Township (2026-09-22)
+  - Found via: PA new-announcement search; follow-up review of Limerick Township conditional-use agenda and planning materials.
+
+## 2026-09-28 — ISO-NE (New England) (delta run)
+
+### New projects (+1)
+
+- **Prime Group Shetland Park AI Inference Facility** (MA, On Hold)
+  - Source: Boston.com (2026-09-18)
+  - Found via: MA data center announced planned 2026 search; Salem permit-revocation coverage
+
+### Stage updates (2)
+
+- **O&G Industries Beacon Falls Data Center**: Announced → Under Construction
+  - Baxtel now lists the 294,164-square-foot Beacon Falls facility as under construction, stating that O&G is building the project on the former sand-mine site and that it received approval in 2022.
+- **Servistar Westfield Data Center Campus**: Early Stage → On Hold
+  - Westfield's Planning Board postponed a decision on Servistar Realties' requested three-year special-permit extension and referred the permit-validity question to the Law Department. Servistar acknowledged that construction had not begun and no land had been purchased.
+
+## 2026-09-28 — ERCOT (Texas) (delta run)
+
+### Stage updates (1)
+
+- **Texas Critical Data Centers (TCDC) – Ector County AI Campus**: Early Stage → Planned
+  - Developer New Era Energy & Digital executed a 20-year PPA with Vistra subsidiary Luminant for a minimum 207 MW for Phase 1, with delivery expected in Q3 2027. The project now has land secured, construction permits, contracted power, and a 438-acre campus footprint; Vistra will receive a 5% non-voting interest following first power delivery.

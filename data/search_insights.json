@@ -37,8 +37,8 @@
     "last_updated": "2026-09-28"
   },
   "SPP": {
-    "total_runs": 15,
-    "total_finds": 26,
+    "total_runs": 16,
+    "total_finds": 27,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -53,7 +53,8 @@
       "Louisiana Economic Development": 1,
       "Data Center Dynamics": 7,
       "Prometheus Hyperscale": 2,
-      "Axios": 1
+      "Axios": 1,
+      "Lambda": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
@@ -69,11 +70,12 @@
       "WY state search; developer notice of Uinta County Planning and Zoning permit recommendation.": 1,
       "AR state-announcement search; September 1 reporting disclosed previously nonpublic load and grid-infrastructure terms.": 1,
       "Industry tracker search surfaced September 15 Texas TDLR filing coverage.": 5,
-      "Industry tracker search surfaced September 14 construction-milestone coverage.": 1
+      "Industry tracker search surfaced September 14 construction-milestone coverage.": 1,
+      "Data Center Dynamics industry-tracker search; confirmed through Lambda's September 27 announcement.": 1
     },
     "states_with_finds": {
       "MN": 4,
-      "OK": 5,
+      "OK": 6,
       "AR": 2,
       "TX": 8,
       "MO": 3,
@@ -82,16 +84,16 @@
       "IA": 1
     },
     "states_no_finds_streak": {
-      "MN": 5,
-      "OK": 6,
-      "AR": 1,
-      "TX": 0,
-      "MO": 6,
-      "LA": 3,
-      "WY": 2,
-      "IA": 0
+      "MN": 6,
+      "OK": 0,
+      "AR": 2,
+      "TX": 1,
+      "MO": 7,
+      "LA": 4,
+      "WY": 3,
+      "IA": 1
     },
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-10-05"
   },
   "NYISO": {
     "total_runs": 7,
@@ -211,16 +213,17 @@
     "last_updated": "2026-09-28"
   },
   "ERCOT": {
-    "total_runs": 11,
-    "total_finds": 20,
+    "total_runs": 12,
+    "total_finds": 23,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 2,
       "Tom's Hardware": 2,
-      "Data Center Dynamics": 12,
+      "Data Center Dynamics": 14,
       "Soluna": 1,
       "Bitdeer Technologies Group": 1,
-      "Amazon": 1
+      "Amazon": 1,
+      "Crusoe": 1
     },
     "queries": {
       "Google data center TX 2026": 1,
@@ -232,15 +235,18 @@
       "site:datacenterdynamics.com TX 2026; confirmed through Bitdeer's September 1 announcement.": 1,
       "site:datacenterdynamics.com TX 2026 search; announcement published at the start of the search window": 1,
       "Amazon AWS data center TX 2026 search; September 11 project update confirmed active site preparation": 1,
-      "site:datacenterdynamics.com TX data center 2026": 3
+      "site:datacenterdynamics.com TX data center 2026": 3,
+      "site:datacenterdynamics.com TX 2026; newly filed TDLR project reported September 29.": 1,
+      "site:datacenterdynamics.com TX data center 2026; October 2 report on newly registered TDLR filings.": 1,
+      "Google data center TX 2026; Crusoe's September 28 confirmation of developer and end user.": 1
     },
     "states_with_finds": {
-      "TX": 20
+      "TX": 23
     },
     "states_no_finds_streak": {
-      "TX": 1
+      "TX": 0
     },
-    "last_updated": "2026-09-28"
+    "last_updated": "2026-10-05"
   },
   "CAISO": {
     "total_runs": 6,
@@ -266,26 +272,30 @@
     "last_updated": "2026-09-21"
   },
   "NEISO": {
-    "total_runs": 3,
-    "total_finds": 3,
+    "total_runs": 4,
+    "total_finds": 4,
     "sources": {
       "New Hampshire Public Radio": 1,
       "New Hampshire Bulletin": 1,
-      "Boston.com": 1
+      "Boston.com": 1,
+      "FFCCT": 1
     },
     "queries": {
       "NH state new-announcement search; reported May proposal and subsequent withdrawal/moratorium coverage": 1,
       "NH state announcement search; September reporting on FERC viability-assessment filings for the Bow large-load project.": 1,
-      "MA data center announced planned 2026 search; Salem permit-revocation coverage": 1
+      "MA data center announced planned 2026 search; Salem permit-revocation coverage": 1,
+      "Stage-change search and local-government follow-up; publicly reported September 30, 2026.": 1
     },
     "states_with_finds": {
       "NH": 2,
-      "MA": 1
+      "MA": 1,
+      "CT": 1
     },
     "states_no_finds_streak": {
-      "NH": 1,
-      "MA": 0
+      "NH": 2,
+      "MA": 1,
+      "CT": 0
     },
-    "last_updated": "2026-09-28"
+    "last_updated": "2026-10-05"
   }
 }

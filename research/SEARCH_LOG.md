@@ -927,3 +927,33 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **Texas Critical Data Centers (TCDC) – Ector County AI Campus**: Early Stage → Planned
   - Developer New Era Energy & Digital executed a 20-year PPA with Vistra subsidiary Luminant for a minimum 207 MW for Phase 1, with delivery expected in Q3 2027. The project now has land secured, construction permits, contracted power, and a 438-acre campus footprint; Vistra will receive a 5% non-voting interest following first power delivery.
+
+## 2026-10-05 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **Lambda Mayes County Data Center** (OK, Announced)
+  - Source: Lambda (2026-09-27)
+  - Found via: Data Center Dynamics industry-tracker search; confirmed through Lambda's September 27 announcement.
+
+## 2026-10-05 — ISO-NE (New England) (delta run)
+
+### New projects (+1)
+
+- **ReNew Developers Old Amston Road Data Centers** (CT, Early Stage, 10 MW)
+  - Source: FFCCT (2026-09-30)
+  - Found via: Stage-change search and local-government follow-up; publicly reported September 30, 2026.
+
+## 2026-10-05 — ERCOT (Texas) (delta run)
+
+### New projects (+3)
+
+- **Colovore Alliance (DFW02)** (TX, Planned, 32 MW)
+  - Source: Data Center Dynamics (2026-09-29)
+  - Found via: site:datacenterdynamics.com TX 2026; newly filed TDLR project reported September 29.
+- **Project Hyper - Spur Buildings 1 and 2 (Jayton)** (TX, Planned)
+  - Source: Data Center Dynamics (2026-10-02)
+  - Found via: site:datacenterdynamics.com TX data center 2026; October 2 report on newly registered TDLR filings.
+- **Google / Crusoe Goodnight AI Data Center Campus** (TX, Under Construction)
+  - Source: Crusoe (2026-09-28)
+  - Found via: Google data center TX 2026; Crusoe's September 28 confirmation of developer and end user.

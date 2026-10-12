@@ -1,15 +1,17 @@
 {
   "SERC": {
-    "total_runs": 13,
-    "total_finds": 10,
+    "total_runs": 14,
+    "total_finds": 13,
     "sources": {
       "Fluor": 1,
       "TechRadar": 2,
       "NC DEQ": 2,
       "Tom's Hardware": 2,
-      "Axios": 1,
+      "Axios": 2,
       "Data Center Dynamics": 1,
-      "CleanSpark, Inc.": 1
+      "CleanSpark, Inc.": 1,
+      "The Rant": 1,
+      "TeraWulf": 1
     },
     "queries": {
       "KY data center announced planned 2026": 1,
@@ -18,27 +20,30 @@
       "Tom's Hardware article on Meta's data center expansion": 1,
       "GA data center announced planned 2026": 2,
       "September 2026 Data Center Dynamics reporting on Microsoft\u2019s Georgia DRI filing": 1,
-      "GA state announcement search; follow-up CleanSpark SEC filing": 1
+      "GA state announcement search; follow-up CleanSpark SEC filing": 1,
+      "Supplementary post-cutoff regional search; permit issuance reported September 29, 2026.": 1,
+      "Supplementary post-cutoff regional search; TeraWulf October 5 power-agreement amendment.": 1,
+      "Stage-change search covering moratoria, approvals, cancellations and groundbreaking activity.": 1
     },
     "states_with_finds": {
-      "KY": 1,
+      "KY": 2,
       "TN": 2,
-      "NC": 2,
+      "NC": 4,
       "LA": 1,
       "GA": 4
     },
     "states_no_finds_streak": {
-      "KY": 12,
-      "TN": 6,
-      "NC": 8,
-      "LA": 7,
-      "GA": 0
+      "KY": 0,
+      "TN": 7,
+      "NC": 0,
+      "LA": 8,
+      "GA": 1
     },
-    "last_updated": "2026-09-28"
+    "last_updated": "2026-10-12"
   },
   "SPP": {
-    "total_runs": 16,
-    "total_finds": 27,
+    "total_runs": 17,
+    "total_finds": 30,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -51,10 +56,12 @@
       "TechSpot": 1,
       "Tom's Hardware": 1,
       "Louisiana Economic Development": 1,
-      "Data Center Dynamics": 7,
+      "Data Center Dynamics": 8,
       "Prometheus Hyperscale": 2,
       "Axios": 1,
-      "Lambda": 1
+      "Lambda": 1,
+      "Black Hills Corp.": 1,
+      "Data Center Intelligence": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
@@ -71,29 +78,32 @@
       "AR state-announcement search; September 1 reporting disclosed previously nonpublic load and grid-infrastructure terms.": 1,
       "Industry tracker search surfaced September 15 Texas TDLR filing coverage.": 5,
       "Industry tracker search surfaced September 14 construction-milestone coverage.": 1,
-      "Data Center Dynamics industry-tracker search; confirmed through Lambda's September 27 announcement.": 1
+      "Data Center Dynamics industry-tracker search; confirmed through Lambda's September 27 announcement.": 1,
+      "WY statewide announcement search and Google hyperscaler check.": 1,
+      "Industry-tracker search surfaced the October 9 TDLR filing coverage.": 1,
+      "TX statewide announcement search and October 12 approval coverage.": 1
     },
     "states_with_finds": {
       "MN": 4,
       "OK": 6,
       "AR": 2,
-      "TX": 8,
+      "TX": 10,
       "MO": 3,
       "LA": 1,
-      "WY": 2,
-      "IA": 1
-    },
-    "states_no_finds_streak": {
-      "MN": 6,
-      "OK": 0,
-      "AR": 2,
-      "TX": 1,
-      "MO": 7,
-      "LA": 4,
       "WY": 3,
       "IA": 1
     },
-    "last_updated": "2026-10-05"
+    "states_no_finds_streak": {
+      "MN": 7,
+      "OK": 1,
+      "AR": 3,
+      "TX": 0,
+      "MO": 8,
+      "LA": 5,
+      "WY": 0,
+      "IA": 2
+    },
+    "last_updated": "2026-10-12"
   },
   "NYISO": {
     "total_runs": 7,
@@ -161,13 +171,13 @@
     "last_updated": "2026-09-28"
   },
   "PJM": {
-    "total_runs": 14,
-    "total_finds": 17,
+    "total_runs": 15,
+    "total_finds": 18,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
       "NC DEQ": 3,
-      "Data Center Dynamics": 1,
+      "Data Center Dynamics": 2,
       "WHYY": 2,
       "Engineering News-Record": 1,
       "West Virginia Public Broadcasting": 3,
@@ -188,10 +198,11 @@
       "WV data center announced planned 2026 search; September 3 power-requirement and certification update.": 1,
       "WV data center announced planned 2026 search; September 3 renewable-power procurement update.": 1,
       "PA state announcement search; confirmed through Aligned Data Centers' September 10 groundbreaking release.": 1,
-      "PA new-announcement search; follow-up review of Limerick Township conditional-use agenda and planning materials.": 1
+      "PA new-announcement search; follow-up review of Limerick Township conditional-use agenda and planning materials.": 1,
+      "PA state-announcement search; subsequently confirmed through Data Center Dynamics reporting on AWS's preliminary land-development filing.": 1
     },
     "states_with_finds": {
-      "PA": 6,
+      "PA": 7,
       "TN": 1,
       "NC": 3,
       "VA": 1,
@@ -202,19 +213,19 @@
     },
     "states_no_finds_streak": {
       "PA": 0,
-      "TN": 12,
-      "NC": 7,
-      "VA": 8,
-      "OH": 5,
-      "NJ": 4,
-      "KY": 3,
-      "WV": 2
+      "TN": 13,
+      "NC": 8,
+      "VA": 9,
+      "OH": 6,
+      "NJ": 5,
+      "KY": 4,
+      "WV": 3
     },
-    "last_updated": "2026-09-28"
+    "last_updated": "2026-10-12"
   },
   "ERCOT": {
-    "total_runs": 12,
-    "total_finds": 23,
+    "total_runs": 13,
+    "total_finds": 24,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 2,
@@ -223,7 +234,8 @@
       "Soluna": 1,
       "Bitdeer Technologies Group": 1,
       "Amazon": 1,
-      "Crusoe": 1
+      "Crusoe": 1,
+      "City of Taylor": 1
     },
     "queries": {
       "Google data center TX 2026": 1,
@@ -238,38 +250,41 @@
       "site:datacenterdynamics.com TX data center 2026": 3,
       "site:datacenterdynamics.com TX 2026; newly filed TDLR project reported September 29.": 1,
       "site:datacenterdynamics.com TX data center 2026; October 2 report on newly registered TDLR filings.": 1,
-      "Google data center TX 2026; Crusoe's September 28 confirmation of developer and end user.": 1
+      "Google data center TX 2026; Crusoe's September 28 confirmation of developer and end user.": 1,
+      "TX data center announced planned 2026 search; City of Taylor development-agreement update": 1
     },
     "states_with_finds": {
-      "TX": 23
+      "TX": 24
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-10-05"
+    "last_updated": "2026-10-12"
   },
   "CAISO": {
-    "total_runs": 6,
-    "total_finds": 4,
+    "total_runs": 7,
+    "total_finds": 5,
     "sources": {
       "TechRadar": 1,
       "Goodman Group": 1,
       "Vallejo Sun": 1,
-      "Abridged": 1
+      "Abridged": 1,
+      "Data Center Dynamics": 1
     },
     "queries": {
       "California data center moratorium rezoning opposition 2026": 1,
       "Industry tracker search": 1,
       "New-announcement and industry-source searches; investor presentation reported by Vallejo Sun and corroborated by Fairfield economic-development discussion.": 1,
-      "Sacramento large-load reporting surfaced through follow-up on required CA data-center and utility searches.": 1
+      "Sacramento large-load reporting surfaced through follow-up on required CA data-center and utility searches.": 1,
+      "Industry-tracker search and follow-up review of Data Center Dynamics coverage of new California redevelopment activity.": 1
     },
     "states_with_finds": {
-      "CA": 4
+      "CA": 5
     },
     "states_no_finds_streak": {
       "CA": 0
     },
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-10-12"
   },
   "NEISO": {
     "total_runs": 4,

@@ -957,3 +957,55 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Google / Crusoe Goodnight AI Data Center Campus** (TX, Under Construction)
   - Source: Crusoe (2026-09-28)
   - Found via: Google data center TX 2026; Crusoe's September 28 confirmation of developer and end user.
+
+## 2026-10-12 — CAISO (California) (delta run)
+
+### New projects (+1)
+
+- **Blackstart Digital Almaden Research Center Data Center Redevelopment** (CA, Early Stage)
+  - Source: Data Center Dynamics (2026-10-05)
+  - Found via: Industry-tracker search and follow-up review of Data Center Dynamics coverage of new California redevelopment activity.
+
+## 2026-10-12 — SERC (Southeast) (delta run)
+
+### New projects (+3)
+
+- **PointOne / CyrusOne Lower Moncure Road Data Center** (NC, Planned, 90 MW)
+  - Source: The Rant (2026-09-29)
+  - Found via: Supplementary post-cutoff regional search; permit issuance reported September 29, 2026.
+- **TeraWulf Muskie Data Campus** (KY, Planned, 1000 MW)
+  - Source: TeraWulf (2026-10-05)
+  - Found via: Supplementary post-cutoff regional search; TeraWulf October 5 power-agreement amendment.
+- **Raleigh Data Center Moratorium** (NC, On Hold)
+  - Source: Axios (2026-10-07)
+  - Found via: Stage-change search covering moratoria, approvals, cancellations and groundbreaking activity.
+
+## 2026-10-12 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **AWS Homer City Energy Campus Data Center Campus** (PA, Planned)
+  - Source: Data Center Dynamics (2026-10-06)
+  - Found via: PA state-announcement search; subsequently confirmed through Data Center Dynamics reporting on AWS's preliminary land-development filing.
+
+## 2026-10-12 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+3)
+
+- **Google Cheyenne Data Center** (WY, Planned)
+  - Source: Black Hills Corp. (2026-10-06)
+  - Found via: WY statewide announcement search and Google hyperscaler check.
+- **Project Longhorn - Building One** (TX, Planned, 490 MW)
+  - Source: Data Center Dynamics (2026-10-09)
+  - Found via: Industry-tracker search surfaced the October 9 TDLR filing coverage.
+- **Taylor Technology Campus** (TX, Planned, 500 MW)
+  - Source: Data Center Intelligence (2026-10-12)
+  - Found via: TX statewide announcement search and October 12 approval coverage.
+
+## 2026-10-12 — ERCOT (Texas) (delta run)
+
+### New projects (+1)
+
+- **Taylor Technology Campus (formerly Project Mustang)** (TX, Planned, 500 MW)
+  - Source: City of Taylor (2026-10-09)
+  - Found via: TX data center announced planned 2026 search; City of Taylor development-agreement update

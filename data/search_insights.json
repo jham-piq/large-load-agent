@@ -1,13 +1,13 @@
 {
   "SERC": {
-    "total_runs": 14,
-    "total_finds": 13,
+    "total_runs": 15,
+    "total_finds": 14,
     "sources": {
       "Fluor": 1,
       "TechRadar": 2,
       "NC DEQ": 2,
       "Tom's Hardware": 2,
-      "Axios": 2,
+      "Axios": 3,
       "Data Center Dynamics": 1,
       "CleanSpark, Inc.": 1,
       "The Rant": 1,
@@ -23,23 +23,26 @@
       "GA state announcement search; follow-up CleanSpark SEC filing": 1,
       "Supplementary post-cutoff regional search; permit issuance reported September 29, 2026.": 1,
       "Supplementary post-cutoff regional search; TeraWulf October 5 power-agreement amendment.": 1,
-      "Stage-change search covering moratoria, approvals, cancellations and groundbreaking activity.": 1
+      "Stage-change search covering moratoria, approvals, cancellations and groundbreaking activity.": 1,
+      "FL data center announced planned 2026; supplemental post-cutoff Florida moratorium search": 1
     },
     "states_with_finds": {
       "KY": 2,
       "TN": 2,
       "NC": 4,
       "LA": 1,
-      "GA": 4
+      "GA": 4,
+      "FL": 1
     },
     "states_no_finds_streak": {
-      "KY": 0,
-      "TN": 7,
-      "NC": 0,
-      "LA": 8,
-      "GA": 1
+      "KY": 1,
+      "TN": 8,
+      "NC": 1,
+      "LA": 9,
+      "GA": 2,
+      "FL": 0
     },
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-19"
   },
   "SPP": {
     "total_runs": 17,
@@ -127,8 +130,8 @@
     "last_updated": "2026-09-28"
   },
   "WECC": {
-    "total_runs": 11,
-    "total_finds": 10,
+    "total_runs": 12,
+    "total_finds": 11,
     "sources": {
       "PowerOnline": 1,
       "Goodman Group": 2,
@@ -138,7 +141,8 @@
       "Nevada Current": 1,
       "Google Blog": 1,
       "The Washington Sun": 1,
-      "Axios Colorado Springs": 1
+      "Axios Colorado Springs": 1,
+      "Albuquerque Journal": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
@@ -148,31 +152,32 @@
       "Stage-change follow-up on Nevada data-center moratorium and ban coverage.": 1,
       "Hyperscaler check and Data Center Dynamics regional search.": 1,
       "Stage-change and regional public-lands coverage.": 1,
-      "Colorado stage-change search and Axios reporting.": 1
+      "Colorado stage-change search and Axios reporting.": 1,
+      "NM state-announcement search; October reporting and a newly recorded Grant County filing.": 1
     },
     "states_with_finds": {
       "NV": 2,
       "CA": 3,
       "WY": 1,
       "AZ": 1,
-      "NM": 1,
+      "NM": 2,
       "ID": 1,
       "CO": 1
     },
     "states_no_finds_streak": {
-      "NV": 3,
-      "CA": 4,
-      "WY": 7,
-      "AZ": 5,
-      "CO": 1,
-      "NM": 1,
-      "ID": 1
+      "NV": 4,
+      "CA": 5,
+      "WY": 8,
+      "AZ": 6,
+      "CO": 2,
+      "NM": 0,
+      "ID": 2
     },
-    "last_updated": "2026-09-28"
+    "last_updated": "2026-10-19"
   },
   "PJM": {
-    "total_runs": 15,
-    "total_finds": 18,
+    "total_runs": 16,
+    "total_finds": 21,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
@@ -182,7 +187,9 @@
       "Engineering News-Record": 1,
       "West Virginia Public Broadcasting": 3,
       "Aligned Data Centers": 1,
-      "Limerick Township": 1
+      "Limerick Township": 1,
+      "WVXU": 1,
+      "WITF": 2
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -199,29 +206,31 @@
       "WV data center announced planned 2026 search; September 3 renewable-power procurement update.": 1,
       "PA state announcement search; confirmed through Aligned Data Centers' September 10 groundbreaking release.": 1,
       "PA new-announcement search; follow-up review of Limerick Township conditional-use agenda and planning materials.": 1,
-      "PA state-announcement search; subsequently confirmed through Data Center Dynamics reporting on AWS's preliminary land-development filing.": 1
+      "PA state-announcement search; subsequently confirmed through Data Center Dynamics reporting on AWS's preliminary land-development filing.": 1,
+      "Meta hyperscaler search; October 13 Mason County approval surfaced in the regional project tracker.": 1,
+      "Pennsylvania state-announcement search and October Swatara Township community-benefits update.": 2
     },
     "states_with_finds": {
-      "PA": 7,
+      "PA": 9,
       "TN": 1,
       "NC": 3,
       "VA": 1,
       "OH": 1,
       "NJ": 1,
-      "KY": 1,
+      "KY": 2,
       "WV": 3
     },
     "states_no_finds_streak": {
       "PA": 0,
-      "TN": 13,
-      "NC": 8,
-      "VA": 9,
-      "OH": 6,
-      "NJ": 5,
-      "KY": 4,
-      "WV": 3
+      "TN": 14,
+      "NC": 9,
+      "VA": 10,
+      "OH": 7,
+      "NJ": 6,
+      "KY": 0,
+      "WV": 4
     },
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-19"
   },
   "ERCOT": {
     "total_runs": 13,
@@ -287,30 +296,32 @@
     "last_updated": "2026-10-12"
   },
   "NEISO": {
-    "total_runs": 4,
-    "total_finds": 4,
+    "total_runs": 5,
+    "total_finds": 5,
     "sources": {
       "New Hampshire Public Radio": 1,
       "New Hampshire Bulletin": 1,
       "Boston.com": 1,
-      "FFCCT": 1
+      "FFCCT": 1,
+      "Government Technology": 1
     },
     "queries": {
       "NH state new-announcement search; reported May proposal and subsequent withdrawal/moratorium coverage": 1,
       "NH state announcement search; September reporting on FERC viability-assessment filings for the Bow large-load project.": 1,
       "MA data center announced planned 2026 search; Salem permit-revocation coverage": 1,
-      "Stage-change search and local-government follow-up; publicly reported September 30, 2026.": 1
+      "Stage-change search and local-government follow-up; publicly reported September 30, 2026.": 1,
+      "Stage-change search and follow-up reporting on the Cromwell Geer Street proposal.": 1
     },
     "states_with_finds": {
       "NH": 2,
       "MA": 1,
-      "CT": 1
+      "CT": 2
     },
     "states_no_finds_streak": {
-      "NH": 2,
-      "MA": 1,
+      "NH": 3,
+      "MA": 2,
       "CT": 0
     },
-    "last_updated": "2026-10-05"
+    "last_updated": "2026-10-19"
   }
 }

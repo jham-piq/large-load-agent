@@ -1009,3 +1009,41 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Taylor Technology Campus (formerly Project Mustang)** (TX, Planned, 500 MW)
   - Source: City of Taylor (2026-10-09)
   - Found via: TX data center announced planned 2026 search; City of Taylor development-agreement update
+
+## 2026-10-19 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **Site Layer 1 (Granite Renewables gas-powered data center)** (NM, Early Stage)
+  - Source: Albuquerque Journal (2026-10-09)
+  - Found via: NM state-announcement search; October reporting and a newly recorded Grant County filing.
+
+## 2026-10-19 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **Broward County Data Center Moratorium (proposed)** (FL, On Hold)
+  - Source: Axios (2026-10-15)
+  - Found via: FL data center announced planned 2026; supplemental post-cutoff Florida moratorium search
+
+## 2026-10-19 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+3)
+
+- **Meta Maysville Campus** (KY, Planned, 2200 MW)
+  - Source: WVXU (2026-10-15)
+  - Found via: Meta hyperscaler search; October 13 Mason County approval surfaced in the regional project tracker.
+- **Corscale Highlands East Data Center** (PA, Planned)
+  - Source: WITF (2026-10-08)
+  - Found via: Pennsylvania state-announcement search and October Swatara Township community-benefits update.
+- **Corscale Highlands West Data Center** (PA, Planned)
+  - Source: WITF (2026-10-08)
+  - Found via: Pennsylvania state-announcement search and October Swatara Township community-benefits update.
+
+## 2026-10-19 — ISO-NE (New England) (delta run)
+
+### New projects (+1)
+
+- **Global Common Cromwell Data Center Campus** (CT, Early Stage, 300 MW)
+  - Source: Government Technology (2026-10-16)
+  - Found via: Stage-change search and follow-up reporting on the Cromwell Geer Street proposal.

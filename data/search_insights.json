@@ -1,14 +1,14 @@
 {
   "SERC": {
-    "total_runs": 15,
-    "total_finds": 14,
+    "total_runs": 16,
+    "total_finds": 15,
     "sources": {
       "Fluor": 1,
       "TechRadar": 2,
       "NC DEQ": 2,
       "Tom's Hardware": 2,
       "Axios": 3,
-      "Data Center Dynamics": 1,
+      "Data Center Dynamics": 2,
       "CleanSpark, Inc.": 1,
       "The Rant": 1,
       "TeraWulf": 1
@@ -24,7 +24,8 @@
       "Supplementary post-cutoff regional search; permit issuance reported September 29, 2026.": 1,
       "Supplementary post-cutoff regional search; TeraWulf October 5 power-agreement amendment.": 1,
       "Stage-change search covering moratoria, approvals, cancellations and groundbreaking activity.": 1,
-      "FL data center announced planned 2026; supplemental post-cutoff Florida moratorium search": 1
+      "FL data center announced planned 2026; supplemental post-cutoff Florida moratorium search": 1,
+      "VA state announcement search and Data Center Dynamics industry-tracker search; confirmed by Loudoun County announcement.": 1
     },
     "states_with_finds": {
       "KY": 2,
@@ -32,17 +33,19 @@
       "NC": 4,
       "LA": 1,
       "GA": 4,
-      "FL": 1
+      "FL": 1,
+      "VA": 1
     },
     "states_no_finds_streak": {
-      "KY": 1,
-      "TN": 8,
-      "NC": 1,
-      "LA": 9,
-      "GA": 2,
-      "FL": 0
+      "KY": 2,
+      "TN": 9,
+      "NC": 2,
+      "LA": 10,
+      "GA": 3,
+      "FL": 1,
+      "VA": 0
     },
-    "last_updated": "2026-10-19"
+    "last_updated": "2026-10-26"
   },
   "SPP": {
     "total_runs": 17,
@@ -130,8 +133,8 @@
     "last_updated": "2026-09-28"
   },
   "WECC": {
-    "total_runs": 12,
-    "total_finds": 11,
+    "total_runs": 13,
+    "total_finds": 12,
     "sources": {
       "PowerOnline": 1,
       "Goodman Group": 2,
@@ -142,7 +145,8 @@
       "Google Blog": 1,
       "The Washington Sun": 1,
       "Axios Colorado Springs": 1,
-      "Albuquerque Journal": 1
+      "Albuquerque Journal": 1,
+      "Data Center Dynamics": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
@@ -153,11 +157,12 @@
       "Hyperscaler check and Data Center Dynamics regional search.": 1,
       "Stage-change and regional public-lands coverage.": 1,
       "Colorado stage-change search and Axios reporting.": 1,
-      "NM state-announcement search; October reporting and a newly recorded Grant County filing.": 1
+      "NM state-announcement search; October reporting and a newly recorded Grant County filing.": 1,
+      "CA data center announced planned 2026 search; independently corroborated through Data Center Dynamics reporting.": 1
     },
     "states_with_finds": {
       "NV": 2,
-      "CA": 3,
+      "CA": 4,
       "WY": 1,
       "AZ": 1,
       "NM": 2,
@@ -165,19 +170,19 @@
       "CO": 1
     },
     "states_no_finds_streak": {
-      "NV": 4,
-      "CA": 5,
-      "WY": 8,
-      "AZ": 6,
-      "CO": 2,
-      "NM": 0,
-      "ID": 2
+      "NV": 5,
+      "CA": 0,
+      "WY": 9,
+      "AZ": 7,
+      "CO": 3,
+      "NM": 1,
+      "ID": 3
     },
-    "last_updated": "2026-10-19"
+    "last_updated": "2026-10-26"
   },
   "PJM": {
-    "total_runs": 16,
-    "total_finds": 21,
+    "total_runs": 17,
+    "total_finds": 22,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
@@ -189,7 +194,8 @@
       "Aligned Data Centers": 1,
       "Limerick Township": 1,
       "WVXU": 1,
-      "WITF": 2
+      "WITF": 2,
+      "Loudoun County": 1
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -208,33 +214,34 @@
       "PA new-announcement search; follow-up review of Limerick Township conditional-use agenda and planning materials.": 1,
       "PA state-announcement search; subsequently confirmed through Data Center Dynamics reporting on AWS's preliminary land-development filing.": 1,
       "Meta hyperscaler search; October 13 Mason County approval surfaced in the regional project tracker.": 1,
-      "Pennsylvania state-announcement search and October Swatara Township community-benefits update.": 2
+      "Pennsylvania state-announcement search and October Swatara Township community-benefits update.": 2,
+      "Stage-change and hyperscaler searches; official Loudoun County announcement of Amazon's withdrawal.": 1
     },
     "states_with_finds": {
       "PA": 9,
       "TN": 1,
       "NC": 3,
-      "VA": 1,
+      "VA": 2,
       "OH": 1,
       "NJ": 1,
       "KY": 2,
       "WV": 3
     },
     "states_no_finds_streak": {
-      "PA": 0,
-      "TN": 14,
-      "NC": 9,
-      "VA": 10,
-      "OH": 7,
-      "NJ": 6,
-      "KY": 0,
-      "WV": 4
+      "PA": 1,
+      "TN": 15,
+      "NC": 10,
+      "VA": 0,
+      "OH": 8,
+      "NJ": 7,
+      "KY": 1,
+      "WV": 5
     },
-    "last_updated": "2026-10-19"
+    "last_updated": "2026-10-26"
   },
   "ERCOT": {
-    "total_runs": 13,
-    "total_finds": 24,
+    "total_runs": 14,
+    "total_finds": 26,
     "sources": {
       "Google Data Centers": 1,
       "Meta Newsroom": 2,
@@ -244,7 +251,9 @@
       "Bitdeer Technologies Group": 1,
       "Amazon": 1,
       "Crusoe": 1,
-      "City of Taylor": 1
+      "City of Taylor": 1,
+      "Texas Comptroller of Public Accounts": 1,
+      "Texas Commission on Environmental Quality": 1
     },
     "queries": {
       "Google data center TX 2026": 1,
@@ -260,40 +269,44 @@
       "site:datacenterdynamics.com TX 2026; newly filed TDLR project reported September 29.": 1,
       "site:datacenterdynamics.com TX data center 2026; October 2 report on newly registered TDLR filings.": 1,
       "Google data center TX 2026; Crusoe's September 28 confirmation of developer and end user.": 1,
-      "TX data center announced planned 2026 search; City of Taylor development-agreement update": 1
+      "TX data center announced planned 2026 search; City of Taylor development-agreement update": 1,
+      "Texas Comptroller qualifying-large-project registry cross-check following the required industry-tracker searches.": 1,
+      "Required ERCOT and Texas permit-source review; newly filed TCEQ air-permit record dated October 13.": 1
     },
     "states_with_finds": {
-      "TX": 24
+      "TX": 26
     },
     "states_no_finds_streak": {
       "TX": 0
     },
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-26"
   },
   "CAISO": {
-    "total_runs": 7,
-    "total_finds": 5,
+    "total_runs": 8,
+    "total_finds": 7,
     "sources": {
       "TechRadar": 1,
       "Goodman Group": 1,
       "Vallejo Sun": 1,
       "Abridged": 1,
-      "Data Center Dynamics": 1
+      "Data Center Dynamics": 3
     },
     "queries": {
       "California data center moratorium rezoning opposition 2026": 1,
       "Industry tracker search": 1,
       "New-announcement and industry-source searches; investor presentation reported by Vallejo Sun and corroborated by Fairfield economic-development discussion.": 1,
       "Sacramento large-load reporting surfaced through follow-up on required CA data-center and utility searches.": 1,
-      "Industry-tracker search and follow-up review of Data Center Dynamics coverage of new California redevelopment activity.": 1
+      "Industry-tracker search and follow-up review of Data Center Dynamics coverage of new California redevelopment activity.": 1,
+      "site:datacenterdynamics.com CA 2026 search; newly reported potential redevelopment plan.": 1,
+      "site:datacenterdynamics.com CA 2026 search; reported new mall-redevelopment concept.": 1
     },
     "states_with_finds": {
-      "CA": 5
+      "CA": 7
     },
     "states_no_finds_streak": {
       "CA": 0
     },
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-26"
   },
   "NEISO": {
     "total_runs": 5,

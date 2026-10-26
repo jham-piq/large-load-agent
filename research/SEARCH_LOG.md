@@ -1047,3 +1047,54 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Global Common Cromwell Data Center Campus** (CT, Early Stage, 300 MW)
   - Source: Government Technology (2026-10-16)
   - Found via: Stage-change search and follow-up reporting on the Cromwell Geer Street proposal.
+
+## 2026-10-26 — WECC (Western Interconnection) (delta run)
+
+### New projects (+1)
+
+- **Manchester Financial NAVWAR Old Town AI Data Center** (CA, Early Stage, 400 MW)
+  - Source: Data Center Dynamics (2026-10-19)
+  - Found via: CA data center announced planned 2026 search; independently corroborated through Data Center Dynamics reporting.
+
+## 2026-10-26 — CAISO (California) (delta run)
+
+### New projects (+2)
+
+- **Manchester Financial Group NAVWAR Data Center** (CA, Early Stage, 400 MW)
+  - Source: Data Center Dynamics (2026-10-19)
+  - Found via: site:datacenterdynamics.com CA 2026 search; newly reported potential redevelopment plan.
+- **San Francisco Centre AI Data Center Conversion** (CA, Early Stage)
+  - Source: Data Center Dynamics (2026-10-20)
+  - Found via: site:datacenterdynamics.com CA 2026 search; reported new mall-redevelopment concept.
+
+## 2026-10-26 — SERC (Southeast) (delta run)
+
+### New projects (+1)
+
+- **Amazon Bridgefield Tech Center** (VA, Cancelled)
+  - Source: Data Center Dynamics (2026-10-21)
+  - Found via: VA state announcement search and Data Center Dynamics industry-tracker search; confirmed by Loudoun County announcement.
+
+## 2026-10-26 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Amazon GWU Science and Technology Campus Data Center Project** (VA, Cancelled)
+  - Source: Loudoun County (2026-10-22)
+  - Found via: Stage-change and hyperscaler searches; official Loudoun County announcement of Amazon's withdrawal.
+
+## 2026-10-26 — ERCOT (Texas) (delta run)
+
+### New projects (+2)
+
+- **Alpha Digital Campus** (TX, Early Stage, 2000 MW)
+  - Source: Texas Comptroller of Public Accounts (2026-10-19)
+  - Found via: Texas Comptroller qualifying-large-project registry cross-check following the required industry-tracker searches.
+- **Borden County Data Center** (TX, Under Construction, 250 MW)
+  - Source: Texas Commission on Environmental Quality (2026-10-13)
+  - Found via: Required ERCOT and Texas permit-source review; newly filed TCEQ air-permit record dated October 13.
+
+### Stage updates (1)
+
+- **Project Kati 2 (Soluna) – Willacy County**: Announced / development (Phase 2) → Planned
+  - A TDLR filing identified a 471,884-square-foot, 112 MW Project Kati II building with an estimated $471.8 million cost, providing a more specific filed Phase 1 scope than the prior 100 MW development entry. The filing did not disclose a construction timeline.

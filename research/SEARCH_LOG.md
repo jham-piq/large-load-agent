@@ -1098,3 +1098,51 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **Project Kati 2 (Soluna) – Willacy County**: Announced / development (Phase 2) → Planned
   - A TDLR filing identified a 471,884-square-foot, 112 MW Project Kati II building with an estimated $471.8 million cost, providing a more specific filed Phase 1 scope than the prior 100 MW development entry. The filing did not disclose a construction timeline.
+
+## 2026-11-02 — NYISO (New York) (delta run)
+
+### New projects (+1)
+
+- **Micron New York Semiconductor Manufacturing Project** (NY, Under Construction, 800 MW)
+  - Source: National Grid (2026-10-28)
+  - Found via: Utility large-load search; National Grid's October 2026 Micron construction update
+
+## 2026-11-02 — WECC (Western Interconnection) (delta run)
+
+### Stage updates (1)
+
+- **Project Jupiter (Oracle / OpenAI / BorderPlex Digital)**: Under Construction → Under Construction
+  - First 855,000-square-foot building topped out; reporting newly described the four-building campus as capable of up to 2,500 MW at full build-out, replacing the prior unknown-MW record.
+
+## 2026-11-02 — SERC (Southeast) (delta run)
+
+### New projects (+2)
+
+- **Google West Creek Data Center Campus** (VA, Early Stage)
+  - Source: Goochland County (2026-10-27)
+  - Found via: VA state announcement and Google hyperscaler searches; confirmed through Goochland County's October 27 public disclosure.
+- **SpaceXAI Gun Range Data Center** (MS, Under Construction)
+  - Source: WLOX (2026-10-31)
+  - Found via: Post-cutoff Mississippi and Tennessee announcement searches; SpaceXAI's October 31 disclosure identified the previously approved Southaven facility as Gun Range.
+
+## 2026-11-02 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+1)
+
+- **Google West Creek Data Center Campus** (VA, Early Stage)
+  - Source: Goochland County (2026-10-27)
+  - Found via: VA data center announced planned 2026; Goochland County project disclosure
+
+## 2026-11-02 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+3)
+
+- **Beltline Energy Canadian County Data Center** (OK, Planned)
+  - Source: KOSU (2026-10-30)
+  - Found via: OK state-announcement search; October 27 Oklahoma City Council PUD approval.
+- **AWS Danville Data Center Campus** (MO, Early Stage)
+  - Source: Data Center Dynamics (2026-10-26)
+  - Found via: MO state-announcement search and Data Center Dynamics industry-tracker search.
+- **Mission Critical North Iowa Concord Township Data Center** (IA, Cancelled)
+  - Source: KSCJ 1360 (2026-10-13)
+  - Found via: Stage-change search; local reporting on the landowner's withdrawal from the proposed site deal.

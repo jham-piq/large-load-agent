@@ -1,7 +1,7 @@
 {
   "SERC": {
-    "total_runs": 16,
-    "total_finds": 15,
+    "total_runs": 17,
+    "total_finds": 17,
     "sources": {
       "Fluor": 1,
       "TechRadar": 2,
@@ -11,7 +11,9 @@
       "Data Center Dynamics": 2,
       "CleanSpark, Inc.": 1,
       "The Rant": 1,
-      "TeraWulf": 1
+      "TeraWulf": 1,
+      "Goochland County": 1,
+      "WLOX": 1
     },
     "queries": {
       "KY data center announced planned 2026": 1,
@@ -25,7 +27,9 @@
       "Supplementary post-cutoff regional search; TeraWulf October 5 power-agreement amendment.": 1,
       "Stage-change search covering moratoria, approvals, cancellations and groundbreaking activity.": 1,
       "FL data center announced planned 2026; supplemental post-cutoff Florida moratorium search": 1,
-      "VA state announcement search and Data Center Dynamics industry-tracker search; confirmed by Loudoun County announcement.": 1
+      "VA state announcement search and Data Center Dynamics industry-tracker search; confirmed by Loudoun County announcement.": 1,
+      "VA state announcement and Google hyperscaler searches; confirmed through Goochland County's October 27 public disclosure.": 1,
+      "Post-cutoff Mississippi and Tennessee announcement searches; SpaceXAI's October 31 disclosure identified the previously approved Southaven facility as Gun Range.": 1
     },
     "states_with_finds": {
       "KY": 2,
@@ -34,22 +38,24 @@
       "LA": 1,
       "GA": 4,
       "FL": 1,
-      "VA": 1
+      "VA": 2,
+      "MS": 1
     },
     "states_no_finds_streak": {
-      "KY": 2,
-      "TN": 9,
-      "NC": 2,
-      "LA": 10,
-      "GA": 3,
-      "FL": 1,
-      "VA": 0
+      "KY": 3,
+      "TN": 10,
+      "NC": 3,
+      "LA": 11,
+      "GA": 4,
+      "FL": 2,
+      "VA": 0,
+      "MS": 0
     },
-    "last_updated": "2026-10-26"
+    "last_updated": "2026-11-02"
   },
   "SPP": {
-    "total_runs": 17,
-    "total_finds": 30,
+    "total_runs": 18,
+    "total_finds": 33,
     "sources": {
       "CRN": 1,
       "Meta Newsroom": 1,
@@ -62,12 +68,14 @@
       "TechSpot": 1,
       "Tom's Hardware": 1,
       "Louisiana Economic Development": 1,
-      "Data Center Dynamics": 8,
+      "Data Center Dynamics": 9,
       "Prometheus Hyperscale": 2,
       "Axios": 1,
       "Lambda": 1,
       "Black Hills Corp.": 1,
-      "Data Center Intelligence": 1
+      "Data Center Intelligence": 1,
+      "KOSU": 1,
+      "KSCJ 1360": 1
     },
     "queries": {
       "Google Minnesota data center announcement": 1,
@@ -87,53 +95,58 @@
       "Data Center Dynamics industry-tracker search; confirmed through Lambda's September 27 announcement.": 1,
       "WY statewide announcement search and Google hyperscaler check.": 1,
       "Industry-tracker search surfaced the October 9 TDLR filing coverage.": 1,
-      "TX statewide announcement search and October 12 approval coverage.": 1
+      "TX statewide announcement search and October 12 approval coverage.": 1,
+      "OK state-announcement search; October 27 Oklahoma City Council PUD approval.": 1,
+      "MO state-announcement search and Data Center Dynamics industry-tracker search.": 1,
+      "Stage-change search; local reporting on the landowner's withdrawal from the proposed site deal.": 1
     },
     "states_with_finds": {
       "MN": 4,
-      "OK": 6,
+      "OK": 7,
       "AR": 2,
       "TX": 10,
-      "MO": 3,
+      "MO": 4,
       "LA": 1,
       "WY": 3,
-      "IA": 1
-    },
-    "states_no_finds_streak": {
-      "MN": 7,
-      "OK": 1,
-      "AR": 3,
-      "TX": 0,
-      "MO": 8,
-      "LA": 5,
-      "WY": 0,
       "IA": 2
     },
-    "last_updated": "2026-10-12"
+    "states_no_finds_streak": {
+      "MN": 8,
+      "OK": 0,
+      "AR": 4,
+      "TX": 1,
+      "MO": 0,
+      "LA": 6,
+      "WY": 1,
+      "IA": 0
+    },
+    "last_updated": "2026-11-02"
   },
   "NYISO": {
-    "total_runs": 7,
-    "total_finds": 4,
+    "total_runs": 8,
+    "total_finds": 5,
     "sources": {
       "PR Newswire": 2,
       "GlobeNewswire": 1,
-      "Is a Data Center Coming": 1
+      "Is a Data Center Coming": 1,
+      "National Grid": 1
     },
     "queries": {
       "Industry tracker search": 2,
       "PR Newswire": 1,
-      "Surfaced in the NYISO and industry-tracker search review through a September 25 filing-status update.": 1
+      "Surfaced in the NYISO and industry-tracker search review through a September 25 filing-status update.": 1,
+      "Utility large-load search; National Grid's October 2026 Micron construction update": 1
     },
     "states_with_finds": {
-      "NY": 4
+      "NY": 5
     },
     "states_no_finds_streak": {
       "NY": 0
     },
-    "last_updated": "2026-09-28"
+    "last_updated": "2026-11-02"
   },
   "WECC": {
-    "total_runs": 13,
+    "total_runs": 14,
     "total_finds": 12,
     "sources": {
       "PowerOnline": 1,
@@ -170,19 +183,19 @@
       "CO": 1
     },
     "states_no_finds_streak": {
-      "NV": 5,
-      "CA": 0,
-      "WY": 9,
-      "AZ": 7,
-      "CO": 3,
-      "NM": 1,
-      "ID": 3
+      "NV": 6,
+      "CA": 1,
+      "WY": 10,
+      "AZ": 8,
+      "CO": 4,
+      "NM": 2,
+      "ID": 4
     },
-    "last_updated": "2026-10-26"
+    "last_updated": "2026-11-02"
   },
   "PJM": {
-    "total_runs": 17,
-    "total_finds": 22,
+    "total_runs": 18,
+    "total_finds": 23,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
@@ -195,7 +208,8 @@
       "Limerick Township": 1,
       "WVXU": 1,
       "WITF": 2,
-      "Loudoun County": 1
+      "Loudoun County": 1,
+      "Goochland County": 1
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -215,29 +229,30 @@
       "PA state-announcement search; subsequently confirmed through Data Center Dynamics reporting on AWS's preliminary land-development filing.": 1,
       "Meta hyperscaler search; October 13 Mason County approval surfaced in the regional project tracker.": 1,
       "Pennsylvania state-announcement search and October Swatara Township community-benefits update.": 2,
-      "Stage-change and hyperscaler searches; official Loudoun County announcement of Amazon's withdrawal.": 1
+      "Stage-change and hyperscaler searches; official Loudoun County announcement of Amazon's withdrawal.": 1,
+      "VA data center announced planned 2026; Goochland County project disclosure": 1
     },
     "states_with_finds": {
       "PA": 9,
       "TN": 1,
       "NC": 3,
-      "VA": 2,
+      "VA": 3,
       "OH": 1,
       "NJ": 1,
       "KY": 2,
       "WV": 3
     },
     "states_no_finds_streak": {
-      "PA": 1,
-      "TN": 15,
-      "NC": 10,
+      "PA": 2,
+      "TN": 16,
+      "NC": 11,
       "VA": 0,
-      "OH": 8,
-      "NJ": 7,
-      "KY": 1,
-      "WV": 5
+      "OH": 9,
+      "NJ": 8,
+      "KY": 2,
+      "WV": 6
     },
-    "last_updated": "2026-10-26"
+    "last_updated": "2026-11-02"
   },
   "ERCOT": {
     "total_runs": 14,

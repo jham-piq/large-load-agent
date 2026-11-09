@@ -1146,3 +1146,82 @@ Use this to refine search queries and identify coverage gaps over time.
 - **Mission Critical North Iowa Concord Township Data Center** (IA, Cancelled)
   - Source: KSCJ 1360 (2026-10-13)
   - Found via: Stage-change search; local reporting on the landowner's withdrawal from the proposed site deal.
+
+## 2026-11-09 — NYISO (New York) (delta run)
+
+### Stage updates (4)
+
+- **TeraWulf Lake Mariner - CB-2B**: On Hold → Operational
+  - TeraWulf reported CB-2B as part of the 102 MW of operating, revenue-generating critical-IT capacity at the Lake Mariner campus.
+- **TeraWulf Lake Mariner - CB-3**: On Hold → Operational
+  - TeraWulf reported CB-3 as part of the 102 MW of operating, revenue-generating critical-IT capacity at the Lake Mariner campus.
+- **TeraWulf Lake Mariner - CB-4**: On Hold → Under Construction
+  - TeraWulf reported construction advancing, with 168 MW scheduled for phased delivery in November-December 2026.
+- **TeraWulf Lake Mariner - CB-5**: On Hold → Under Construction
+  - TeraWulf reported CB-5 under construction and targeting phased delivery in Q1 2027; the latest disclosed critical-IT capacity is 168 MW.
+
+## 2026-11-09 — WECC (Western Interconnection) (delta run)
+
+### New projects (+2)
+
+- **US Hwy 191 Data Center Campus (Cochise Supercomputer Campus)** (AZ, Early Stage, 6000 MW)
+  - Source: Cochise County (2026-11-06)
+  - Found via: AZ data center announced planned 2026; Cochise County application-status page and legal notice.
+- **RB Inyokern Data Center (RBIDC)** (CA, Early Stage, 99 MW)
+  - Source: California Energy Commission (2026-11-05)
+  - Found via: CA data center announced planned 2026; California Energy Commission Notice of Preparation docketed November 5, 2026.
+
+## 2026-11-09 — CAISO (California) (delta run)
+
+### New projects (+1)
+
+- **RB Inyokern Data Center** (CA, Early Stage, 99 MW)
+  - Source: California Energy Commission (2026-11-05)
+  - Found via: CA data center moratorium approved cancelled groundbreaking 2026; California Energy Commission Notice of Preparation search result
+
+## 2026-11-09 — SERC (Southeast) (delta run)
+
+### New projects (+2)
+
+- **AIB CLT1 Data Center** (SC, Planned, 50 MW)
+  - Source: Spartanburg County (2026-11-03)
+  - Found via: SC state-announcement search; Spartanburg County development-agreement materials.
+- **300 Jones Road Data Center** (SC, Planned, 65 MW)
+  - Source: Spartanburg County (2026-11-03)
+  - Found via: SC state-announcement search; Spartanburg County development-agreement materials.
+
+### Stage updates (1)
+
+- **NorthMark Strategies Spartanburg Data Center**: Planned → Planned
+  - Second reading was approved for the Numara LLC/Valara Holdings development agreement at 4000 S. Pine Street. The previously undisclosed project capacity is 457 MW; the agreement identifies at least $2.75666 billion of investment. Final county approval remained pending.
+
+## 2026-11-09 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+2)
+
+- **Project Country Roads** (WV, Early Stage, 1400 MW)
+  - Source: West Virginia Press Association (2026-11-07)
+  - Found via: WV data center announced planned 2026 search; follow-on Project Country Roads certification search.
+- **Lone Wolf Energy Center** (IN, Announced, 70 MW)
+  - Source: NextNRG (2026-11-05)
+  - Found via: Weekly new-project tracker review; corroborated by NextNRG announcement and local reporting.
+
+## 2026-11-09 — SPP (Southwest Power Pool) (delta run)
+
+### Stage updates (1)
+
+- **Google Cheyenne Data Center**: Planned → Planned
+  - Google formally announced its Cheyenne/Laramie County campus as a $17 billion Wyoming investment. The project has a contracted 702 MW Bloom Energy fuel-cell development with carbon capture and storage, plus planned gas-fired supply; the 702 MW figure is generation capacity, not a confirmed total data-center load.
+
+## 2026-11-09 — ISO-NE (New England) (delta run)
+
+### New projects (+1)
+
+- **Locke Road Micro Data Center** (NH, Early Stage, 15 MW)
+  - Source: New Hampshire Public Radio (2026-10-26)
+  - Found via: NH state announcement search and follow-up local Planning Board coverage.
+
+### Stage updates (1)
+
+- **Prime Group Shetland Park AI Inference Facility**: On Hold → Cancelled
+  - Salem Zoning Board of Appeals denied Prime Group's appeal seeking reinstatement of the revoked building permit, finding the proposed data-center use is not permitted under the city's zoning ordinance.

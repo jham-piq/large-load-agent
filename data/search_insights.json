@@ -1,7 +1,7 @@
 {
   "SERC": {
-    "total_runs": 17,
-    "total_finds": 17,
+    "total_runs": 18,
+    "total_finds": 19,
     "sources": {
       "Fluor": 1,
       "TechRadar": 2,
@@ -13,7 +13,8 @@
       "The Rant": 1,
       "TeraWulf": 1,
       "Goochland County": 1,
-      "WLOX": 1
+      "WLOX": 1,
+      "Spartanburg County": 2
     },
     "queries": {
       "KY data center announced planned 2026": 1,
@@ -29,7 +30,8 @@
       "FL data center announced planned 2026; supplemental post-cutoff Florida moratorium search": 1,
       "VA state announcement search and Data Center Dynamics industry-tracker search; confirmed by Loudoun County announcement.": 1,
       "VA state announcement and Google hyperscaler searches; confirmed through Goochland County's October 27 public disclosure.": 1,
-      "Post-cutoff Mississippi and Tennessee announcement searches; SpaceXAI's October 31 disclosure identified the previously approved Southaven facility as Gun Range.": 1
+      "Post-cutoff Mississippi and Tennessee announcement searches; SpaceXAI's October 31 disclosure identified the previously approved Southaven facility as Gun Range.": 1,
+      "SC state-announcement search; Spartanburg County development-agreement materials.": 2
     },
     "states_with_finds": {
       "KY": 2,
@@ -39,22 +41,24 @@
       "GA": 4,
       "FL": 1,
       "VA": 2,
-      "MS": 1
+      "MS": 1,
+      "SC": 2
     },
     "states_no_finds_streak": {
-      "KY": 3,
-      "TN": 10,
-      "NC": 3,
-      "LA": 11,
-      "GA": 4,
-      "FL": 2,
-      "VA": 0,
-      "MS": 0
+      "KY": 4,
+      "TN": 11,
+      "NC": 4,
+      "LA": 12,
+      "GA": 5,
+      "FL": 3,
+      "VA": 1,
+      "MS": 1,
+      "SC": 0
     },
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-09"
   },
   "SPP": {
-    "total_runs": 18,
+    "total_runs": 19,
     "total_finds": 33,
     "sources": {
       "CRN": 1,
@@ -111,19 +115,19 @@
       "IA": 2
     },
     "states_no_finds_streak": {
-      "MN": 8,
-      "OK": 0,
-      "AR": 4,
-      "TX": 1,
-      "MO": 0,
-      "LA": 6,
-      "WY": 1,
-      "IA": 0
+      "MN": 9,
+      "OK": 1,
+      "AR": 5,
+      "TX": 2,
+      "MO": 1,
+      "LA": 7,
+      "WY": 2,
+      "IA": 1
     },
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-09"
   },
   "NYISO": {
-    "total_runs": 8,
+    "total_runs": 9,
     "total_finds": 5,
     "sources": {
       "PR Newswire": 2,
@@ -141,13 +145,13 @@
       "NY": 5
     },
     "states_no_finds_streak": {
-      "NY": 0
+      "NY": 1
     },
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-09"
   },
   "WECC": {
-    "total_runs": 14,
-    "total_finds": 12,
+    "total_runs": 15,
+    "total_finds": 14,
     "sources": {
       "PowerOnline": 1,
       "Goodman Group": 2,
@@ -159,7 +163,9 @@
       "The Washington Sun": 1,
       "Axios Colorado Springs": 1,
       "Albuquerque Journal": 1,
-      "Data Center Dynamics": 1
+      "Data Center Dynamics": 1,
+      "Cochise County": 1,
+      "California Energy Commission": 1
     },
     "queries": {
       "Hyperscaler check for Google data centers in NV": 1,
@@ -171,31 +177,33 @@
       "Stage-change and regional public-lands coverage.": 1,
       "Colorado stage-change search and Axios reporting.": 1,
       "NM state-announcement search; October reporting and a newly recorded Grant County filing.": 1,
-      "CA data center announced planned 2026 search; independently corroborated through Data Center Dynamics reporting.": 1
+      "CA data center announced planned 2026 search; independently corroborated through Data Center Dynamics reporting.": 1,
+      "AZ data center announced planned 2026; Cochise County application-status page and legal notice.": 1,
+      "CA data center announced planned 2026; California Energy Commission Notice of Preparation docketed November 5, 2026.": 1
     },
     "states_with_finds": {
       "NV": 2,
-      "CA": 4,
+      "CA": 5,
       "WY": 1,
-      "AZ": 1,
+      "AZ": 2,
       "NM": 2,
       "ID": 1,
       "CO": 1
     },
     "states_no_finds_streak": {
-      "NV": 6,
-      "CA": 1,
-      "WY": 10,
-      "AZ": 8,
-      "CO": 4,
-      "NM": 2,
-      "ID": 4
+      "NV": 7,
+      "CA": 0,
+      "WY": 11,
+      "AZ": 0,
+      "CO": 5,
+      "NM": 3,
+      "ID": 5
     },
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-09"
   },
   "PJM": {
-    "total_runs": 18,
-    "total_finds": 23,
+    "total_runs": 19,
+    "total_finds": 25,
     "sources": {
       "Tom's Hardware": 2,
       "TechRadar": 3,
@@ -209,7 +217,9 @@
       "WVXU": 1,
       "WITF": 2,
       "Loudoun County": 1,
-      "Goochland County": 1
+      "Goochland County": 1,
+      "West Virginia Press Association": 1,
+      "NextNRG": 1
     },
     "queries": {
       "PA data center announced planned 2026": 3,
@@ -230,7 +240,9 @@
       "Meta hyperscaler search; October 13 Mason County approval surfaced in the regional project tracker.": 1,
       "Pennsylvania state-announcement search and October Swatara Township community-benefits update.": 2,
       "Stage-change and hyperscaler searches; official Loudoun County announcement of Amazon's withdrawal.": 1,
-      "VA data center announced planned 2026; Goochland County project disclosure": 1
+      "VA data center announced planned 2026; Goochland County project disclosure": 1,
+      "WV data center announced planned 2026 search; follow-on Project Country Roads certification search.": 1,
+      "Weekly new-project tracker review; corroborated by NextNRG announcement and local reporting.": 1
     },
     "states_with_finds": {
       "PA": 9,
@@ -240,19 +252,21 @@
       "OH": 1,
       "NJ": 1,
       "KY": 2,
-      "WV": 3
+      "WV": 4,
+      "IN": 1
     },
     "states_no_finds_streak": {
-      "PA": 2,
-      "TN": 16,
-      "NC": 11,
-      "VA": 0,
-      "OH": 9,
-      "NJ": 8,
-      "KY": 2,
-      "WV": 6
+      "PA": 3,
+      "TN": 17,
+      "NC": 12,
+      "VA": 1,
+      "OH": 10,
+      "NJ": 9,
+      "KY": 3,
+      "WV": 0,
+      "IN": 0
     },
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-09"
   },
   "ERCOT": {
     "total_runs": 14,
@@ -297,14 +311,15 @@
     "last_updated": "2026-10-26"
   },
   "CAISO": {
-    "total_runs": 8,
-    "total_finds": 7,
+    "total_runs": 9,
+    "total_finds": 8,
     "sources": {
       "TechRadar": 1,
       "Goodman Group": 1,
       "Vallejo Sun": 1,
       "Abridged": 1,
-      "Data Center Dynamics": 3
+      "Data Center Dynamics": 3,
+      "California Energy Commission": 1
     },
     "queries": {
       "California data center moratorium rezoning opposition 2026": 1,
@@ -313,21 +328,22 @@
       "Sacramento large-load reporting surfaced through follow-up on required CA data-center and utility searches.": 1,
       "Industry-tracker search and follow-up review of Data Center Dynamics coverage of new California redevelopment activity.": 1,
       "site:datacenterdynamics.com CA 2026 search; newly reported potential redevelopment plan.": 1,
-      "site:datacenterdynamics.com CA 2026 search; reported new mall-redevelopment concept.": 1
+      "site:datacenterdynamics.com CA 2026 search; reported new mall-redevelopment concept.": 1,
+      "CA data center moratorium approved cancelled groundbreaking 2026; California Energy Commission Notice of Preparation search result": 1
     },
     "states_with_finds": {
-      "CA": 7
+      "CA": 8
     },
     "states_no_finds_streak": {
       "CA": 0
     },
-    "last_updated": "2026-10-26"
+    "last_updated": "2026-11-09"
   },
   "NEISO": {
-    "total_runs": 5,
-    "total_finds": 5,
+    "total_runs": 6,
+    "total_finds": 6,
     "sources": {
-      "New Hampshire Public Radio": 1,
+      "New Hampshire Public Radio": 2,
       "New Hampshire Bulletin": 1,
       "Boston.com": 1,
       "FFCCT": 1,
@@ -338,18 +354,19 @@
       "NH state announcement search; September reporting on FERC viability-assessment filings for the Bow large-load project.": 1,
       "MA data center announced planned 2026 search; Salem permit-revocation coverage": 1,
       "Stage-change search and local-government follow-up; publicly reported September 30, 2026.": 1,
-      "Stage-change search and follow-up reporting on the Cromwell Geer Street proposal.": 1
+      "Stage-change search and follow-up reporting on the Cromwell Geer Street proposal.": 1,
+      "NH state announcement search and follow-up local Planning Board coverage.": 1
     },
     "states_with_finds": {
-      "NH": 2,
+      "NH": 3,
       "MA": 1,
       "CT": 2
     },
     "states_no_finds_streak": {
-      "NH": 3,
-      "MA": 2,
-      "CT": 0
+      "NH": 0,
+      "MA": 3,
+      "CT": 1
     },
-    "last_updated": "2026-10-19"
+    "last_updated": "2026-11-09"
   }
 }

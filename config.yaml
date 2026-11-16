@@ -25,10 +25,9 @@ regions:
   id: WECC
   last_run: '2026-11-09'
   mode: delta
-  name: WECC (Western Interconnection)
+  name: WECC (Western Interconnection, excl. California)
   slack_channel: '#proj-large-load-queue'
   state_abbrevs:
-  - CA
   - OR
   - WA
   - NV
@@ -40,7 +39,6 @@ regions:
   - WY
   - NM
   states:
-  - CA
   - OR
   - WA
   - NV
@@ -52,10 +50,6 @@ regions:
   - WY
   - NM
   utilities:
-  - Pacific Gas & Electric (PG&E)
-  - Southern California Edison (SCE)
-  - San Diego Gas & Electric (SDG&E)
-  - Los Angeles Department of Water and Power (LADWP)
   - Portland General Electric
   - PacifiCorp
   - NV Energy
@@ -275,3 +269,64 @@ regions:
   - Lower Colorado River Authority (LCRA)
   - Austin Energy
   - CPS Energy (San Antonio)
+- drive_file_id: data/MISO_Large_Load_Projects.csv
+  id: MISO
+  last_run: null
+  mode: full
+  name: MISO (Midcontinent)
+  slack_channel: '#proj-large-load-queue'
+  state_abbrevs:
+  - MN
+  - IA
+  - WI
+  - MI
+  - IL
+  - IN
+  - MO
+  - AR
+  - LA
+  - MS
+  - ND
+  - SD
+  - KY
+  - TX
+  states:
+  - MN
+  - IA
+  - WI
+  - MI
+  - IL
+  - IN
+  - MO
+  - AR
+  - LA
+  - MS
+  - ND
+  - SD
+  - KY
+  - TX
+  utilities:
+  - Entergy Arkansas
+  - Entergy Louisiana
+  - Entergy Mississippi
+  - Entergy Texas
+  - Entergy New Orleans
+  - Cleco
+  - Ameren Missouri
+  - Ameren Illinois
+  - Xcel Energy (Northern States Power)
+  - Alliant Energy
+  - MidAmerican Energy
+  - We Energies
+  - Wisconsin Public Service
+  - Madison Gas & Electric
+  - Consumers Energy
+  - DTE Energy
+  - NIPSCO
+  - Duke Energy Indiana
+  - AES Indiana
+  - CenterPoint Energy Indiana
+  - Otter Tail Power
+  - Minnesota Power
+  - Great River Energy
+  - Big Rivers Electric

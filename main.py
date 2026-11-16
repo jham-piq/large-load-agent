@@ -132,6 +132,8 @@ def run_region(region, cfg, drive, slack, agent, dry_run, mode_override):
 
     region["drive_file_id"] = new_file_path
     region["last_run"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    if region.get("mode") == "full":
+        region["mode"] = "auto"  # a full pass is one-shot; later weeks run as delta
     save_config(cfg)
 
     file_url = drive.get_file_url(new_file_path)

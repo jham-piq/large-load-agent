@@ -18,6 +18,13 @@ Today's date: {today}. Search window: **since {since_date}**.
 {search_insights}
 ---
 
+### Region boundary
+
+Only include a project if it will be served by one of this region's utilities listed above
+(or another utility inside the {region_id} footprint). States like TX, VA, KY, MO, AR, LA and IL
+are split across regions, so check the serving utility, not just the state. If the project
+belongs to a different region, leave it out.
+
 ## Your Task
 
 Search for **new large load projects** (data centers, AI campuses, crypto mining, HPC,

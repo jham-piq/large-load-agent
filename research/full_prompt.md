@@ -68,3 +68,10 @@ Each row in new_rows uses the same schema as the delta prompt, including the `fo
 4. size_mw: MW capacity only — never put dollar amounts or investment figures here; use investment_millions for costs
 5. state: 2-letter abbreviation only
 6. geometry, point_of_interconnection.line_name, onsite_generation.technology: always null
+
+### Region boundary
+
+Only include a project if it will be served by one of this region's utilities listed above
+(or another utility inside the {region_id} footprint). States like TX, VA, KY, MO, AR, LA and IL
+are split across regions, so check the serving utility, not just the state. If the project
+belongs to a different region, leave it out.

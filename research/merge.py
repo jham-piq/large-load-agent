@@ -8,8 +8,26 @@ from datetime import datetime, timezone
 from difflib import SequenceMatcher
 
 import pandas as pd
+from pathlib import Path
 
 log = logging.getLogger(__name__)
+
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+
+
+def _names_in_other_regions(region_id):
+    """Lower-cased project names already tracked in every other region's CSV."""
+    names = {}
+    for path in DATA_DIR.glob("*_Large_Load_Projects.csv"):
+        other = path.name.split("_")[0]
+        if other.upper() == str(region_id).upper():
+            continue
+        try:
+            for n in pd.read_csv(path, usecols=["name"])["name"].dropna():
+                names[n.lower().strip()] = other
+        except Exception as e:  # a bad file shouldn't block this region's run
+            log.warning(f"Could not read {path.name} for cross-region check: {e}")
+    return names
 
 VALID_STAGES = {
     "Announced", "Early Stage", "Planned", "Under Construction",
@@ -76,6 +94,17 @@ def merge_results(existing_df, new_rows, stage_updates, region_id):
         dupes = before - len(valid_rows)
         if dupes:
             log.info(f"Dropped {dupes} duplicate row(s) already in existing dataset")
+
+    # Same project already filed under another region -> skip (fix region by hand if wrong)
+    other = _names_in_other_regions(region_id)
+    kept = []
+    for r in valid_rows:
+        hit = other.get(r["name"].lower().strip())
+        if hit:
+            log.warning(f"Skipping '{r['name']}': already tracked in {hit}")
+        else:
+            kept.append(r)
+    valid_rows = kept
 
     if stage_updates and not existing_df.empty:
         for update in stage_updates:
@@ -168,6 +197,12 @@ def _enforce_schema(df: pd.DataFrame) -> pd.DataFrame:
     for col in NUMERIC_COLS:
         if col in df.columns:
             df[col] = df[col].apply(_clean_numeric)
+
+    # Flag stages outside the allowed set (new rows are validated; this catches old rows)
+    bad_stage = df["stage"].notna() & ~df["stage"].isin(VALID_STAGES)
+    if bad_stage.any():
+        log.warning(f"{bad_stage.sum()} row(s) have non-standard stage values: "
+                    f"{sorted(df.loc[bad_stage, 'stage'].unique())[:5]}")
 
     # Ensure phase is never null — Atlas uses name+phase as deterministic ID
     if "phase" in df.columns:

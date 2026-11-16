@@ -45,3 +45,10 @@
   source_type: atlas/load_projects_data
   source_group_id: 1f33493b-a0c1-4bbb-b4b9-e48cdc753383
   description: LLQ - ERCOT. Updated 5/26/2026.
+
+# TODO: register MISO in Atlas and fill in its source_group_id
+# - local_filepath: "/Users/jordnhm/Desktop/large-load-agent-main/data/MISO_Large_Load_Projects.csv"
+#   source_location: data_objs/atlas/LLQ/MISO_Large_Load_Projects.csv
+#   source_type: atlas/load_projects_data
+#   source_group_id: <new Atlas source group id>
+#   description: LLQ - MISO.

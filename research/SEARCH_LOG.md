@@ -1225,3 +1225,79 @@ Use this to refine search queries and identify coverage gaps over time.
 
 - **Prime Group Shetland Park AI Inference Facility**: On Hold → Cancelled
   - Salem Zoning Board of Appeals denied Prime Group's appeal seeking reinstatement of the revoked building permit, finding the proposed data-center use is not permitted under the city's zoning ordinance.
+
+## 2026-11-16 — SERC (Southeast) (delta run)
+
+### New projects (+2)
+
+- **Auburndale Technology Center** (FL, Planned, 700 MW)
+  - Source: Spectrum News 9 (2026-11-10)
+  - Found via: FL data center announced planned 2026 search; post-cutoff local reporting on the public workshop and permit application.
+- **Dade County Industrial Park Data Center Proposal** (GA, On Hold, 300 MW)
+  - Source: Baxtel (2026-11-10)
+  - Found via: GA data center announced planned 2026 search; Baxtel follow-up on the county moratorium.
+
+### Stage updates (1)
+
+- **NorthMark Strategies Spartanburg Data Center**: Planned → Planned
+  - A development agreement identifies Numara LLC and Valara Holdings LLC as project entities and discloses a 457 MW data center at 4000 S Pine Street, with at least $2.757 billion of anticipated investment. The agreement provides vested-development protections but states that additional development permits and approvals remain required.
+
+## 2026-11-16 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### New projects (+4)
+
+- **TeraWulf Muskie Data Campus** (KY, Planned, 1000 MW)
+  - Source: Kentucky Power (2026-11-13)
+  - Found via: KY data center announced planned 2026; current Kentucky Power PSC filing and TeraWulf large-load agreement update.
+- **AWS Wilmington Data Center Campus** (OH, Planned)
+  - Source: Data Center Fights (2026-11-10)
+  - Found via: Amazon AWS data center VA, MD, PA, OH, IN, IL, WV, DE, NJ, MI, NC, KY, TN 2026; November 10 Wilmington site-plan approval.
+- **Amazon Data Services Wheatfield Data Center** (IN, Planned)
+  - Source: Indiana Department of Environmental Management (2026-11-10)
+  - Found via: IN data center announced planned 2026; IDEM air-permit hearing held November 10.
+- **DC BLOX Thunderbird Data Center** (IN, Planned, 100 MW)
+  - Source: Axios Indianapolis (2026-11-10)
+  - Found via: IN data center announced planned 2026 and utility/stage-change searches; November 10 reporting on the incentive-package committee vote.
+
+## 2026-11-16 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **SpaceX Starbase Super-compute Facility** (TX, Announced)
+  - Source: Texas Tribune (2026-11-10)
+  - Found via: TX state announcement search; public-hearing coverage of SpaceX's newly disclosed Starbase project.
+
+## 2026-11-16 — ISO-NE (New England) (delta run)
+
+### New projects (+1)
+
+- **Unified Parkway Data Center Campus** (MA, Early Stage, 900 MW)
+  - Source: Town of Sutton (2026-11-10)
+  - Found via: MA data center announced planned 2026 search; confirmed through Town of Sutton project page and Select Board materials.
+
+## 2026-11-16 — ERCOT (Texas) (delta run)
+
+### New projects (+5)
+
+- **Riot Corsicana AI/HPC Expansion** (TX, Planned, 910 MW)
+  - Source: Riot Platforms Form 10-Q (2026-11-04)
+  - Found via: DCD Texas search and SEC filing review; the lease became binding on November 4, 2026. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1167419/000110465926122417/riot-20260930x10q.htm))
+- **Clocktower Quanah Data Center Campus** (TX, Planned, 756 MW)
+  - Source: Data Center Dynamics (2026-11-10)
+  - Found via: Surfaced in the required DCD Texas search; the TDLR filing was reported November 10, 2026. ([datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/application-filed-for-8bn-data-center-project-in-quanah-texas/?sid=%7B$sid_secret%7D))
+- **Circle T Data Center (DAL130 Campus)** (TX, Planned, 300 MW)
+  - Source: Town of Westlake (2026-11-12)
+  - Found via: Stage-change and utility search; Westlake confirmed Council approval of Resolution 26-36, and its project presentation identifies the planned Oncor substation and 300 MW load. ([westlaketx.gov](https://westlaketx.gov/m/newsflash/Home/Detail/840?utm_source=openai))
+- **Aetheris Project Matter** (TX, Planned, 96 MW)
+  - Source: Cottle County (2026-11-09)
+  - Found via: Stage-change and regional search; local incentive approval was reported after the November 9 Commissioners Court action. ([texasconstructionhub.com](https://www.texasconstructionhub.com/stories/cottle-county-project-matter-11b-incentives-approved?utm_source=openai))
+- **SpaceX Starbase Supercomputing Facility** (TX, Planned, 748 MW)
+  - Source: Reuters (2026-11-09)
+  - Found via: Required Texas announcement and hyperscaler searches; Reuters reported the project and Starbase incentive process, while subsequent reporting detailed the 748 MW turbine filing. ([investing.com](https://www.investing.com/news/stock-market-news/spacex-plans-24-billion-gas-power-plant-data-center-project-in-texas-5013083?utm_source=openai))
+
+### Stage updates (2)
+
+- **Alpha Digital Campus**: Early Stage → Under Construction
+  - PowerBridge reported that it had broken ground and that initial site work began in October. The more-than-2 GW powered-land campus is targeting first power from an initial 300 MW phase in Q4 2027. ([datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/))
+- **Fermi America – Texas Panhandle Data Centre Campus (Amarillo area)**: Announced / early concept → Early Stage
+  - Fermi disclosed a nonbinding 600 MW hyperscaler commitment with a $200 million prepayment and a site-development framework, while terminating the prior TensorWave lease and related AMD credit support. The announced 600 MW customer has not executed a definitive lease. ([datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/))

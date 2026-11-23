@@ -1301,3 +1301,166 @@ Use this to refine search queries and identify coverage gaps over time.
   - PowerBridge reported that it had broken ground and that initial site work began in October. The more-than-2 GW powered-land campus is targeting first power from an initial 300 MW phase in Q4 2027. ([datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/))
 - **Fermi America – Texas Panhandle Data Centre Campus (Amarillo area)**: Announced / early concept → Early Stage
   - Fermi disclosed a nonbinding 600 MW hyperscaler commitment with a $200 million prepayment and a site-development framework, while terminating the prior TensorWave lease and related AMD credit support. The announced 600 MW customer has not executed a definitive lease. ([datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/))
+
+## 2026-11-23 — WECC (Western Interconnection, excl. California) (delta run)
+
+### New projects (+1)
+
+- **Peabody Energy & Technology Park – Spaeth Ranch Data Center** (WY, Early Stage, 300 MW)
+  - Source: Campbell County (2026-11-18)
+  - Found via: WY data center announced planned 2026 search; Campbell County public-hearing materials.
+
+## 2026-11-23 — CAISO (California) (delta run)
+
+### New projects (+1)
+
+- **NewYork GreenCloud Ione Biomass-Powered Data Center** (CA, Early Stage, 14 MW)
+  - Source: Sacramento Bee (2026-11-22)
+  - Found via: New-announcement search and follow-up coverage of the November 19 Amador County permit filing.
+
+## 2026-11-23 — SERC (Southeast) (delta run)
+
+### New projects (+2)
+
+- **Project Marvel (Bessemer Hyperscale Data Center)** (AL, Planned, 1200 MW)
+  - Source: Colliers Alabama (2026-11-18)
+  - Found via: AL new-announcement and stage-change searches; post-window final-entitlement update.
+- **Fayette Technology Campus** (TN, Announced)
+  - Source: WREG News Channel 3 (2026-11-19)
+  - Found via: TN new-announcement search and hyperscaler/industry follow-up coverage.
+
+### Stage updates (3)
+
+- **NorthMark Strategies Spartanburg Data Center**: Planned → Planned
+  - County Council gave final approval to the Numara LLC/Valara Holdings development agreement for the 4000 S. Pine Street high-performance-computing campus. The agreement newly specifies 457 MW and at least $2.75666 billion of investment; public reporting identifies this as the Valara/NorthMark project.
+- **AIB CLT1 Data Center**: Planned → Planned
+  - Spartanburg County Council gave final approval to the development agreement for the 50 MW AIB CLT1 project at 389 Tyger River Industrial Drive.
+- **300 Jones Road Data Center**: Planned → Planned
+  - Spartanburg County Council gave final approval to the development agreement for the up-to-65-MW project at or near 430 Jones Road.
+
+## 2026-11-23 — PJM (Mid-Atlantic & Midwest) (delta run)
+
+### Stage updates (1)
+
+- **Vantage Millersport Campus**: Planned → Under Construction
+  - Ohio Power Siting Board approved the adjacent Fairfield Energy Center, a dedicated 1,300 MW natural-gas generation facility with up to 1,000 MW of battery storage for the Vantage campus. The campus itself is under construction; current published plans describe four data center buildings and 696 MW of IT capacity.
+
+## 2026-11-23 — SPP (Southwest Power Pool) (delta run)
+
+### New projects (+1)
+
+- **Spaeth Ranch Energy Park Data Center** (WY, Early Stage, 300 MW)
+  - Source: Campbell County, Wyoming (2026-11-18)
+  - Found via: WY state new-announcement query; Campbell County public-hearing materials
+
+## 2026-11-23 — ERCOT (Texas) (delta run)
+
+### New projects (+2)
+
+- **STN / ChronoScale Odessa AI Campus** (TX, Planned, 350 MW)
+  - Source: STN (2026-11-18)
+  - Found via: Surfaced through the required site:datacenterdynamics.com TX 2026 search and confirmed through STN's November 18 partnership announcement.
+- **Project Clay** (TX, Under Construction, 60 MW)
+  - Source: Giga Energy (2026-11-17)
+  - Found via: Surfaced through the required site:datacenterdynamics.com TX 2026 search and confirmed through Giga Energy's November 17 lease announcement.
+
+## 2026-11-23 — MISO (Midcontinent) (full run)
+
+### New projects (+32)
+
+- **Unknown** (MN, Planned, 780 MW)
+  - Source: Citizens Utility Board of Minnesota (2026-10-19)
+  - Found via: MN data center announced planned 2026 MW developer; Minnesota PUC electric-service-agreement tracking
+- **Unknown** (MN, Planned, 500 MW)
+  - Source: Citizens Utility Board of Minnesota (2026-10-19)
+  - Found via: MN data center announced planned 2026 MW developer; Minnesota PUC electric-service-agreement tracking
+- **Unknown** (MN, Planned, 325 MW)
+  - Source: MISO (2025-04-14)
+  - Found via: MISO planning-material review
+- **Unknown** (MN, Early Stage, 708 MW)
+  - Source: Every Data Center (2026-11-23)
+  - Found via: MN data center announced planned 2026 MW developer; local permitting and utility-service research
+- **Unknown** (IA, Planned, 444 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Iowa large-data-center project inventory
+- **Unknown** (IA, Planned, 207 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Iowa large-data-center project inventory
+- **Unknown** (IA, Planned, 113 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Iowa large-data-center project inventory
+- **Unknown** (IA, Planned, 400 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Iowa large-data-center project inventory
+- **Unknown** (IA, Under Construction, 1133 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Alliant Energy and Cedar Rapids project disclosures
+- **Unknown** (IA, Under Construction, 360 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Cedar Rapids economic-development records
+- **Unknown** (IA, Under Construction, 300 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Cedar Rapids economic-development records
+- **Unknown** (IA, Planned, 570 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Iowa large-data-center project inventory
+- **Unknown** (IA, Planned, 1100 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; local opposition and utility-load research
+- **Unknown** (IA, Planned, 200 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; Iowa large-data-center project inventory
+- **Unknown** (IA, Under Construction, 200 MW)
+  - Source: Clean Energy Districts (2026-11-23)
+  - Found via: IA data center announced planned 2026 MW developer; developer construction reporting
+- **Unknown** (WI, Under Construction, 220 MW)
+  - Source: Alliant Energy (2025-11-12)
+  - Found via: WI data center announced planned 2026 MW developer; Alliant Energy large-load disclosure
+- **Unknown** (WI, Under Construction, 338 MW)
+  - Source: Cleanview (2026-11-23)
+  - Found via: WI data center announced planned 2026 MW developer; Cleanview construction tracking
+- **Unknown** (WI, Under Construction, 1300 MW)
+  - Source: WEC Energy Group (2026-09-01)
+  - Found via: WI data center announced planned 2026 MW developer; utility transmission-plan and developer research
+- **Unknown** (MI, Under Construction, 1400 MW)
+  - Source: Oracle (2026-06-01)
+  - Found via: MI data center announced planned 2026 MW developer; DTE large-load and developer construction disclosures
+- **Unknown** (MI, Planned, 1000 MW)
+  - Source: Michigan Public Service Commission (2026-10-01)
+  - Found via: MI data center announced planned 2026 MW developer; Michigan PSC special-contract docket
+- **Unknown** (IN, Under Construction, 2250 MW)
+  - Source: Indiana Department of Environmental Management (2026-11-23)
+  - Found via: IN data center announced planned 2026 MW developer; Indiana environmental-permit and utility-service research
+- **Unknown** (IL, Early Stage, 1000 MW)
+  - Source: Data Center Fights (2026-10-22)
+  - Found via: IL data center announced planned 2026 MW developer MISO utility; Ameren Illinois site study and local land-use reporting
+- **Unknown** (AR, Planned, 1000 MW)
+  - Source: Data Center Dynamics (2026-01-13)
+  - Found via: AR data center announced planned 2026 MW developer; developer and Entergy Arkansas announcement
+- **Unknown** (AR, Under Construction, 600 MW)
+  - Source: Data Center Dynamics (2026-10-20)
+  - Found via: AR data center announced planned 2026 MW developer; Entergy Arkansas clean-energy and grid-upgrade announcement
+- **Unknown** (LA, Under Construction, 5000 MW)
+  - Source: Meta Data Centers (2026-07-13)
+  - Found via: LA data center announced planned 2026 MW developer Entergy; Louisiana PSC docket and Meta project update
+- **Unknown** (LA, Under Construction, 300 MW)
+  - Source: Applied Digital (2026-04-21)
+  - Found via: LA data center announced planned 2026 MW developer Entergy; Cleco and Applied Digital project disclosures
+- **Unknown** (MS, Under Construction, 116 MW)
+  - Source: Data Center Dynamics (2025-09-13)
+  - Found via: MS data center announced planned 2026 MW developer Entergy; developer groundbreaking announcement
+- **Unknown** (ND, Under Construction, 200 MW)
+  - Source: Data Center Dynamics (2026-09-02)
+  - Found via: ND data center announced planned 2026 MW developer MISO; Applied Digital portfolio and local permitting research
+- **Unknown** (ND, Under Construction, 430 MW)
+  - Source: Western Dakota Energy Association (2026-08-07)
+  - Found via: ND data center announced planned 2026 MW developer MISO; utility service agreement and county permitting research
+- **Unknown** (SD, Planned, 500 MW)
+  - Source: Data Center Dynamics (2026-03-17)
+  - Found via: SD data center announced planned 2026 MW developer MISO; local rezoning and Xcel Energy substation research
+- **Unknown** (KY, Planned, 482 MW)
+  - Source: Big Rivers Electric Corporation (2026-11-05)
+  - Found via: KY data center announced planned 2026 MW developer MISO utility; Kentucky PSC and Big Rivers Electric briefing
+- **Unknown** (KY, Announced, 1800 MW)
+  - Source: U.S. Department of Energy (2026-07-29)
+  - Found via: KY data center announced planned 2026 MW developer MISO utility; DOE site-selection announcement
